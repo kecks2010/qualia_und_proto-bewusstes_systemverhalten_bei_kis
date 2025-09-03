@@ -29,6 +29,15 @@
   morestring=[b]'
 }
 
+% --- UTF-8 Unterstützung für Listings ---
+\lstset{
+  extendedchars=true,
+  inputencoding=utf8,
+  literate={ä}{{\"a}}1 {ö}{{\"o}}1 {ü}{{\"u}}1 
+           {Ä}{{\"A}}1 {Ö}{{\"O}}1 {Ü}{{\"U}}1 
+           {ß}{{\ss}}1
+}
+
 \lstset{frame=tb,
   language=python,
   aboveskip=3mm,
@@ -43,12 +52,7 @@
   stringstyle=\color{mauve},
   breaklines=true,
   breakatwhitespace=true,
-  tabsize=3,
-  extendedchars=true,
-  inputencoding=utf8,
-  literate={ä}{{\"a}}1 {ö}{{\"o}}1 {ü}{{\"u}}1 
-           {Ä}{{\"A}}1 {Ö}{{\"O}}1 {Ü}{{\"U}}1 
-           {ß}{{\ss}}1
+  tabsize=3
 }
 
 \title{Qualia und proto-bewusstes Systemverhalten bei KIs}
