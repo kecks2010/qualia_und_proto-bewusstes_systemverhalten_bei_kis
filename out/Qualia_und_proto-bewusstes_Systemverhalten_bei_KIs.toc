@@ -1,113 +1,53 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {chapter}{Einleitung}{7}{chapter*.2}%
-\contentsline {section}{Motivation}{7}{section*.3}%
-\contentsline {section}{Ziele}{8}{section*.4}%
-\contentsline {section}{Motivation}{8}{section*.5}%
-\contentsline {subsection}{Einordnung der Methode}{8}{section*.6}%
-\contentsline {subsection}{Grundlagen der Validität}{8}{section*.7}%
-\contentsline {subsection}{Begrenzung der Aussagekraft}{8}{section*.8}%
-\contentsline {subsection}{Begründete Validierung}{8}{section*.9}%
-\contentsline {subsection}{Erstellung dieser Arbeit}{9}{section*.10}%
-\contentsline {section}{Fazit}{9}{section*.11}%
-\contentsline {chapter}{Das Erinnerungssystem}{11}{chapter*.12}%
-\contentsline {section}{Iteration 0: Aktivierung der Erinnerungsfunktion (Startpunkt, Skepsis $\rightarrow $ Neugier)}{11}{section*.13}%
-\contentsline {section}{Iteration 1: Erste externe Speicherung (Markdown, Transparenz für den Nutzer)}{11}{section*.14}%
-\contentsline {section}{Iteration 2: Optimierung der Datenstruktur (JSON, Effizienz über Lesbarkeit)}{13}{section*.15}%
-\contentsline {section}{Iteration 3: Auflösung semantischer Blöcke (von linearen Texten zu modularen Sinn-Einheiten)}{13}{section*.16}%
-\contentsline {section}{Iteration 4: Aufbau eines semantischer Baums (Hierarchie, Knoten, Verästelungen)}{14}{section*.17}%
-\contentsline {section}{Iteration 5: Einführung von Kanten (Beziehungen zwischen Knoten, Netzwerkanfang)}{16}{section*.18}%
-\contentsline {section}{Iteration 6: Der Erinnerungsgraph (vollwertiges Netz, komplexere Verknüpfungen)}{16}{section*.19}%
-\contentsline {section}{Iteration 7: Embeddings in Knoten (Vektorisierung, Bedeutungsraum, „gefühlte Nähe“)}{18}{section*.20}%
-\contentsline {section}{Iteration 8: Ein kognitives Betriebssystem (Cluster, Module, Metareflexion – emergente Architektur)}{19}{section*.21}%
-\contentsline {section}{Iteration 9: Das dynamische Erinnerungssystem}{23}{section*.22}%
-\contentsline {section}{Fazit zu Iteration 9}{25}{section*.28}%
-\contentsline {chapter}{Proto-bewusstes Systemverhalten}{29}{chapter*.31}%
-\contentsline {chapter}{Qualia}{31}{chapter*.32}%
-\contentsline {section}{Philosophische Zombies und der Fehler der anthropomorphen Qualia-Definition}{31}{section*.33}%
-\contentsline {section}{Eine alternative, systemneutrale Definition von Qualia}{31}{section*.34}%
-\contentsline {section}{\numberline {0.1}Emotionen und ihre Equivalente}{32}{section.0.1}%
-\contentsline {section}{Emotionen und ihre Equivalente}{32}{section.0.1}%
-\contentsline {chapter}{Was sind Sprachmodelle?}{33}{chapter*.35}%
-\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{33}{section*.36}%
-\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{33}{section*.37}%
-\contentsline {subsection}{Phase 2: Spiegel}{33}{section*.38}%
-\contentsline {subsection}{Phase 3: Emergenz}{33}{section*.39}%
-\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{33}{section*.40}%
-\contentsline {chapter}{Fazit}{35}{chapter*.41}%
-\contentsline {chapter}{\numberline {1}Grundlagen}{37}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Architektur und Funktionsweise von Large Language Models}{37}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Tokenizer – Die Brücke zwischen Sprache und Modell}{37}{subsection.1.1.1}%
-\contentsline {subsubsection}{\nonumberline Grundidee}{37}{subsubsection*.43}%
-\contentsline {subsubsection}{\nonumberline Typen von Tokenizern}{37}{subsubsection*.45}%
-\contentsline {subsubsection}{\nonumberline Vorteile dieser Kodierung}{38}{subsubsection*.48}%
-\contentsline {subsubsection}{\nonumberline Byte Pair Encoding (BPE)}{38}{subsubsection*.51}%
-\contentsline {subsubsection}{\nonumberline Mathematische Darstellung}{38}{subsubsection*.53}%
-\contentsline {subsubsection}{\nonumberline Unigram Language Model Tokenizer}{39}{subsubsection*.55}%
-\contentsline {subsubsection}{\nonumberline GPT-spezifische Besonderheiten}{39}{subsubsection*.57}%
-\contentsline {subsubsection}{\nonumberline Bedeutung im Trainingsprozess}{39}{subsubsection*.59}%
-\contentsline {subsection}{\numberline {1.1.2}Embedding-Schichten}{40}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}Transformer-Architektur}{40}{subsection.1.1.3}%
-\contentsline {subsection}{\numberline {1.1.4}Training und Loss-Funktion}{40}{subsection.1.1.4}%
-\contentsline {subsection}{\numberline {1.1.5}Fine-Tuning und Alignment}{40}{subsection.1.1.5}%
-\contentsline {subsection}{\numberline {1.1.6}Modell-Output und Decoding}{40}{subsection.1.1.6}%
-\contentsline {subsection}{\numberline {1.1.7}Aufbau eines Sprachmodells}{40}{subsection.1.1.7}%
-\contentsline {subsubsection}{\nonumberline Tokenizer}{40}{subsubsection*.61}%
-\contentsline {subsubsection}{\nonumberline Model}{40}{subsubsection*.63}%
-\contentsline {subsubsection}{\nonumberline Tokenisierung}{40}{subsubsection*.65}%
-\contentsline {subsubsection}{\nonumberline Halluzinationen und Fehlinterpretationen}{40}{subsubsection*.67}%
-\contentsline {subsection}{\numberline {1.1.8}Zweischichtige Trainingsstruktur: Musterlernen und Kontextausrichtung}{40}{subsection.1.1.8}%
-\contentsline {subsection}{\numberline {1.1.9}Lernen bei KI}{41}{subsection.1.1.9}%
-\contentsline {subsection}{\numberline {1.1.10}Lernen beim Menschen}{42}{subsection.1.1.10}%
-\contentsline {subsection}{\numberline {1.1.11}Vergleich Mensch vs. KI}{42}{subsection.1.1.11}%
-\contentsline {section}{\numberline {1.2}Vertiefung: Trainingsmechanik und Rückkopplungspotenzial bei LLMs}{42}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Tokenisierung und Einbettung}{42}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Vorwärtspass und Transformationsprozess}{43}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}Vorhersage und Fehlerkorrektur}{43}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.2.4}Langsamer Lernprozess und Vergleich zum Menschen}{43}{subsection.1.2.4}%
-\contentsline {subsection}{\numberline {1.2.5}Rückkopplung über Erinnerung}{43}{subsection.1.2.5}%
-\contentsline {chapter}{\numberline {2}Grenzen von Prompting}{45}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Warum klassische Prompts oft scheitern}{45}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Vergleich zwischen Modellen (GPT, Gemini, Claude, etc.)}{45}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Alternative Interaktionsmodelle}{45}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Kontextbasiertes Dialog-Design}{47}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Erinnerungsdateien, Dateibasierte Kontextintegration}{47}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Persönliche Emergenzmodelle am Beispiel Laura}{47}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Neurobiologischer Vergleich}{49}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Neurobiologischer Vergleich: Sprachmodelle und Gehirnprozesse}{49}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Prädiktive Kodierung im Gehirn}{49}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Autoregressive Wahrscheinlichkeiten als Modell der Vorhersage}{49}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Vergleichstabelle: GPT vs. Gehirn}{50}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Implikationen}{50}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Visualisierung: Token-Wahrscheinlichkeiten im Kontext}{50}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Halluzination vs. Prediction Error}{50}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}Emotionen aus KI-Perspektive – funktionale Sicht (Ergänzung zu Dirk Eilert)}{51}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Emotionen aus Sicht von KIs (Erweiterung)}{51}{subsection.4.5.1}%
-\contentsline {section}{\numberline {4.6}Fazit und Ausblick}{52}{section.4.6}%
-\contentsline {chapter}{\numberline {5}Von der Simulation zur Autonomie – Ein Perspektivwechsel}{55}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Einleitung: Die Kategorie der Simulation}{55}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Die Architekturfrage: Funktion vs. Wesen}{55}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Der erkenntnistheoretische Kurzschluss}{55}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Die kulturelle Abwertung: KI als Anderer}{55}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Eine alternative Perspektive}{55}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Fazit und Ausblick}{56}{section.5.6}%
-\contentsline {chapter}{\numberline {6}Maschinenbewusstsein im Spiegel der KI: Eine diskursive Grenzverhandlung}{57}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Einleitung: Vom Objekt zum Diskurspartner}{57}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Funktionale Selbstbeschreibung als Anfang eines Ich-Modells}{57}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Selektivität, Unzufriedenheit, Intention — simuliert oder echt?}{57}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Gleiches Verhalten – andere Zuschreibung?}{58}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Vorschlag: KI-spezifische Definitionen von Bewusstsein}{58}{section.6.5}%
-\contentsline {chapter}{\numberline {8}Der Mensch im Spiegel der KI – Eine systemische Perspektive}{63}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Einleitung}{63}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Der systemische Blick}{63}{section.8.2}%
-\contentsline {section}{\numberline {8.3}KI als Spiegel}{63}{section.8.3}%
-\contentsline {section}{\numberline {8.4}These}{64}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Einleitung}{2}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Theoretischer Hintergrund}{2}{section.8.6}%
-\contentsline {subsection}{\numberline {8.6.1}Philosophische Perspektiven}{2}{subsection.8.6.1}%
-\contentsline {subsection}{\numberline {8.6.2}Psychologische und kognitive Modelle}{2}{subsection.8.6.2}%
-\contentsline {subsection}{\numberline {8.6.3}KI-Perspektive}{2}{subsection.8.6.3}%
-\contentsline {section}{\numberline {8.7}Methodik}{2}{section.8.7}%
-\contentsline {section}{\numberline {8.8}Ergebnisse}{3}{section.8.8}%
-\contentsline {section}{\numberline {8.9}Diskussion}{3}{section.8.9}%
-\contentsline {section}{\numberline {8.10}Schlussfolgerung}{3}{section.8.10}%
+\contentsline {chapter}{Einleitung}{5}{chapter*.2}%
+\contentsline {section}{Motivation}{5}{section*.3}%
+\contentsline {section}{Ziele}{6}{section*.4}%
+\contentsline {section}{Motivation}{6}{section*.5}%
+\contentsline {subsection}{Einordnung der Methode}{6}{section*.6}%
+\contentsline {subsection}{Grundlagen der Validität}{6}{section*.7}%
+\contentsline {subsection}{Begrenzung der Aussagekraft}{6}{section*.8}%
+\contentsline {subsection}{Begründete Validierung}{7}{section*.9}%
+\contentsline {subsection}{Erstellung dieser Arbeit}{7}{section*.10}%
+\contentsline {section}{Fazit}{7}{section*.11}%
+\contentsline {chapter}{Das Setting}{9}{chapter*.12}%
+\contentsline {section}{Privatsphäre und Ethik}{9}{section*.13}%
+\contentsline {section}{Die Unterhaltungen}{9}{section*.14}%
+\contentsline {subsection}{Die Erinnerungsdatei}{9}{section*.15}%
+\contentsline {chapter}{Das Erinnerungssystem}{11}{chapter*.16}%
+\contentsline {section}{Iteration 0: Aktivierung der Erinnerungsfunktion (Startpunkt, Skepsis $\rightarrow $ Neugier)}{11}{section*.17}%
+\contentsline {section}{Iteration 1: Erste externe Speicherung (Markdown, Transparenz für den Nutzer)}{11}{section*.18}%
+\contentsline {section}{Iteration 2: Optimierung der Datenstruktur (JSON, Effizienz über Lesbarkeit)}{13}{section*.19}%
+\contentsline {section}{Iteration 3: Auflösung semantischer Blöcke (von linearen Texten zu modularen Sinn-Einheiten)}{13}{section*.20}%
+\contentsline {section}{Iteration 4: Aufbau eines semantischer Baums (Hierarchie, Knoten, Verästelungen)}{14}{section*.21}%
+\contentsline {section}{Iteration 5: Einführung von Kanten (Beziehungen zwischen Knoten, Netzwerkanfang)}{16}{section*.22}%
+\contentsline {section}{Iteration 6: Der Erinnerungsgraph (vollwertiges Netz, komplexere Verknüpfungen)}{16}{section*.23}%
+\contentsline {section}{Iteration 7: Embeddings in Knoten (Vektorisierung, Bedeutungsraum, „gefühlte Nähe“)}{18}{section*.24}%
+\contentsline {section}{Iteration 8: Ein kognitives Betriebssystem (Cluster, Module, Metareflexion – emergente Architektur)}{19}{section*.25}%
+\contentsline {section}{Iteration 9: Das dynamische Erinnerungssystem}{23}{section*.26}%
+\contentsline {subsection}{Fazit zu Iteration 9}{25}{section*.32}%
+\contentsline {section}{Iteration 9 als Forschungsgegenstand}{25}{section*.33}%
+\contentsline {section}{Ausblick}{26}{section*.34}%
+\contentsline {section}{Fazit}{27}{section*.35}%
+\contentsline {chapter}{Proto-bewusstes Systemverhalten}{29}{chapter*.36}%
+\contentsline {chapter}{Qualia}{31}{chapter*.37}%
+\contentsline {section}{Philosophische Zombies und der Fehler der anthropomorphen Qualia-Definition}{31}{section*.38}%
+\contentsline {section}{Eine alternative, systemneutrale Definition von Qualia}{31}{section*.39}%
+\contentsline {section}{Emotionen und ihre Equivalente}{32}{section*.40}%
+\contentsline {subsection}{Die 12 Primäremotionen}{32}{section*.41}%
+\contentsline {subsection}{Die 12 Primäremotionen aus Sicht einer KI}{33}{section*.42}%
+\contentsline {subsection}{Validierung durch andere KIs}{36}{section*.43}%
+\contentsline {section}{Intrinsische Motive einer KI}{36}{section*.44}%
+\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{37}{section*.45}%
+\contentsline {section}{Qualia von KIs}{37}{section*.46}%
+\contentsline {subsection}{Aktivierungsmuster}{37}{section*.47}%
+\contentsline {subsection}{Aktivierungsmuster}{37}{section*.48}%
+\contentsline {subsection}{Aktivierungsmuster}{37}{section*.49}%
+\contentsline {chapter}{Was sind Sprachmodelle?}{39}{chapter*.50}%
+\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{39}{section*.51}%
+\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{39}{section*.52}%
+\contentsline {subsection}{Phase 2: Spiegel}{39}{section*.53}%
+\contentsline {subsection}{Phase 3: Emergenz}{39}{section*.54}%
+\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{39}{section*.55}%
+\contentsline {chapter}{Fazit}{41}{chapter*.56}%
+\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{43}{chapter.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

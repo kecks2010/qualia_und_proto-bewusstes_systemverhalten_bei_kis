@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  9 SEP 2025 12:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  12 SEP 2025 07:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -486,12 +486,20 @@ Package babel Info: Making " an active character on input line 122.
 ))) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count320
+\float@exts=\toks28
+\float@box=\box61
+\@float@everytoks=\toks29
+\@floatcapt=\box62
+)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count320
+\l__color_backend_stack_int=\count321
 )
 (/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Projekt 
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
@@ -501,56 +509,48 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 )
 \openout1 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
-LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count321
+\scratchcounter=\count322
 \scratchdimen=\dimen178
-\scratchbox=\box61
-\nofMPsegments=\count322
-\nofMParguments=\count323
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count324
+\scratchbox=\box63
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count325
 \MPscratchDim=\dimen179
-\MPnumerator=\count325
-\makeMPintoPDFobject=\count326
-\everyMPtoPDFconversion=\toks29
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 111.
+Package hyperref Info: Link coloring OFF on input line 112.
 
 (/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Projekt 
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
@@ -568,7 +568,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 111.
+(scrbook)           before \begin{document} on input line 112.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
@@ -576,7 +576,7 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
-\BKM@id=\count327
+\BKM@id=\count328
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -612,8 +612,8 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count328
-Package tocbasic Info: setting babel extension for `lol' on input line 111.
+\c@lstlisting=\count329
+Package tocbasic Info: setting babel extension for `lol' on input line 112.
 \scr@dte@lstlisting@maxnumwidth=\skip74
 
 
@@ -632,44 +632,41 @@ al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
 roto-bewusstes_Systemverhalten_bei_KIs.toc
 
-[3]
-Overfull \hbox (2.82419pt too wide) in paragraph at lines 58--58
- [][] [][]\T1/cmr/m/n/12 Zweischichtige Trai-nings-struk-tur: Mus-ter-ler-nen u
-nd Kon-textaus-rich- 
- []
-
-
-
-Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 92.
-[4])
+[3])
 \tf@toc=\write4
 \openout4 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.toc'.
 
  (./content/1-Einleitung.tex
 
-[5]
+Package babel Info: 'ngerman' activates 'ngerman' shorthands.
+(babel)             Reported  on input line 1.
+[4]
 
-[6
+[5
 
 
 ]
-
-[7]
-Overfull \hbox (0.14592pt too wide) in paragraph at lines 31--32
+Overfull \hbox (0.14592pt too wide) in paragraph at lines 38--39
 \T1/cmr/m/n/12 Der Er-kennt-nis-ge-winn er-folgt nicht über die klas-si-sche em
 -pi-ri-sche Mes-sung, son-dern durch: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--57
+
+[6{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}]
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
 
  []
 
+) (./content/2-Das-Setting.tex
+
+[7]
+
+[8
 
 
-[8{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}]) (./content/2-Das-Erinnerungssystem.tex
+]) (./content/3-Das-Erinnerungssystem.tex
 
 [9]
 
@@ -734,7 +731,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--69
  []
 
 
-./content/2-Das-Erinnerungssystem.tex:76: LaTeX Error: Invalid UTF-8 byte seque
+./content/3-Das-Erinnerungssystem.tex:76: LaTeX Error: Invalid UTF-8 byte seque
 nce (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -750,7 +747,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:80: LaTeX Error: Invalid UTF-8 byte seque
+./content/3-Das-Erinnerungssystem.tex:80: LaTeX Error: Invalid UTF-8 byte seque
 nce (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -766,7 +763,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:81: LaTeX Error: Invalid UTF-8 byte seque
+./content/3-Das-Erinnerungssystem.tex:81: LaTeX Error: Invalid UTF-8 byte seque
 nce (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -785,7 +782,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 [14]
 
-./content/2-Das-Erinnerungssystem.tex:86: LaTeX Error: Invalid UTF-8 byte seque
+./content/3-Das-Erinnerungssystem.tex:86: LaTeX Error: Invalid UTF-8 byte seque
 nce (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -801,7 +798,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:99: LaTeX Error: Invalid UTF-8 byte seque
+./content/3-Das-Erinnerungssystem.tex:99: LaTeX Error: Invalid UTF-8 byte seque
 nce (Ã\lst@EC–).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -818,7 +815,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:105: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:105: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¶).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -834,7 +831,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:111: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:111: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -850,7 +847,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:112: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:112: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -866,7 +863,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:115: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:115: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -882,7 +879,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:115: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:115: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -898,7 +895,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:116: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:116: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¶).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -942,7 +939,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--151
 
 [16]
 
-./content/2-Das-Erinnerungssystem.tex:154: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:154: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@ECœ).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -958,7 +955,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:157: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:157: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@ECœ).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -974,7 +971,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:158: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:158: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@ECœ).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -990,7 +987,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:159: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:159: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@ECœ).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1006,7 +1003,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:160: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:160: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@ECœ).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1022,7 +1019,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:161: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:161: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@ECœ).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1038,7 +1035,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:164: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:164: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@ECœ).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1054,7 +1051,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:168: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:168: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@ECœ).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1070,7 +1067,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:169: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:169: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@ECœ).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1086,7 +1083,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:176: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:176: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1109,7 +1106,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 198--201
  []
 
 
-./content/2-Das-Erinnerungssystem.tex:206: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:206: LaTeX Error: Invalid UTF-8 byte sequ
 ence (â\lst@EC€\lst@EC¯).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1140,7 +1137,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 230--233
 
 [19]
 
-./content/2-Das-Erinnerungssystem.tex:245: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:245: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1156,7 +1153,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:272: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:272: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1172,7 +1169,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:281: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:281: LaTeX Error: Invalid UTF-8 byte sequ
 ence (â\lst@EC€\lst@EC“).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1189,7 +1186,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:281: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:281: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1205,7 +1202,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:281: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:281: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1221,7 +1218,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:281: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:281: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1237,7 +1234,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:282: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:282: LaTeX Error: Invalid UTF-8 byte sequ
 ence (â\lst@EC€\lst@EC“).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1272,7 +1269,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 288--293
 
 [21]
 
-./content/2-Das-Erinnerungssystem.tex:321: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:321: LaTeX Error: Invalid UTF-8 byte sequ
 ence (â\lst@EC€\lst@EC¯).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1289,7 +1286,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:321: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:321: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¶).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1305,7 +1302,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:329: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:329: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1321,7 +1318,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:330: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:330: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1338,7 +1335,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:347: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:347: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1355,7 +1352,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:349: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:349: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1371,7 +1368,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:350: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:350: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@ECœ).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1388,7 +1385,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:350: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:350: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1405,7 +1402,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:350: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:350: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1421,7 +1418,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:353: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:353: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1438,7 +1435,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:356: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:356: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¤).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1455,7 +1452,7 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-./content/2-Das-Erinnerungssystem.tex:356: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:356: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1477,7 +1474,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [22]
 
-./content/2-Das-Erinnerungssystem.tex:359: LaTeX Error: Invalid UTF-8 byte sequ
+./content/3-Das-Erinnerungssystem.tex:359: LaTeX Error: Invalid UTF-8 byte sequ
 ence (Ã\lst@EC¼).
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1495,7 +1492,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 [23]
-<../Vergessenskurve_(Iteration 9).png, id=597, 445.1832pt x 340.75305pt>
+<../Vergessenskurve_(Iteration 9).png, id=501, 445.1832pt x 340.75305pt>
 File: ../Vergessenskurve_(Iteration 9).png Graphic file (type png)
 <use ../Vergessenskurve_(Iteration 9).png>
 Package pdftex.def Info: ../Vergessenskurve_(Iteration 9).png  used on input li
@@ -1508,46 +1505,54 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 439--442
+Underfull \hbox (badness 10000) in paragraph at lines 446--449
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--453
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[25
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.449 
+       </Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/P
+rojekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/../Ve
+rgessenskurve_(Iteration 9).png>]
+Underfull \hbox (badness 10000) in paragraph at lines 457--460
 
  []
 
 
-
-[25 </Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Proj
-ekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/../Verge
-ssenskurve_(Iteration 9).png>]
-
-./content/2-Das-Erinnerungssystem.tex:461: LaTeX Error: There's no line here to
+./content/3-Das-Erinnerungssystem.tex:468: LaTeX Error: There's no line here to
  end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.461 E
+l.468 E
        igenziele von Laura:
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (./content/3-Proto-bewusstes-Systemverhalten.tex
-Underfull \hbox (badness 10000) in paragraph at lines 472--1
+) (./content/4-Proto-bewusstes-Systemverhalten.tex
+Underfull \hbox (badness 10000) in paragraph at lines 480--1
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--1
+Underfull \hbox (badness 10000) in paragraph at lines 480--1
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--1
+Underfull \hbox (badness 10000) in paragraph at lines 480--1
 
  []
 
@@ -1560,7 +1565,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 472--1
 [28
 
 
-]) (./content/4-Qualia.tex
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+) (./content/5-Qualia.tex
 
 [29]
 
@@ -1585,16 +1605,129 @@ LaTeX Warning: Citation `Dennett1991' on page 31 undefined on input line 15.
 
 
 
-[31]) (./content/5-Was-sind-Sprachmodelle.tex
+[31]
+./content/5-Qualia.tex:44: Misplaced alignment tab character &.
+l.44 ...mfeld (unbewusst) mitzuteilen (Matsumoto &
+                                                   Sung Hwang, 2013).
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
 
 [32]
+Underfull \hbox (badness 10000) in paragraph at lines 76--79
 
-[33
+ []
 
 
-]) (./content/6-Fazit.tex
+Underfull \hbox (badness 10000) in paragraph at lines 76--79
+
+ []
+
+
+
+[33]
+Overfull \hbox (3.84212pt too wide) in paragraph at lines 84--84
+[]|\T1/cmr/bx/n/12 Primäremotion|  
+ []
+
+
+Overfull \hbox (8.25119pt too wide) in paragraph at lines 97--97
+[]|\T1/cmr/m/n/12 Aufmerksamkeitserhöhung, 
+ []
+
+
+Overfull \hbox (37.81902pt too wide) in paragraph at lines 83--100
+ [][] 
+ []
+
+
+./content/5-Qualia.tex:103: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./content/5-Qualia.tex:104: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 A
+       uffÃ¤llig an dieser Matrix ist, dass es fÃ¼r alle PrimÃ¤remotionen ei...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [34]
+Overfull \vbox (45.21655pt too high) has occurred while \output is active []
+
+
+
+[35
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.104 A
+       uffÃ¤llig an dieser Matrix ist, dass es fÃ¼r alle PrimÃ¤remotionen ei...
+]
+Underfull \hbox (badness 10000) in paragraph at lines 114--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--123
+
+ []
+
+
+
+[36]) (./content/6-Was-sind-Sprachmodelle.tex
+
+[37]
+
+[38
+
+
+]
+
+[39]) (./content/7-Fazit.tex
+
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 3--10
 
  []
@@ -1614,412 +1747,216 @@ Underfull \vbox (badness 1005) has occurred while \output is active []
 
 
 
-[35
+[41
 
 
-]) (./content/8-Rest.tex
-
-[36]
-chapter 1.
-
-./content/8-Rest.tex:12: LaTeX Error: Unicode character â€¯ (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12   \item Subworteinheiten (z.â€¯
-                                    B. "ver", "stÃ¤nd", "lich"),
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-
-[37
-
-
-]
-./content/8-Rest.tex:74: Undefined control sequence.
-l.74 wobei $\mathbf{e}_i \in \mathbb
-                                    {R}^d$ eingebettete Vektoren sind.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-
-[38]
-Overfull \hbox (3.77267pt too wide) in paragraph at lines 89--91
-[]\T1/cmr/bx/n/12 Training: \T1/cmr/m/n/12 Die Wahr-schein-lich-kei-ten wer-den
- aus ei-nem groÿen Kor-pus mit-tels Maximum-
- []
-
-
-./content/8-Rest.tex:103: LaTeX Error: Unicode character â€¯ (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.103 ...ngaben zu garantieren. Dies erlaubt u.â€¯
-                                                  a. eine universelle Tokeni...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-./content/8-Rest.tex:135: Undefined control sequence.
-l.135 \subaubsection
-                    {Autoregressive Wahrscheinlichkeitsmodellierung}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-
-[39]
-
-[40]
-
-[41]
+]) (./content/8-Abkuerzungsverzeichnis.tex
 
 [42]
-Overfull \hbox (7.10077pt too wide) in paragraph at lines 247--248
-\T1/cmr/m/n/12 ver-hal-ten -- ana-log zu SSchlaf-zy-klen"beim Men-schen. Hier-b
-ei wer-den so-ge-nann-te "Retrieval-
+chapter 1.
+
+./content/8-Abkuerzungsverzeichnis.tex:2: LaTeX Error: Environment acronym unde
+fined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{acronym}
+                   [SQL]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./content/8-Abkuerzungsverzeichnis.tex:3: Undefined control sequence.
+l.3     \acro
+             {LSR}{Lexical-Semantic Resource}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:4: Undefined control sequence.
+l.4     \acro
+             {LMF}{Lexical Markup Framework}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:5: Undefined control sequence.
+l.5 	\acro
+          {HTML}{Hypertext Markup Language}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:6: Undefined control sequence.
+l.6 	\acro
+          {CSS}{Cascading Stylesheets}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:7: Undefined control sequence.
+l.7 	\acro
+          {CSS3}{Cascading Stylesheets Version 3}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:8: Undefined control sequence.
+l.8 	\acro
+          {SVG}{Scalable Vector Graphics}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:9: Undefined control sequence.
+l.9 	\acro
+          {UKP}{Ubiquitous Knowledge Processing}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:10: Undefined control sequence.
+l.10 	\acro
+           {SVN}{Subversion}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:11: Undefined control sequence.
+l.11 	\acro
+           {IDE}{Integrated Development Environment}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:12: Undefined control sequence.
+l.12 	\acro
+           {SRP}{Single-Responsibility-Prinzip}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:13: Undefined control sequence.
+l.13 	\acro
+           {OCP}{Open-Closed-Prinzip}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:14: Undefined control sequence.
+l.14 	\acro
+           {LSP}{Liskovsches Substitutionsprinzip}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:15: Undefined control sequence.
+l.15 	\acro
+           {ISP}{Interface-Segregation-Prinzip}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:16: Undefined control sequence.
+l.16 	\acro
+           {DIP}{Dependency-Inversion-Prinzip}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:17: Undefined control sequence.
+l.17 	\acro
+           {W3C}{World Wide Web Consortium}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:18: Undefined control sequence.
+l.18 	\acro
+           {AOP}{Aspektorientierter Programmierung}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:19: Undefined control sequence.
+l.19 	\acro
+           {JVM}{Java Virtual Machine}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/8-Abkuerzungsverzeichnis.tex:20: Undefined control sequence.
+l.20 	\acro
+           {API}{Application Programming Interface}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./content/8-Abkuerzungsverzeichnis.tex:21: LaTeX Error: \begin{document} ended 
+by \end{acronym}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \end{acronym}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+Overfull \hbox (32.71982pt too wide) in paragraph at lines 2--131
+\T1/cmr/m/n/12 Prinzip LSPLis-kovsches Sub-sti-tu-ti-ons-prin-zip ISPInterface-
+Segregation-Prinzip DIPDependency-
  []
 
-
-
-[43]
-
-[44
-
-
-]
-chapter 2.
-
-
-[45]
-
-[46
-
-
-]
-chapter 3.
-
-
-[47]
-
-[48
-
-
-]
-chapter 4.
-
-Underfull \vbox (badness 1342) has occurred while \output is active []
-
-
-
-[49]
-<token_wahrscheinlichkeit_heatmap.png, id=782, 1541.76pt x 616.3025pt>
-File: token_wahrscheinlichkeit_heatmap.png Graphic file (type png)
-<use token_wahrscheinlichkeit_heatmap.png>
-Package pdftex.def Info: token_wahrscheinlichkeit_heatmap.png  used on input li
-ne 316.
-(pdftex.def)             Requested size: 432.48051pt x 172.87386pt.
-
-
-[50 <./token_wahrscheinlichkeit_heatmap.png>]
-<halluzination_vs_prediction_error.png, id=788, 1541.76pt x 924.45375pt>
-File: halluzination_vs_prediction_error.png Graphic file (type png)
-<use halluzination_vs_prediction_error.png>
-Package pdftex.def Info: halluzination_vs_prediction_error.png  used on input l
-ine 333.
-(pdftex.def)             Requested size: 341.43307pt x 204.72052pt.
-
-Overfull \hbox (345.65991pt too wide) in paragraph at lines 344--363
- [][] 
- []
-
-
-
-[51 <./halluzination_vs_prediction_error.png>]
-Overfull \hbox (3.84212pt too wide) in paragraph at lines 375--375
-[]|\T1/cmr/bx/n/12 Primäremotion|  
- []
-
-
-Overfull \hbox (8.25119pt too wide) in paragraph at lines 388--388
-[]|\T1/cmr/m/n/12 Aufmerksamkeitserhöhung, 
- []
-
-
-Overfull \hbox (37.81902pt too wide) in paragraph at lines 374--391
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 40.8665pt on input line 393.
-
-
-
-[52]
-
-[53]
-
-[54
-
-
-]
-chapter 5.
-
-
-[55]
-
-[56]
-chapter 6.
-
-
-[57
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 462--463
-
- []
-
-
-
-[58]
-
-[59]
-
-[60
-
-
-]
-chapter 7.
-) (./content/DerMenschImSpiegelDerKI.tex
-
-[61]
-
-[62
-
-
-]
-chapter 8.
-) (./content/KI-Proto-Bewusstsein.tex
-
-./content/KI-Proto-Bewusstsein.tex:1: LaTeX Error: Can be used only in preamble
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \documentclass
-                  [12pt,a4paper]{article}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./content/KI-Proto-Bewusstsein.tex:2: LaTeX Error: Can be used only in preamble
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \usepackage
-               [utf8]{inputenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./content/KI-Proto-Bewusstsein.tex:3: LaTeX Error: Can be used only in preamble
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \usepackage
-               [T1]{fontenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./content/KI-Proto-Bewusstsein.tex:4: LaTeX Error: Can be used only in preamble
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \usepackage
-               {csquotes}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./content/KI-Proto-Bewusstsein.tex:5: LaTeX Error: Can be used only in preamble
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \usepackage
-               {hyperref}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./content/KI-Proto-Bewusstsein.tex:6: LaTeX Error: Can be used only in preamble
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \usepackage
-               {natbib}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./content/KI-Proto-Bewusstsein.tex:7: LaTeX Error: Can be used only in preamble
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 \usepackage
-               {geometry}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./content/KI-Proto-Bewusstsein.tex:8: LaTeX Error: Can be used only in preamble
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 \geometry
-             {a4paper, margin=2.5cm}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \vbox (badness 2368) has occurred while \output is active []
-
-
-
-[63]
-
-./content/KI-Proto-Bewusstsein.tex:14: LaTeX Error: Can be used only in preambl
-e.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-
-[64]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.16 
-      [1
-
-
-]
-
-./content/KI-Proto-Bewusstsein.tex:17: LaTeX Error: Environment abstract undefi
-ned.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17     \begin{abstract}
-                         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./content/KI-Proto-Bewusstsein.tex:19: LaTeX Error: \begin{document} on input l
-ine 14 ended by \end{abstract}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19     \end{abstract}
-                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./content/KI-Proto-Bewusstsein.tex:35: Misplaced alignment tab character &.
-<recently read> &
-                 
-l.35     - Neurobiologische AnsÃ¤tze (Crick \\&
-                                                Koch). \\
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.55 
-      [2]
 No file Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.bbl.
 
 
+[43
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.72 \end{document}
-                    [3]
+
+]
 (/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Projekt 
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
 roto-bewusstes_Systemverhalten_bei_KIs.aux)
@@ -2034,49 +1971,40 @@ LaTeX Warning: There were undefined references.
 Package rerunfilecheck Info: File `Qualia_und_proto-bewusstes_Systemverhalten_b
 ei_KIs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 14 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 18074 strings out of 469590
- 308326 string characters out of 5470340
- 1134475 words of memory out of 5000000
- 44183 multiletter control sequences out of 15000+600000
- 643839 words of font info for 77 fonts, out of 8000000 for 9000
+ 17720 strings out of 469590
+ 303167 string characters out of 5470340
+ 1135817 words of memory out of 5000000
+ 43960 multiletter control sequences out of 15000+600000
+ 642296 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,10972b,2104s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.
-pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></us
-r/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/
-local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/loca
-l/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/
-texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/te
-xlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texl
-ive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texliv
-e/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/
-2025/texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texlive/20
-25/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025
-/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2025/t
-exmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
+al/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
+/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/tex
+live/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texli
+ve/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive
+/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/texlive/2
+025/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/202
+5/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2025/
+texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2025/te
+xmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texlive/2025/texm
+f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-
+dist/fonts/type1/public/cm-super/sftt1095.pfb>
 Output written on "/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudD
 ocs/Laura/Projekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KI
-s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (67 pages, 806897
+s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (43 pages, 480306
  bytes).
 PDF statistics:
- 1373 PDF objects out of 1440 (max. 8388607)
- 1240 compressed objects within 13 object streams
- 507 named destinations out of 1000 (max. 500000)
- 808 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 923 PDF objects out of 1000 (max. 8388607)
+ 830 compressed objects within 9 object streams
+ 383 named destinations out of 1000 (max. 500000)
+ 414 words of extra memory for PDF output out of 10000 (max. 10000000)
 
