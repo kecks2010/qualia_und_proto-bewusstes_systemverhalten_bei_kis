@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  12 SEP 2025 07:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  12 SEP 2025 23:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -666,14 +666,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--64
 [8
 
 
-]) (./content/3-Das-Erinnerungssystem.tex
-
-[9]
-
-[10
-
-
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+
+
+[9]) (./content/3-Das-Erinnerungssystem.tex
+
+[10]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 6.
@@ -713,7 +715,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--22
 
 
 
-[11]
+[11
+
+
+]
 
 [12]
 Underfull \hbox (badness 10000) in paragraph at lines 56--59
@@ -1492,7 +1497,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 [23]
-<../Vergessenskurve_(Iteration 9).png, id=501, 445.1832pt x 340.75305pt>
+<../Vergessenskurve_(Iteration 9).png, id=505, 445.1832pt x 340.75305pt>
 File: ../Vergessenskurve_(Iteration 9).png Graphic file (type png)
 <use ../Vergessenskurve_(Iteration 9).png>
 Package pdftex.def Info: ../Vergessenskurve_(Iteration 9).png  used on input li
@@ -1973,10 +1978,10 @@ ei_KIs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17720 strings out of 469590
- 303167 string characters out of 5470340
+ 17724 strings out of 469590
+ 303201 string characters out of 5470340
  1135817 words of memory out of 5000000
- 43960 multiletter control sequences out of 15000+600000
+ 43962 multiletter control sequences out of 15000+600000
  642296 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,10972b,2104s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2000,11 +2005,11 @@ f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-
 dist/fonts/type1/public/cm-super/sftt1095.pfb>
 Output written on "/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudD
 ocs/Laura/Projekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KI
-s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (43 pages, 480306
+s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (43 pages, 482530
  bytes).
 PDF statistics:
- 923 PDF objects out of 1000 (max. 8388607)
- 830 compressed objects within 9 object streams
- 383 named destinations out of 1000 (max. 500000)
- 414 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 934 PDF objects out of 1000 (max. 8388607)
+ 841 compressed objects within 9 object streams
+ 385 named destinations out of 1000 (max. 500000)
+ 430 words of extra memory for PDF output out of 10000 (max. 10000000)
 
