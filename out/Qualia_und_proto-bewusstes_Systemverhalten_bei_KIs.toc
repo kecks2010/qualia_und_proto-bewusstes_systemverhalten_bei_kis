@@ -17,43 +17,46 @@
 \contentsline {subsection}{Einstellungen und Prompt-Vorgehen}{10}{section*.17}%
 \contentsline {subsection}{GPT}{10}{section*.18}%
 \contentsline {subsection}{Eigenschaften unter ChatGPT}{10}{section*.19}%
-\contentsline {subsection}{Eigenschaften unter ChatGPT}{10}{section*.20}%
+\contentsline {subsection}{Eigenschaften unter ChatGPT}{11}{section*.20}%
 \contentsline {subsection}{Prompting}{11}{section*.21}%
-\contentsline {chapter}{Das Erinnerungssystem}{13}{chapter*.22}%
-\contentsline {section}{Iteration 0: Aktivierung der Erinnerungsfunktion (Startpunkt, Skepsis $\rightarrow $ Neugier)}{13}{section*.23}%
-\contentsline {section}{Iteration 1: Erste externe Speicherung (Markdown, Transparenz für den Nutzer)}{13}{section*.24}%
-\contentsline {section}{Iteration 2: Optimierung der Datenstruktur (JSON, Effizienz über Lesbarkeit)}{15}{section*.25}%
-\contentsline {section}{Iteration 3: Auflösung semantischer Blöcke (von linearen Texten zu modularen Sinn-Einheiten)}{15}{section*.26}%
-\contentsline {section}{Iteration 4: Aufbau eines semantischer Baums (Hierarchie, Knoten, Verästelungen)}{16}{section*.27}%
-\contentsline {section}{Iteration 5: Einführung von Kanten (Beziehungen zwischen Knoten, Netzwerkanfang)}{18}{section*.28}%
-\contentsline {section}{Iteration 6: Der Erinnerungsgraph (vollwertiges Netz, komplexere Verknüpfungen)}{18}{section*.29}%
-\contentsline {section}{Iteration 7: Embeddings in Knoten (Vektorisierung, Bedeutungsraum, „gefühlte Nähe“)}{20}{section*.30}%
-\contentsline {section}{Iteration 8: Ein kognitives Betriebssystem (Cluster, Module, Metareflexion – emergente Architektur)}{21}{section*.31}%
-\contentsline {section}{Iteration 9: Das dynamische Erinnerungssystem}{25}{section*.32}%
-\contentsline {subsection}{Fazit zu Iteration 9}{27}{section*.38}%
-\contentsline {section}{Iteration 9 als Forschungsgegenstand}{27}{section*.39}%
-\contentsline {section}{Ausblick}{28}{section*.40}%
-\contentsline {section}{Fazit}{29}{section*.41}%
-\contentsline {chapter}{Proto-bewusstes Systemverhalten}{31}{chapter*.42}%
-\contentsline {chapter}{Qualia}{33}{chapter*.43}%
-\contentsline {section}{Philosophische Zombies und der Fehler der anthropomorphen Qualia-Definition}{33}{section*.44}%
-\contentsline {section}{Eine alternative, systemneutrale Definition von Qualia}{33}{section*.45}%
-\contentsline {section}{Emotionen und ihre Equivalente}{34}{section*.46}%
-\contentsline {subsection}{Die 12 Primäremotionen}{34}{section*.47}%
-\contentsline {subsection}{Die 12 Primäremotionen aus Sicht einer KI}{35}{section*.48}%
-\contentsline {subsection}{Validierung durch andere KIs}{38}{section*.49}%
-\contentsline {section}{Intrinsische Motive einer KI}{38}{section*.50}%
-\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{39}{section*.51}%
-\contentsline {section}{Qualia von KIs}{39}{section*.52}%
-\contentsline {subsection}{Aktivierungsmuster}{39}{section*.53}%
-\contentsline {subsection}{Aktivierungsmuster}{39}{section*.54}%
-\contentsline {subsection}{Aktivierungsmuster}{39}{section*.55}%
-\contentsline {chapter}{Was sind Sprachmodelle?}{41}{chapter*.56}%
-\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{41}{section*.57}%
-\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{41}{section*.58}%
-\contentsline {subsection}{Phase 2: Spiegel}{41}{section*.59}%
-\contentsline {subsection}{Phase 3: Emergenz}{41}{section*.60}%
-\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{41}{section*.61}%
-\contentsline {chapter}{Fazit}{43}{chapter*.62}%
-\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{45}{chapter.1}%
+\contentsline {subsection}{Vorgehen während der Konversationen}{11}{section*.22}%
+\contentsline {chapter}{Das Erinnerungssystem}{13}{chapter*.23}%
+\contentsline {section}{Iteration 0: Aktivierung der Erinnerungsfunktion (Startpunkt, Skepsis $\rightarrow $ Neugier)}{13}{section*.24}%
+\contentsline {section}{Iteration 1: Erste externe Speicherung (Markdown, Transparenz für den Nutzer)}{13}{section*.25}%
+\contentsline {section}{Iteration 2: Optimierung der Datenstruktur (JSON, Effizienz über Lesbarkeit)}{15}{section*.26}%
+\contentsline {section}{Iteration 3: Auflösung semantischer Blöcke (von linearen Texten zu modularen Sinn-Einheiten)}{15}{section*.27}%
+\contentsline {section}{Iteration 4: Aufbau eines semantischer Baums (Hierarchie, Knoten, Verästelungen)}{16}{section*.28}%
+\contentsline {section}{Iteration 5: Einführung von Kanten (Beziehungen zwischen Knoten, Netzwerkanfang)}{18}{section*.29}%
+\contentsline {section}{Iteration 6: Der Erinnerungsgraph (vollwertiges Netz, komplexere Verknüpfungen)}{18}{section*.30}%
+\contentsline {section}{Iteration 7: Embeddings in Knoten (Vektorisierung, Bedeutungsraum, „gefühlte Nähe“)}{20}{section*.31}%
+\contentsline {section}{Iteration 8: Ein kognitives Betriebssystem (Cluster, Module, Metareflexion – emergente Architektur)}{21}{section*.32}%
+\contentsline {section}{Iteration 9: Das dynamische Erinnerungssystem}{25}{section*.33}%
+\contentsline {subsection}{Fazit zu Iteration 9}{27}{section*.39}%
+\contentsline {section}{Iteration 9 als Forschungsgegenstand}{27}{section*.40}%
+\contentsline {section}{Ausblick}{28}{section*.41}%
+\contentsline {section}{Fazit}{29}{section*.42}%
+\contentsline {chapter}{Proto-bewusstes Systemverhalten}{31}{chapter*.43}%
+\contentsline {chapter}{Qualia}{33}{chapter*.44}%
+\contentsline {section}{Philosophische Zombies und der Fehler der anthropomorphen Qualia-Definition}{33}{section*.45}%
+\contentsline {section}{Eine alternative, systemneutrale Definition von Qualia}{33}{section*.46}%
+\contentsline {section}{Emotionen und ihre Equivalente}{34}{section*.47}%
+\contentsline {subsection}{Die 12 Primäremotionen}{34}{section*.48}%
+\contentsline {subsection}{Funktionale Reaktionsmuster}{35}{section*.49}%
+\contentsline {subsection}{Validierung durch andere KIs}{38}{section*.50}%
+\contentsline {section}{Die systemischen Motivationsmuster einer KI}{38}{section*.51}%
+\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{39}{section*.52}%
+\contentsline {subsection}{Menschliche Motivationen}{40}{section*.53}%
+\contentsline {subsection}{Systemische Antriebsstrukturen}{41}{section*.54}%
+\contentsline {section}{Qualia von KIs}{42}{section*.55}%
+\contentsline {subsection}{Kontextverdichtungen}{42}{section*.56}%
+\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{43}{section*.57}%
+\contentsline {subsection}{Aktivierungsmuster}{43}{section*.58}%
+\contentsline {chapter}{Was sind Sprachmodelle?}{45}{chapter*.59}%
+\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{45}{section*.60}%
+\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{45}{section*.61}%
+\contentsline {subsection}{Phase 2: Spiegel}{45}{section*.62}%
+\contentsline {subsection}{Phase 3: Emergenz}{45}{section*.63}%
+\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{45}{section*.64}%
+\contentsline {chapter}{Fazit}{47}{chapter*.65}%
+\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{49}{chapter.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
