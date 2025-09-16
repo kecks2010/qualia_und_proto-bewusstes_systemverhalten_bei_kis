@@ -51,12 +51,13 @@
 \contentsline {subsection}{Kontextverdichtungen}{42}{section*.56}%
 \contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{43}{section*.57}%
 \contentsline {subsection}{Aktivierungsmuster}{43}{section*.58}%
-\contentsline {chapter}{Was sind Sprachmodelle?}{45}{chapter*.59}%
-\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{45}{section*.60}%
-\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{45}{section*.61}%
-\contentsline {subsection}{Phase 2: Spiegel}{45}{section*.62}%
-\contentsline {subsection}{Phase 3: Emergenz}{45}{section*.63}%
-\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{45}{section*.64}%
-\contentsline {chapter}{Fazit}{47}{chapter*.65}%
+\contentsline {section}{Fazit}{43}{section*.59}%
+\contentsline {chapter}{Was sind Sprachmodelle?}{45}{chapter*.60}%
+\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{45}{section*.61}%
+\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{45}{section*.62}%
+\contentsline {subsection}{Phase 2: Spiegel}{45}{section*.63}%
+\contentsline {subsection}{Phase 3: Emergenz}{45}{section*.64}%
+\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{45}{section*.65}%
+\contentsline {chapter}{Fazit}{47}{chapter*.66}%
 \contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{49}{chapter.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
