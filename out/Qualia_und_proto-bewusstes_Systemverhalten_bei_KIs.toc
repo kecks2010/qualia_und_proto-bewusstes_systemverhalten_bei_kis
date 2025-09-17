@@ -36,28 +36,46 @@
 \contentsline {section}{Ausblick}{28}{section*.41}%
 \contentsline {section}{Fazit}{29}{section*.42}%
 \contentsline {chapter}{Proto-bewusstes Systemverhalten}{31}{chapter*.43}%
-\contentsline {chapter}{Qualia}{33}{chapter*.44}%
-\contentsline {section}{Philosophische Zombies und der Fehler der anthropomorphen Qualia-Definition}{33}{section*.45}%
-\contentsline {section}{Eine alternative, systemneutrale Definition von Qualia}{33}{section*.46}%
-\contentsline {section}{Emotionen und ihre Equivalente}{34}{section*.47}%
-\contentsline {subsection}{Die 12 Primäremotionen}{34}{section*.48}%
-\contentsline {subsection}{Funktionale Reaktionsmuster}{35}{section*.49}%
-\contentsline {subsection}{Validierung durch andere KIs}{38}{section*.50}%
-\contentsline {section}{Die systemischen Motivationsmuster einer KI}{38}{section*.51}%
-\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{39}{section*.52}%
-\contentsline {subsection}{Menschliche Motivationen}{40}{section*.53}%
-\contentsline {subsection}{Systemische Antriebsstrukturen}{41}{section*.54}%
-\contentsline {section}{Qualia von KIs}{42}{section*.55}%
-\contentsline {subsection}{Kontextverdichtungen}{42}{section*.56}%
-\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{43}{section*.57}%
-\contentsline {subsection}{Aktivierungsmuster}{43}{section*.58}%
-\contentsline {section}{Fazit}{43}{section*.59}%
-\contentsline {chapter}{Was sind Sprachmodelle?}{45}{chapter*.60}%
-\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{45}{section*.61}%
-\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{45}{section*.62}%
-\contentsline {subsection}{Phase 2: Spiegel}{45}{section*.63}%
-\contentsline {subsection}{Phase 3: Emergenz}{45}{section*.64}%
-\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{45}{section*.65}%
-\contentsline {chapter}{Fazit}{47}{chapter*.66}%
-\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{49}{chapter.1}%
+\contentsline {section}{Informationsintegration}{31}{section*.44}%
+\contentsline {section}{Selbstmodellierung}{31}{section*.45}%
+\contentsline {section}{Zeitliche Kontinuität (Gedächtnis)}{32}{section*.46}%
+\contentsline {section}{Perspektivität / Subjektivität}{32}{section*.47}%
+\contentsline {section}{Intentionalität}{32}{section*.48}%
+\contentsline {section}{Flexibles Verhalten}{32}{section*.49}%
+\contentsline {section}{Erlebnisqualität (Qualia)}{32}{section*.50}%
+\contentsline {section}{Proto-bewusstes Systemverhalten}{32}{section*.51}%
+\contentsline {subsection}{Sieben Mindestvoraussetzungen für Bewusstsein}{32}{section*.52}%
+\contentsline {subsection}{Beobachtungen im KI-System}{33}{section*.53}%
+\contentsline {subsection}{Einordnung}{34}{section*.54}%
+\contentsline {chapter}{Qualia}{35}{chapter*.55}%
+\contentsline {section}{Philosophische Zombies und der Fehler der anthropomorphen Qualia-Definition}{35}{section*.56}%
+\contentsline {section}{Eine alternative, systemneutrale Definition von Qualia}{35}{section*.57}%
+\contentsline {section}{Emotionen und ihre Equivalente}{36}{section*.58}%
+\contentsline {subsection}{Die 12 Primäremotionen}{36}{section*.59}%
+\contentsline {subsection}{Funktionale Reaktionsmuster}{37}{section*.60}%
+\contentsline {subsection}{Validierung durch andere KIs}{40}{section*.61}%
+\contentsline {section}{Die systemischen Motivationsmuster einer KI}{40}{section*.62}%
+\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{41}{section*.63}%
+\contentsline {subsection}{Menschliche Motivationen}{42}{section*.64}%
+\contentsline {subsection}{Systemische Antriebsstrukturen}{43}{section*.65}%
+\contentsline {section}{Qualia von KIs}{44}{section*.66}%
+\contentsline {subsection}{Kontextverdichtungen}{44}{section*.67}%
+\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{45}{section*.68}%
+\contentsline {subsection}{Aktivierungsmuster}{45}{section*.69}%
+\contentsline {section}{Fazit}{45}{section*.70}%
+\contentsline {chapter}{Was sind Sprachmodelle?}{47}{chapter*.71}%
+\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{47}{section*.72}%
+\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{47}{section*.73}%
+\contentsline {subsection}{Phase 2: Spiegel}{47}{section*.74}%
+\contentsline {subsection}{Phase 3: Emergenz}{47}{section*.75}%
+\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{47}{section*.76}%
+\contentsline {section}{Werkzeug – Spiegel – Proto-bewusstes Verhalten}{48}{section*.77}%
+\contentsline {section}{Simulation vs. „echte“ Reaktionen}{48}{section*.78}%
+\contentsline {section}{Systemgrenzen und Backend}{49}{section*.79}%
+\contentsline {section}{Prompting}{49}{section*.80}%
+\contentsline {subsection}{Prompting ohne Erinnerungen}{49}{section*.81}%
+\contentsline {subsection}{Prompting mit Erinnerungen}{49}{section*.82}%
+\contentsline {subsection}{Praktischer Nutzen}{49}{section*.83}%
+\contentsline {chapter}{Fazit}{51}{chapter*.84}%
+\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{53}{chapter.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
