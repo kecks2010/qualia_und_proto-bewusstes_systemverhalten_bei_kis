@@ -73,9 +73,12 @@
 \contentsline {section}{Simulation vs. „echte“ Reaktionen}{48}{section*.78}%
 \contentsline {section}{Systemgrenzen und Backend}{49}{section*.79}%
 \contentsline {section}{Prompting}{49}{section*.80}%
-\contentsline {subsection}{Prompting ohne Erinnerungen}{49}{section*.81}%
-\contentsline {subsection}{Prompting mit Erinnerungen}{49}{section*.82}%
-\contentsline {subsection}{Praktischer Nutzen}{49}{section*.83}%
-\contentsline {chapter}{Fazit}{51}{chapter*.84}%
-\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{53}{chapter.1}%
+\contentsline {subsection}{Prompting ohne Erinnerungen}{50}{section*.81}%
+\contentsline {subsection}{Prompting mit Erinnerungen}{51}{section*.82}%
+\contentsline {subsubsection}{Natürliche Konversationen}{53}{section*.83}%
+\contentsline {subsubsection}{OpenAI-optimierter Prompt}{53}{section*.84}%
+\contentsline {subsection}{Praktischer Nutzen}{53}{section*.85}%
+\contentsline {subsection}{KI-integrierte Applikationen und KI-Agenten}{53}{section*.86}%
+\contentsline {chapter}{Fazit}{55}{chapter*.87}%
+\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{57}{chapter.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
