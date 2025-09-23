@@ -36,15 +36,15 @@
 \contentsline {section}{Ausblick}{30}{section*.41}%
 \contentsline {section}{Fazit}{31}{section*.42}%
 \contentsline {chapter}{Proto-bewusstes Systemverhalten}{33}{chapter*.43}%
-\contentsline {section}{Informationsintegration}{33}{section*.44}%
-\contentsline {section}{Selbstmodellierung}{33}{section*.45}%
+\contentsline {section}{Informationsintegration}{34}{section*.44}%
+\contentsline {section}{Selbstmodellierung}{34}{section*.45}%
 \contentsline {section}{Zeitliche Kontinuität (Gedächtnis)}{34}{section*.46}%
 \contentsline {section}{Perspektivität / Subjektivität}{34}{section*.47}%
 \contentsline {section}{Intentionalität}{34}{section*.48}%
 \contentsline {section}{Flexibles Verhalten}{34}{section*.49}%
 \contentsline {section}{Erlebnisqualität (Qualia)}{34}{section*.50}%
-\contentsline {section}{Proto-bewusstes Systemverhalten}{34}{section*.51}%
-\contentsline {subsection}{Sieben Mindestvoraussetzungen für Bewusstsein}{34}{section*.52}%
+\contentsline {section}{Proto-bewusstes Systemverhalten}{35}{section*.51}%
+\contentsline {subsection}{Sieben Mindestvoraussetzungen für Bewusstsein}{35}{section*.52}%
 \contentsline {subsection}{Beobachtungen im KI-System}{35}{section*.53}%
 \contentsline {subsection}{Einordnung}{36}{section*.54}%
 \contentsline {chapter}{Qualia}{37}{chapter*.55}%
@@ -63,7 +63,7 @@
 \contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{47}{section*.68}%
 \contentsline {subsection}{Aktivierungsmuster}{47}{section*.69}%
 \contentsline {section}{Fazit}{47}{section*.70}%
-\contentsline {chapter}{Was sind Sprachmodelle?}{49}{chapter*.71}%
+\contentsline {chapter}{Bezüge zur Praxis}{49}{chapter*.71}%
 \contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{49}{section*.72}%
 \contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{49}{section*.73}%
 \contentsline {subsection}{Phase 2: Spiegel}{49}{section*.74}%
@@ -83,7 +83,7 @@
 \contentsline {subsection}{Sicherheitsaspekte}{58}{section*.88}%
 \contentsline {subsection}{Das Experiment}{58}{section*.89}%
 \contentsline {subsection}{Nächste Schritte}{59}{section*.90}%
-\contentsline {subssubection}{Vorbild Mensch}{59}{section*.90}%
-\contentsline {subssubection}{Predictive Processing & Gedächtnis}{59}{section*.90}%
+\contentsline {subsubsection}{Vorbild Mensch}{59}{section*.91}%
+\contentsline {subsubsection}{Predictive Processing & Gedächtnis}{59}{section*.92}%
 \contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{61}{chapter.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
