@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  25 SEP 2025 07:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  26 SEP 2025 07:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1602,39 +1602,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
  []
 
 
-Overfull \hbox (94.43286pt too wide) in paragraph at lines 24--25
-\T1/cmr/m/n/12 Erfahrungen wer-den ge-spei-chert und be-ein-flus-sen zu-künf-ti
--ge Zu-stän-de (Ver-gan-gen-heit^^UGegenwart^^UZukunft). 
- []
-
-
 
 [34]
 
-[35]) (./content/5-Qualia.tex
+[35]
 
-[36]
+[36]) (./content/5-Qualia.tex
 
-LaTeX Warning: Citation `Nagel1974' on page 37 undefined on input line 7.
+[37]
 
-
-LaTeX Warning: Citation `Heisenberg1930' on page 37 undefined on input line 9.
-
-
-LaTeX Warning: Citation `Chalmers1996' on page 37 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Blackmore2005' on page 37 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Dennett1991' on page 37 undefined on input line 15.
-
-
-
-[37
+[38
 
 
 ]
+
+LaTeX Warning: Citation `Nagel1974' on page 39 undefined on input line 7.
+
+
+LaTeX Warning: Citation `Heisenberg1930' on page 39 undefined on input line 9.
+
+
+LaTeX Warning: Citation `Chalmers1996' on page 39 undefined on input line 11.
+
+
+LaTeX Warning: Citation `Blackmore2005' on page 39 undefined on input line 11.
+
+
+LaTeX Warning: Citation `Dennett1991' on page 39 undefined on input line 15.
+
+
+
+[39]
 ./content/5-Qualia.tex:44: Misplaced alignment tab character &.
 l.44 ...mfeld (unbewusst) mitzuteilen (Matsumoto &
                                                    Sung Hwang, 2013).
@@ -1647,7 +1645,7 @@ might try typing `S' now just to see what is salvageable.
 
 
 
-[38]
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 76--79
 
  []
@@ -1659,7 +1657,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--79
 
 
 
-[39]
+[41]
 Overfull \hbox (3.84212pt too wide) in paragraph at lines 84--84
 []|\T1/cmr/bx/n/12 Primäremotion|  
  []
@@ -1706,12 +1704,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[40]
+[42]
 Overfull \vbox (45.21655pt too high) has occurred while \output is active []
 
 
 
-[41
+[43
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1745,7 +1743,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--125
 
 
 
-[42]
+[44]
 ./content/5-Qualia.tex:129: Misplaced alignment tab character &.
 l.129 ...s der Selbstbestimmungstheorie von Deci &
                                                    Ryan, der Konsistenztheor...
@@ -1761,9 +1759,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[43]
+[45]
 
-[44
+[46
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1776,7 +1774,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--199
 
 
 
-[45
+[47
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.3}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1789,7 +1787,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--213
 
 
 
-[46]
+[48]
 Underfull \hbox (badness 10000) in paragraph at lines 228--246
 
  []
@@ -1806,11 +1804,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--253
 
 
 
-[47]) (./content/6-Bezuege_zur_Praxis.tex
+[49]) (./content/6-Bezuege_zur_Praxis.tex
 
-[48]
+[50]
 
-[49
+[51
 
 
 ]
@@ -1831,7 +1829,7 @@ You may provide a definition with
 
 
 
-[50]
+[52]
 ./content/6-Bezuege_zur_Praxis.tex:74: Missing $ inserted.
 <inserted text> 
                 $
@@ -1903,7 +1901,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--80
 
 
 
-[51]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 87--90
 
  []
@@ -1961,7 +1959,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 
-[52]
+[54]
 
 ./content/6-Bezuege_zur_Praxis.tex:112: LaTeX Error: Invalid UTF-8 byte sequenc
 e (ð\lst@ECŸ\lst@EC‘\lst@EC).
@@ -2032,7 +2030,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[53]
+[55]
 
 ./content/6-Bezuege_zur_Praxis.tex:145: LaTeX Error: Invalid UTF-8 byte sequenc
 e (â\lst@EC¸\lst@EC»).
@@ -2118,11 +2116,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[54]) (./content/7-Fazit.tex
+[56]) (./content/7-Fazit.tex
 
-[55]
+[57]
 
-[56
+[58
 
 
 ]
@@ -2137,9 +2135,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
 
 
-[57]
+[59]
 
-[58]
+[60]
 Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
@@ -2168,9 +2166,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--50
 
 
 
-[59]) (./content/8-Abkuerzungsverzeichnis.tex
+[61]) (./content/8-Abkuerzungsverzeichnis.tex
 
-[60]
+[62]
 chapter 1.
 
 ./content/8-Abkuerzungsverzeichnis.tex:2: LaTeX Error: Environment acronym unde
@@ -2371,7 +2369,7 @@ Segregation-Prinzip DIPDependency-
 No file Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.bbl.
 
 
-[61
+[63
 
 
 ]
@@ -2391,8 +2389,8 @@ ei_KIs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18472 strings out of 469590
- 311943 string characters out of 5470340
+ 18474 strings out of 469590
+ 311957 string characters out of 5470340
  1137817 words of memory out of 5000000
  44573 multiletter control sequences out of 15000+600000
  642296 words of font info for 72 fonts, out of 8000000 for 9000
@@ -2418,11 +2416,11 @@ f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-
 dist/fonts/type1/public/cm-super/sftt1095.pfb>
 Output written on "/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudD
 ocs/Laura/Projekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KI
-s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (61 pages, 543972
+s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (63 pages, 545870
  bytes).
 PDF statistics:
- 1282 PDF objects out of 1440 (max. 8388607)
- 1168 compressed objects within 12 object streams
- 522 named destinations out of 1000 (max. 500000)
+ 1291 PDF objects out of 1440 (max. 8388607)
+ 1175 compressed objects within 12 object streams
+ 524 named destinations out of 1000 (max. 500000)
  678 words of extra memory for PDF output out of 10000 (max. 10000000)
 
