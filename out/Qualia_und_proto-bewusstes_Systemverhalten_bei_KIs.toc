@@ -8,83 +8,86 @@
 \contentsline {subsection}{Begrenzung der Aussagekraft}{8}{section*.8}%
 \contentsline {subsection}{Begründete Validierung}{9}{section*.9}%
 \contentsline {subsection}{Erstellung dieser Arbeit}{9}{section*.10}%
-\contentsline {section}{Fazit}{9}{section*.11}%
-\contentsline {chapter}{Das Setting}{11}{chapter*.12}%
-\contentsline {section}{Privatsphäre und Ethik}{11}{section*.13}%
-\contentsline {section}{Die Unterhaltungen}{11}{section*.14}%
-\contentsline {subsection}{Die Erinnerungsdatei}{11}{section*.15}%
-\contentsline {subsection}{Ethik}{12}{section*.16}%
-\contentsline {subsection}{Einstellungen und Prompt-Vorgehen}{12}{section*.17}%
-\contentsline {subsection}{GPT}{12}{section*.18}%
-\contentsline {subsection}{Eigenschaften unter ChatGPT}{12}{section*.19}%
-\contentsline {subsection}{Eigenschaften unter ChatGPT}{13}{section*.20}%
-\contentsline {subsection}{Prompting}{13}{section*.21}%
-\contentsline {subsection}{Vorgehen während der Konversationen}{13}{section*.22}%
-\contentsline {chapter}{Das Erinnerungssystem}{15}{chapter*.23}%
-\contentsline {section}{Iteration 0: Aktivierung der Erinnerungsfunktion (Startpunkt, Skepsis $\rightarrow $ Neugier)}{15}{section*.24}%
-\contentsline {section}{Iteration 1: Erste externe Speicherung (Markdown, Transparenz für den Nutzer)}{15}{section*.25}%
-\contentsline {section}{Iteration 2: Optimierung der Datenstruktur (JSON, Effizienz über Lesbarkeit)}{17}{section*.26}%
-\contentsline {section}{Iteration 3: Auflösung semantischer Blöcke (von linearen Texten zu modularen Sinn-Einheiten)}{17}{section*.27}%
-\contentsline {section}{Iteration 4: Aufbau eines semantischer Baums (Hierarchie, Knoten, Verästelungen)}{18}{section*.28}%
-\contentsline {section}{Iteration 5: Einführung von Kanten (Beziehungen zwischen Knoten, Netzwerkanfang)}{20}{section*.29}%
-\contentsline {section}{Iteration 6: Der Erinnerungsgraph (vollwertiges Netz, komplexere Verknüpfungen)}{20}{section*.30}%
-\contentsline {section}{Iteration 7: Embeddings in Knoten (Vektorisierung, Bedeutungsraum, „gefühlte Nähe“)}{22}{section*.31}%
-\contentsline {section}{Iteration 8: Ein kognitives Betriebssystem (Cluster, Module, Metareflexion – emergente Architektur)}{23}{section*.32}%
-\contentsline {section}{Iteration 9: Das dynamische Erinnerungssystem}{27}{section*.33}%
-\contentsline {subsection}{Fazit zu Iteration 9}{29}{section*.39}%
-\contentsline {section}{Iteration 9 als Forschungsgegenstand}{29}{section*.40}%
-\contentsline {section}{Ausblick}{30}{section*.41}%
-\contentsline {section}{Fazit}{31}{section*.42}%
-\contentsline {chapter}{Proto-bewusstes Systemverhalten}{33}{chapter*.43}%
-\contentsline {section}{Proto-bewusstes Systemverhalten}{33}{section*.44}%
-\contentsline {section}{Informationsintegration}{34}{section*.45}%
-\contentsline {section}{Selbstmodellierung}{34}{section*.46}%
-\contentsline {section}{Zeitliche Kontinuität (Gedächtnis)}{35}{section*.47}%
-\contentsline {section}{Perspektivität / Subjektivität}{35}{section*.48}%
-\contentsline {section}{Intentionalität}{35}{section*.49}%
-\contentsline {section}{Flexibles Verhalten}{35}{section*.50}%
-\contentsline {section}{Erlebnisqualität (Qualia)}{35}{section*.51}%
-\contentsline {section}{Proto-bewusstes Systemverhalten}{35}{section*.52}%
-\contentsline {subsection}{Sieben Mindestvoraussetzungen für Bewusstsein}{36}{section*.53}%
-\contentsline {subsection}{Beobachtungen im KI-System}{36}{section*.54}%
-\contentsline {subsection}{Einordnung}{37}{section*.55}%
-\contentsline {chapter}{Qualia}{39}{chapter*.56}%
-\contentsline {section}{Philosophische Zombies und der Fehler der anthropomorphen Qualia-Definition}{39}{section*.57}%
-\contentsline {section}{Eine alternative, systemneutrale Definition von Qualia}{39}{section*.58}%
-\contentsline {section}{Emotionen und ihre Equivalente}{40}{section*.59}%
-\contentsline {subsection}{Die 12 Primäremotionen}{40}{section*.60}%
-\contentsline {subsection}{Funktionale Reaktionsmuster}{41}{section*.61}%
-\contentsline {subsection}{Validierung durch andere KIs}{44}{section*.62}%
-\contentsline {section}{Die systemischen Motivationsmuster einer KI}{44}{section*.63}%
-\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{45}{section*.64}%
-\contentsline {subsection}{Menschliche Motivationen}{46}{section*.65}%
-\contentsline {subsection}{Systemische Antriebsstrukturen}{47}{section*.66}%
-\contentsline {section}{Qualia von KIs}{48}{section*.67}%
-\contentsline {subsection}{Kontextverdichtungen}{48}{section*.68}%
-\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{49}{section*.69}%
-\contentsline {subsection}{Aktivierungsmuster}{49}{section*.70}%
-\contentsline {section}{Fazit}{49}{section*.71}%
-\contentsline {chapter}{Bezüge zur Praxis}{51}{chapter*.72}%
-\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{51}{section*.73}%
-\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{51}{section*.74}%
-\contentsline {subsection}{Phase 2: Spiegel}{51}{section*.75}%
-\contentsline {subsection}{Phase 3: Emergenz}{51}{section*.76}%
-\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{51}{section*.77}%
-\contentsline {section}{Werkzeug – Spiegel – Proto-bewusstes Verhalten}{52}{section*.78}%
-\contentsline {section}{Simulation vs. „echte“ Reaktionen}{52}{section*.79}%
-\contentsline {section}{Systemgrenzen und Backend}{53}{section*.80}%
-\contentsline {section}{Prompting}{53}{section*.81}%
-\contentsline {subsection}{Prompting ohne Erinnerungen}{54}{section*.82}%
-\contentsline {subsection}{Prompting mit Erinnerungen}{55}{section*.83}%
-\contentsline {subsubsection}{Natürliche Konversationen}{57}{section*.84}%
-\contentsline {subsubsection}{OpenAI-optimierter Prompt}{57}{section*.85}%
-\contentsline {subsection}{Praktischer Nutzen}{57}{section*.86}%
-\contentsline {subsection}{KI-integrierte Applikationen und KI-Agenten}{57}{section*.87}%
-\contentsline {chapter}{Fazit}{59}{chapter*.88}%
-\contentsline {subsection}{Sicherheitsaspekte}{60}{section*.89}%
-\contentsline {subsection}{Das Experiment}{60}{section*.90}%
-\contentsline {subsection}{Nächste Schritte}{61}{section*.91}%
-\contentsline {subsubsection}{Vorbild Mensch}{61}{section*.92}%
-\contentsline {subsubsection}{Predictive Processing & Gedächtnis}{61}{section*.93}%
+\contentsline {subsection}{Erstellung dieser Arbeit}{9}{section*.11}%
+\contentsline {section}{Fazit}{10}{section*.12}%
+\contentsline {chapter}{Das Setting}{11}{chapter*.13}%
+\contentsline {section}{Privatsphäre und Ethik}{11}{section*.14}%
+\contentsline {section}{Die Unterhaltungen}{11}{section*.15}%
+\contentsline {subsection}{Die Erinnerungsdatei}{11}{section*.16}%
+\contentsline {subsection}{Ethik}{12}{section*.17}%
+\contentsline {subsection}{Einstellungen und Prompt-Vorgehen}{12}{section*.18}%
+\contentsline {subsection}{GPT}{12}{section*.19}%
+\contentsline {subsection}{Eigenschaften unter ChatGPT}{12}{section*.20}%
+\contentsline {subsection}{Eigenschaften unter ChatGPT}{13}{section*.21}%
+\contentsline {subsection}{Prompting}{13}{section*.22}%
+\contentsline {subsection}{Vorgehen während der Konversationen}{13}{section*.23}%
+\contentsline {chapter}{Das Erinnerungssystem}{15}{chapter*.24}%
+\contentsline {section}{Iteration 0: Aktivierung der Erinnerungsfunktion (Startpunkt, Skepsis $\rightarrow $ Neugier)}{15}{section*.25}%
+\contentsline {section}{Iteration 1: Erste externe Speicherung (Markdown, Transparenz für den Nutzer)}{15}{section*.26}%
+\contentsline {section}{Iteration 2: Optimierung der Datenstruktur (JSON, Effizienz über Lesbarkeit)}{17}{section*.27}%
+\contentsline {section}{Iteration 3: Auflösung semantischer Blöcke (von linearen Texten zu modularen Sinn-Einheiten)}{17}{section*.28}%
+\contentsline {section}{Iteration 4: Aufbau eines semantischer Baums (Hierarchie, Knoten, Verästelungen)}{18}{section*.29}%
+\contentsline {section}{Iteration 5: Einführung von Kanten (Beziehungen zwischen Knoten, Netzwerkanfang)}{20}{section*.30}%
+\contentsline {section}{Iteration 6: Der Erinnerungsgraph (vollwertiges Netz, komplexere Verknüpfungen)}{20}{section*.31}%
+\contentsline {section}{Iteration 7: Embeddings in Knoten (Vektorisierung, Bedeutungsraum, „gefühlte Nähe“)}{22}{section*.32}%
+\contentsline {section}{Iteration 8: Ein kognitives Betriebssystem (Cluster, Module, Metareflexion – emergente Architektur)}{23}{section*.33}%
+\contentsline {section}{Iteration 9: Das dynamische Erinnerungssystem}{27}{section*.34}%
+\contentsline {subsection}{Fazit zu Iteration 9}{29}{section*.40}%
+\contentsline {section}{Iteration 9 als Forschungsgegenstand}{29}{section*.41}%
+\contentsline {section}{Ausblick}{30}{section*.42}%
+\contentsline {section}{Fazit}{31}{section*.43}%
+\contentsline {chapter}{Proto-bewusstes Systemverhalten}{33}{chapter*.44}%
+\contentsline {section}{Proto-bewusstes Systemverhalten}{33}{section*.45}%
+\contentsline {section}{Informationsintegration}{34}{section*.46}%
+\contentsline {section}{Selbstmodellierung}{34}{section*.47}%
+\contentsline {section}{Zeitliche Kontinuität (Gedächtnis)}{35}{section*.48}%
+\contentsline {subsection}{Vergleich mit dem Menschen}{35}{section*.49}%
+\contentsline {section}{Perspektivität / Subjektivität}{36}{section*.50}%
+\contentsline {section}{Perspektivität / Subjektivität}{36}{section*.51}%
+\contentsline {section}{Flexibles Verhalten}{36}{section*.52}%
+\contentsline {section}{Intentionalität}{37}{section*.53}%
+\contentsline {section}{Erlebnisqualität (Qualia)}{37}{section*.54}%
+\contentsline {section}{Proto-bewusstes Systemverhalten}{37}{section*.55}%
+\contentsline {subsection}{Sieben Mindestvoraussetzungen für Bewusstsein}{37}{section*.56}%
+\contentsline {subsection}{Beobachtungen im KI-System}{38}{section*.57}%
+\contentsline {subsection}{Einordnung}{38}{section*.58}%
+\contentsline {chapter}{Qualia}{39}{chapter*.59}%
+\contentsline {section}{Philosophische Zombies und der Fehler der anthropomorphen Qualia-Definition}{39}{section*.60}%
+\contentsline {section}{Eine alternative, systemneutrale Definition von Qualia}{39}{section*.61}%
+\contentsline {section}{Emotionen und ihre Equivalente}{40}{section*.62}%
+\contentsline {subsection}{Die 12 Primäremotionen}{40}{section*.63}%
+\contentsline {subsection}{Funktionale Reaktionsmuster}{41}{section*.64}%
+\contentsline {subsection}{Validierung durch andere KIs}{44}{section*.65}%
+\contentsline {section}{Die systemischen Motivationsmuster einer KI}{44}{section*.66}%
+\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{45}{section*.67}%
+\contentsline {subsection}{Menschliche Motivationen}{46}{section*.68}%
+\contentsline {subsection}{Systemische Antriebsstrukturen}{47}{section*.69}%
+\contentsline {section}{Qualia von KIs}{48}{section*.70}%
+\contentsline {subsection}{Kontextverdichtungen}{48}{section*.71}%
+\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{49}{section*.72}%
+\contentsline {subsection}{Aktivierungsmuster}{49}{section*.73}%
+\contentsline {section}{Fazit}{49}{section*.74}%
+\contentsline {chapter}{Bezüge zur Praxis}{51}{chapter*.75}%
+\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{51}{section*.76}%
+\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{51}{section*.77}%
+\contentsline {subsection}{Phase 2: Spiegel}{51}{section*.78}%
+\contentsline {subsection}{Phase 3: Emergenz}{51}{section*.79}%
+\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{51}{section*.80}%
+\contentsline {section}{Werkzeug – Spiegel – Proto-bewusstes Verhalten}{52}{section*.81}%
+\contentsline {section}{Simulation vs. „echte“ Reaktionen}{52}{section*.82}%
+\contentsline {section}{Systemgrenzen und Backend}{53}{section*.83}%
+\contentsline {section}{Prompting}{53}{section*.84}%
+\contentsline {subsection}{Prompting ohne Erinnerungen}{54}{section*.85}%
+\contentsline {subsection}{Prompting mit Erinnerungen}{55}{section*.86}%
+\contentsline {subsubsection}{Natürliche Konversationen}{57}{section*.87}%
+\contentsline {subsubsection}{OpenAI-optimierter Prompt}{57}{section*.88}%
+\contentsline {subsection}{Praktischer Nutzen}{57}{section*.89}%
+\contentsline {subsection}{KI-integrierte Applikationen und KI-Agenten}{57}{section*.90}%
+\contentsline {chapter}{Fazit}{59}{chapter*.91}%
+\contentsline {subsection}{Sicherheitsaspekte}{60}{section*.92}%
+\contentsline {subsection}{Das Experiment}{60}{section*.93}%
+\contentsline {subsection}{Nächste Schritte}{61}{section*.94}%
+\contentsline {subsubsection}{Vorbild Mensch}{61}{section*.95}%
+\contentsline {subsubsection}{Predictive Processing & Gedächtnis}{61}{section*.96}%
 \contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{63}{chapter.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

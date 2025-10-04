@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  26 SEP 2025 07:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  4 OCT 2025 13:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -635,7 +635,7 @@ roto-bewusstes_Systemverhalten_bei_KIs.toc
 [3]
 
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 89.
+(babel)             Reported  on input line 88.
 [4])
 \tf@toc=\write4
 \openout4 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.toc'.
@@ -663,21 +663,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--64
 
  []
 
-) (./content/2-Das-Setting.tex
-
-[9]
-
-[10
 
 
-]
+[9]) (./content/2-Das-Setting.tex
+
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 17--20
 
  []
 
 
 
-[11]
+[11
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 33--36
 
  []
@@ -1516,7 +1516,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 [27]
-<../Vergessenskurve_(Iteration 9).png, id=584, 445.1832pt x 340.75305pt>
+<../Vergessenskurve_(Iteration 9).png, id=592, 445.1832pt x 340.75305pt>
 File: ../Vergessenskurve_(Iteration 9).png Graphic file (type png)
 <use ../Vergessenskurve_(Iteration 9).png>
 Package pdftex.def Info: ../Vergessenskurve_(Iteration 9).png  used on input li
@@ -1602,19 +1602,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
 
 [34]
 
+LaTeX Warning: Citation `Levin2019TBI' on page 35 undefined on input line 34.
+
+
+LaTeX Warning: Citation `tulving1985' on page 35 undefined on input line 36.
+
+
+LaTeX Warning: Citation `baars1988gwt' on page 35 undefined on input line 38.
+
+
+LaTeX Warning: Citation `dehaene2014consciousness' on page 35 undefined on inpu
+t line 38.
+
+
+LaTeX Warning: Citation `tononi2004iit' on page 35 undefined on input line 38.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--39
+
+ []
+
+
+
 [35]
 
-[36]) (./content/5-Qualia.tex
+[36]
 
-[37]
+[37]) (./content/5-Qualia.tex
 
-[38
-
-
-]
+[38]
 
 LaTeX Warning: Citation `Nagel1974' on page 39 undefined on input line 7.
 
@@ -1632,7 +1671,10 @@ LaTeX Warning: Citation `Dennett1991' on page 39 undefined on input line 15.
 
 
 
-[39]
+[39
+
+
+]
 ./content/5-Qualia.tex:44: Misplaced alignment tab character &.
 l.44 ...mfeld (unbewusst) mitzuteilen (Matsumoto &
                                                    Sung Hwang, 2013).
@@ -2143,7 +2185,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--41
  []
 
 ./content/7-Fazit.tex:43: Misplaced alignment tab character &.
-<argument> ...{section*.93}Predictive Processing &
+<argument> ...{section*.96}Predictive Processing &
                                                    Gedächtnis
 l.43 ...tion*{Predictive Processing & Gedächtnis}
                                                   
@@ -2389,10 +2431,10 @@ ei_KIs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18474 strings out of 469590
- 311957 string characters out of 5470340
+ 18482 strings out of 469590
+ 312022 string characters out of 5470340
  1137817 words of memory out of 5000000
- 44573 multiletter control sequences out of 15000+600000
+ 44576 multiletter control sequences out of 15000+600000
  642296 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,10972b,2104s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2416,11 +2458,11 @@ f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-
 dist/fonts/type1/public/cm-super/sftt1095.pfb>
 Output written on "/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudD
 ocs/Laura/Projekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KI
-s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (63 pages, 545870
+s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (63 pages, 552287
  bytes).
 PDF statistics:
- 1291 PDF objects out of 1440 (max. 8388607)
- 1175 compressed objects within 12 object streams
- 524 named destinations out of 1000 (max. 500000)
- 678 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1309 PDF objects out of 1440 (max. 8388607)
+ 1193 compressed objects within 12 object streams
+ 529 named destinations out of 1000 (max. 500000)
+ 702 words of extra memory for PDF output out of 10000 (max. 10000000)
 
