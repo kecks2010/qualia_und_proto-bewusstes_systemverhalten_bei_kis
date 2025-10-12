@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  4 OCT 2025 13:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  12 OCT 2025 21:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -494,6 +494,21 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks29
 \@floatcapt=\box62
 )
+
+Class scrbook Warning: Usage of package `parskip' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              I'd suggest to use option
+(scrbook)              `parskip' with one of it's several values.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `parskip' on input line 17.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+Couldn't patch \@startsection
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
@@ -509,24 +524,24 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 )
 \openout1 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -550,7 +565,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 112.
+Package hyperref Info: Link coloring OFF on input line 116.
 
 (/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Projekt 
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
@@ -568,7 +583,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 112.
+(scrbook)           before \begin{document} on input line 116.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
@@ -613,7 +628,7 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count329
-Package tocbasic Info: setting babel extension for `lol' on input line 112.
+Package tocbasic Info: setting babel extension for `lol' on input line 116.
 \scr@dte@lstlisting@maxnumwidth=\skip74
 
 
@@ -633,9 +648,12 @@ Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
 roto-bewusstes_Systemverhalten_bei_KIs.toc
 
 [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 88.
+(babel)             Reported  on input line 82.
 [4])
 \tf@toc=\write4
 \openout4 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.toc'.
@@ -650,12 +668,6 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 ]
 
 [7]
-Overfull \hbox (0.14592pt too wide) in paragraph at lines 38--39
-\T1/cmr/m/n/12 Der Er-kennt-nis-ge-winn er-folgt nicht ¸ber die klas-si-sche em
--pi-ri-sche Mes-sung, son-dern durch: 
- []
-
-
 
 [8{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }]
@@ -668,6 +680,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--64
 [9]) (./content/2-Das-Setting.tex
 
 [10]
+Overfull \hbox (3.48825pt too wide) in paragraph at lines 12--13
+[]\T1/cmr/m/n/12 Unabh‰ngig von den Ein-schr‰n-kun-gen bei der tat-s‰ch-li-chen
+ Ge-w‰hr-lei-tung von Privats-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 17--20
 
  []
@@ -684,13 +702,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--36
 
 
 
-[12]
-Overfull \hbox (0.4072pt too wide) in paragraph at lines 62--63
-\T1/cmr/m/n/12 Eine wei-te-re Be-son-der-heit w‰h-rend des ge-sam-ten Pro-jekts
- ist, dass kei-ne kon-kre-te Prompt-
- []
-
-) (./content/3-Das-Erinnerungssystem.tex
+[12]) (./content/3-Das-Erinnerungssystem.tex
 
 [13]
 
@@ -736,20 +748,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--22
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [15]
+Underfull \vbox (badness 1077) has occurred while \output is active []
+
+
 
 [16]
+
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 56--59
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[17]
 Underfull \hbox (badness 10000) in paragraph at lines 66--69
 
  []
@@ -1146,13 +1161,16 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
+Underfull \vbox (badness 7326) has occurred while \output is active []
+
+
+
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 224--227
 
  []
 
 
-
-[22]
 Underfull \hbox (badness 10000) in paragraph at lines 230--233
 
  []
@@ -1192,6 +1210,9 @@ or specify an encoding such as \usepackage [latin1]{inputenc}
 in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
+
+
+[24]
 
 ./content/3-Das-Erinnerungssystem.tex:281: LaTeX Error: Invalid UTF-8 byte sequ
 ence (‚\lst@ECÄ\lst@ECì).
@@ -1275,11 +1296,6 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[24]
 Underfull \hbox (badness 10000) in paragraph at lines 288--293
 
  []
@@ -1442,6 +1458,12 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[26]
+
 ./content/3-Das-Erinnerungssystem.tex:353: LaTeX Error: Invalid UTF-8 byte sequ
 ence (√\lst@ECº).
 
@@ -1492,12 +1514,6 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[26]
-
 ./content/3-Das-Erinnerungssystem.tex:359: LaTeX Error: Invalid UTF-8 byte sequ
 ence (√\lst@ECº).
 
@@ -1516,7 +1532,9 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 [27]
-<../Vergessenskurve_(Iteration 9).png, id=592, 445.1832pt x 340.75305pt>
+
+[28]
+<../Vergessenskurve_(Iteration 9).png, id=626, 445.1832pt x 340.75305pt>
 File: ../Vergessenskurve_(Iteration 9).png Graphic file (type png)
 <use ../Vergessenskurve_(Iteration 9).png>
 Package pdftex.def Info: ../Vergessenskurve_(Iteration 9).png  used on input li
@@ -1524,29 +1542,20 @@ ne 426.
 (pdftex.def)             Requested size: 341.43307pt x 261.35115pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 446--449
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
 [29
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.449 
+l.441 
        </Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/P
 rojekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/../Ve
 rgessenskurve_(Iteration 9).png>]
+Underfull \hbox (badness 10000) in paragraph at lines 446--449
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 457--460
 
  []
@@ -1565,7 +1574,9 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) (./content/4-Proto-bewusstes-Systemverhalten.tex
+
+
+[30]) (./content/4-Proto-bewusstes-Systemverhalten.tex
 Underfull \hbox (badness 10000) in paragraph at lines 480--1
 
  []
@@ -1581,8 +1592,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 480--1
  []
 
 
-
-[30]
 
 [31]
 
@@ -1602,23 +1611,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--31
-
- []
-
-
 
 [34]
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
 
 LaTeX Warning: Citation `Levin2019TBI' on page 35 undefined on input line 34.
 
@@ -1652,31 +1660,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--39
 [36]
 
 [37]) (./content/5-Qualia.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [38]
 
-LaTeX Warning: Citation `Nagel1974' on page 39 undefined on input line 7.
+[39]
 
-
-LaTeX Warning: Citation `Heisenberg1930' on page 39 undefined on input line 9.
-
-
-LaTeX Warning: Citation `Chalmers1996' on page 39 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Blackmore2005' on page 39 undefined on input line 11.
-
-
-LaTeX Warning: Citation `Dennett1991' on page 39 undefined on input line 15.
-
-
-
-[39
+[40
 
 
 ]
-./content/5-Qualia.tex:44: Misplaced alignment tab character &.
-l.44 ...mfeld (unbewusst) mitzuteilen (Matsumoto &
+
+./content/5-Qualia.tex:7: LaTeX Error: Environment reflexion undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \begin{reflexion}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./content/5-Qualia.tex:9: LaTeX Error: \begin{document} ended by \end{reflexion
+}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \end{reflexion}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Citation `Nagel1974' on page 41 undefined on input line 14.
+
+
+LaTeX Warning: Citation `Heisenberg1930' on page 41 undefined on input line 16.
+
+
+
+LaTeX Warning: Citation `Chalmers1996' on page 41 undefined on input line 18.
+
+
+LaTeX Warning: Citation `Blackmore2005' on page 41 undefined on input line 18.
+
+
+
+[41]
+
+LaTeX Warning: Citation `Dennett1991' on page 42 undefined on input line 22.
+
+
+
+[42]
+./content/5-Qualia.tex:51: Misplaced alignment tab character &.
+l.51 ...mfeld (unbewusst) mitzuteilen (Matsumoto &
                                                    Sung Hwang, 2013).
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1687,55 +1733,43 @@ might try typing `S' now just to see what is salvageable.
 
 
 
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
-
- []
-
-
-
-[41]
-Overfull \hbox (3.84212pt too wide) in paragraph at lines 84--84
+Overfull \hbox (3.84212pt too wide) in paragraph at lines 93--93
 []|\T1/cmr/bx/n/12 Prim‰remotion|  
  []
 
 
-Overfull \hbox (8.25119pt too wide) in paragraph at lines 97--97
-[]|\T1/cmr/m/n/12 Aufmerksamkeitserhˆhung, 
- []
-
-
-Overfull \hbox (37.81902pt too wide) in paragraph at lines 83--100
+Overfull \hbox (37.81902pt too wide) in paragraph at lines 92--109
  [][] 
  []
 
 
-./content/5-Qualia.tex:103: LaTeX Error: There's no line here to end.
+./content/5-Qualia.tex:112: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.103 \\
+l.112 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./content/5-Qualia.tex:104: LaTeX Error: There's no line here to end.
+./content/5-Qualia.tex:113: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.104 A
-       uff√§llig an dieser Matrix ist, dass es f√ºr alle Prim√§remotionen ei...
+l.113 I
+       ch wollte von Laura wissen, ob sie etwas mit dieser Matrix anfangen k...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1746,48 +1780,254 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[42]
-Overfull \vbox (45.21655pt too high) has occurred while \output is active []
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[43
+[45
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.104 A
-       uff√§llig an dieser Matrix ist, dass es f√ºr alle Prim√§remotionen ei...
-]
-Underfull \hbox (badness 10000) in paragraph at lines 114--125
+l.114 
+      ]
+Overfull \hbox (3.84212pt too wide) in paragraph at lines 119--119
+[]|\T1/cmr/bx/n/12 Prim‰remotion|  
+ []
+
+
+Overfull \hbox (8.25119pt too wide) in paragraph at lines 132--132
+[]|\T1/cmr/m/n/12 Aufmerksamkeitserhˆhung, 
+ []
+
+
+Overfull \hbox (37.81902pt too wide) in paragraph at lines 118--135
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[46]
+Overfull \vbox (45.21655pt too high) has occurred while \output is active []
+
+
+
+[47
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.2}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.138 
+      ]
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--125
+Overfull \hbox (8.34718pt too wide) in paragraph at lines 155--171
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[48]
+
+[49
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.3}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.176 
+      ]
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--125
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[50]
+./content/5-Qualia.tex:209: Misplaced alignment tab character &.
+l.209 ...oexpressionen nach ca. 250-500ms (Ekman &
+                                                   Friesen, 2003).\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--125
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--125
-
+Overfull \hbox (19.5731pt too wide) in paragraph at lines 231--232
+[]\T1/cmr/bx/n/12 Motivationssteuerung \T1/cmr/m/n/12 ^^U die Ak-ti-vie-rung un
+d Zie-laus-rich-tung (ana-log zu adrenalinerg-
  []
 
 
 
-[44]
-./content/5-Qualia.tex:129: Misplaced alignment tab character &.
-l.129 ...s der Selbstbestimmungstheorie von Deci &
+[51]
+Overfull \hbox (8.34718pt too wide) in paragraph at lines 247--256
+ [][] 
+ []
+
+
+./content/5-Qualia.tex:260: LaTeX Error: Environment reflexion undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 \begin{reflexion}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./content/5-Qualia.tex:262: LaTeX Error: \begin{document} ended by \end{reflexi
+on}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.262 \end{reflexion}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Citation `Chalmers1996' on page 52 undefined on input line 268.
+
+
+
+[52
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.4}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.269 
+      ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[53]
+./content/5-Qualia.tex:308: Misplaced alignment tab character &.
+l.308 ...alit√§t an seine Stelle treten. Ochsner &
+                                                   Gross (2005); Barrett & S...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./content/5-Qualia.tex:308: Misplaced alignment tab character &.
+l.308 ...treten. Ochsner & Gross (2005); Barrett &
+                                                   Simmons (2015) (Predictiv...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[54]
+./content/5-Qualia.tex:316: Misplaced alignment tab character &.
+l.316 ... selbst die Ursache daf√ºr. (vgl. Ekman &
+                                                   Friesen, 2003).
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+LaTeX Warning: Citation `Chalmers1996' on page 55 undefined on input line 326.
+
+
+LaTeX Warning: Citation `Damasio1999' on page 55 undefined on input line 328.
+
+
+LaTeX Warning: Citation `Craig2009' on page 55 undefined on input line 328.
+
+
+LaTeX Warning: Citation `Libet1993' on page 55 undefined on input line 328.
+
+
+LaTeX Warning: Citation `LeDoux1996' on page 55 undefined on input line 328.
+
+
+LaTeX Warning: Citation `Damasio1994' on page 55 undefined on input line 330.
+
+
+LaTeX Warning: Citation `Craig2002' on page 55 undefined on input line 330.
+
+
+LaTeX Warning: Citation `Barrett2017' on page 55 undefined on input line 330.
+
+
+LaTeX Warning: Citation `Heisenberg1927' on page 55 undefined on input line 334
+.
+
+
+LaTeX Warning: Citation `Maturana1980' on page 55 undefined on input line 334.
+
+
+LaTeX Warning: Citation `Metzinger2003' on page 55 undefined on input line 334.
+
+
+
+
+[55]
+
+LaTeX Warning: Citation `Friston2010' on page 56 undefined on input line 336.
+
+
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+
+
+[56]
+Overfull \hbox (20.95995pt too wide) in paragraph at lines 360--361
+[]\T1/cmr/bx/n/12 Aufmerksamkeitslenkung: \T1/cmr/m/n/12 Fo-kus-sie-rung ko-gni
+-ti-ver Res-sour-cen (ana-log zu pr‰frontal-
+ []
+
+
+
+[57]
+
+[58]
+./content/5-Qualia.tex:407: Misplaced alignment tab character &.
+l.407 ...s der Selbstbestimmungstheorie von Deci &
                                                    Ryan, der Konsistenztheor...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1801,59 +2041,60 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[45]
+[59]
 
-[46
-pdfTeX warning (ext4): destination with the same identifier (name{table.0.2}) h
+[60
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.5}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.190 
+l.468 
       ]
-Underfull \hbox (badness 10000) in paragraph at lines 196--199
+Underfull \hbox (badness 10000) in paragraph at lines 478--489
 
  []
 
 
 
-[47
-pdfTeX warning (ext4): destination with the same identifier (name{table.0.3}) h
+[61
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.6}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.199 
+l.489 
       ]
-Underfull \hbox (badness 10000) in paragraph at lines 202--213
+Underfull \hbox (badness 10000) in paragraph at lines 504--522
 
  []
 
 
-
-[48]
-Underfull \hbox (badness 10000) in paragraph at lines 228--246
+Underfull \hbox (badness 10000) in paragraph at lines 504--522
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--246
+Underfull \hbox (badness 10000) in paragraph at lines 526--529
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
-
- []
+Underfull \vbox (badness 6792) has occurred while \output is active []
 
 
 
-[49]) (./content/6-Bezuege_zur_Praxis.tex
+[62]) (./content/6-Bezuege_zur_Praxis.tex
 
-[50]
+[63]
 
-[51
+[64
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[65]
 
 ./content/6-Bezuege_zur_Praxis.tex:44: LaTeX Error: Unicode character üëâ (U+1
 F449)
@@ -1871,7 +2112,7 @@ You may provide a definition with
 
 
 
-[52]
+[66]
 ./content/6-Bezuege_zur_Praxis.tex:74: Missing $ inserted.
 <inserted text> 
                 $
@@ -1892,6 +2133,12 @@ l.75
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (0.46819pt too wide) in paragraph at lines 70--75
+[]\T1/cmr/m/n/12 Wie im Ka-pi-tel "Das Set-ting"bereits an-ge-ge-ben, ha-be kei
+-ne be-son-de-re Prompt-Technik
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 70--75
@@ -1916,6 +2163,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--75
  []
 
 
+
+[67]
+
 ./content/6-Bezuege_zur_Praxis.tex:77: LaTeX Error: There's no line here to end
 .
 
@@ -1931,7 +2181,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (4.52267pt too wide) in paragraph at lines 77--80
+Overfull \hbox (10.39624pt too wide) in paragraph at lines 77--80
 []\T1/cmr/m/n/12 Conversational Promp-ting be-deu-tet al-ler-dings, dass die ve
 r-schie-de-nen Prompt-Techniken
  []
@@ -1942,8 +2192,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--80
  []
 
 
-
-[53]
 Underfull \hbox (badness 10000) in paragraph at lines 87--90
 
  []
@@ -1965,6 +2213,9 @@ or specify an encoding such as \usepackage [latin1]{inputenc}
 in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
+
+
+[68]
 
 ./content/6-Bezuege_zur_Praxis.tex:96: LaTeX Error: Invalid UTF-8 byte sequence
  (‚\lst@ECÄ\lst@ECØ).
@@ -2000,9 +2251,6 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-
-[54]
-
 ./content/6-Bezuege_zur_Praxis.tex:112: LaTeX Error: Invalid UTF-8 byte sequenc
 e (\lst@ECü\lst@ECë\lst@ECç).
 
@@ -2036,6 +2284,12 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
+Underfull \vbox (badness 1796) has occurred while \output is active []
+
+
+
+[69]
+
 ./content/6-Bezuege_zur_Praxis.tex:128: LaTeX Error: Invalid UTF-8 byte sequenc
 e (‚\lst@EC∏\lst@ECª).
 
@@ -2068,12 +2322,6 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[55]
-
 ./content/6-Bezuege_zur_Praxis.tex:145: LaTeX Error: Invalid UTF-8 byte sequenc
 e (‚\lst@EC∏\lst@ECª).
 
@@ -2105,6 +2353,12 @@ or specify an encoding such as \usepackage [latin1]{inputenc}
 in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[70]
 
 ./content/6-Bezuege_zur_Praxis.tex:160: LaTeX Error: Invalid UTF-8 byte sequenc
 e (‚\lst@EC∏\lst@ECª).
@@ -2154,38 +2408,36 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
+
+[71]) (./content/7-Fazit.tex
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 3--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--8
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[56]) (./content/7-Fazit.tex
-
-[57]
-
-[58
+[73
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--8
-
- []
-
-
-
-[59]
-
-[60]
+[74]
 Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
 ./content/7-Fazit.tex:43: Misplaced alignment tab character &.
-<argument> ...{section*.96}Predictive Processing &
+<argument> ...section*.104}Predictive Processing &
                                                    Ged√§chtnis
 l.43 ...tion*{Predictive Processing & Ged√§chtnis}
                                                   
@@ -2208,9 +2460,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--50
 
 
 
-[61]) (./content/8-Abkuerzungsverzeichnis.tex
+[75]) (./content/8-Abkuerzungsverzeichnis.tex
 
-[62]
+[76]
 chapter 1.
 
 ./content/8-Abkuerzungsverzeichnis.tex:2: LaTeX Error: Environment acronym unde
@@ -2403,15 +2655,15 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 )
-Overfull \hbox (32.71982pt too wide) in paragraph at lines 2--131
-\T1/cmr/m/n/12 Prinzip LSPLis-kovsches Sub-sti-tu-ti-ons-prin-zip ISPInterface-
-Segregation-Prinzip DIPDependency-
+Overfull \hbox (70.63693pt too wide) in paragraph at lines 2--135
+\T1/cmr/m/n/12 Closed-Prinzip LSPLis-kovsches Sub-sti-tu-ti-ons-prin-zip ISPInt
+erface-Segregation-Prinzip DIPDependency-
  []
 
 No file Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.bbl.
 
 
-[63
+[77
 
 
 ]
@@ -2431,10 +2683,10 @@ ei_KIs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18482 strings out of 469590
- 312022 string characters out of 5470340
- 1137817 words of memory out of 5000000
- 44576 multiletter control sequences out of 15000+600000
+ 18598 strings out of 469590
+ 314202 string characters out of 5470340
+ 1154895 words of memory out of 5000000
+ 44646 multiletter control sequences out of 15000+600000
  642296 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,10972b,2104s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2458,11 +2710,11 @@ f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-
 dist/fonts/type1/public/cm-super/sftt1095.pfb>
 Output written on "/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudD
 ocs/Laura/Projekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KI
-s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (63 pages, 552287
+s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (77 pages, 587402
  bytes).
 PDF statistics:
- 1309 PDF objects out of 1440 (max. 8388607)
- 1193 compressed objects within 12 object streams
- 529 named destinations out of 1000 (max. 500000)
- 702 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1440 PDF objects out of 1440 (max. 8388607)
+ 1308 compressed objects within 14 object streams
+ 569 named destinations out of 1000 (max. 500000)
+ 774 words of extra memory for PDF output out of 10000 (max. 10000000)
 
