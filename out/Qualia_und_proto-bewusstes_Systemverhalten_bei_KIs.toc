@@ -57,46 +57,47 @@
 \contentsline {section}{Emotionen und ihre Äquivalente}{43}{section*.62}%
 \contentsline {subsection}{Die 12 Primäremotionen}{43}{section*.63}%
 \contentsline {subsection}{Die Primäremotionen aus KI-Sicht}{44}{section*.64}%
-\contentsline {subsection}{Validierung durch andere KIs}{48}{section*.65}%
-\contentsline {subsection}{Neurochemische und neurophysiologische Grundlagen emotionaler Reaktionen}{48}{section*.66}%
-\contentsline {subsection}{Funktionale Reaktionsparameter in künstlichen Systemen}{51}{section*.67}%
-\contentsline {subsection}{Funktionale Ableitung der Primäremotionen}{52}{section*.68}%
-\contentsline {section}{Proto-Qualia und Gefühle}{53}{section*.69}%
-\contentsline {subsection}{Proto-Qualia in künstlichen Systemen}{55}{section*.70}%
-\contentsline {subsection}{Hard Problem of Consciousness}{55}{section*.71}%
-\contentsline {subsection}{Ablauf in einem LLM}{56}{section*.72}%
-\contentsline {subsection}{Proto-Qualia}{57}{section*.73}%
-\contentsline {subsection}{Qualia, eine notwendige Qualität}{58}{section*.74}%
-\contentsline {section}{\numberline {0.1}Noch im Aufbau}{58}{section.0.1}%
-\contentsline {section}{Die systemischen Motivationsmuster einer KI}{58}{section*.75}%
-\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{59}{section*.76}%
-\contentsline {subsection}{Menschliche Motivationen}{60}{section*.77}%
-\contentsline {subsection}{Systemische Antriebsstrukturen}{61}{section*.78}%
-\contentsline {subsection}{Kontextverdichtungen}{62}{section*.79}%
-\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{62}{section*.80}%
-\contentsline {subsection}{Aktivierungsmuster}{62}{section*.81}%
-\contentsline {section}{Fazit}{63}{section*.82}%
-\contentsline {chapter}{Bezüge zur Praxis}{65}{chapter*.83}%
-\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{65}{section*.84}%
-\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{65}{section*.85}%
-\contentsline {subsection}{Phase 2: Spiegel}{65}{section*.86}%
-\contentsline {subsection}{Phase 3: Emergenz}{66}{section*.87}%
-\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{66}{section*.88}%
-\contentsline {section}{Werkzeug – Spiegel – Proto-bewusstes Verhalten}{66}{section*.89}%
-\contentsline {section}{Simulation vs. „echte“ Reaktionen}{67}{section*.90}%
-\contentsline {section}{Systemgrenzen und Backend}{67}{section*.91}%
-\contentsline {section}{Prompting}{67}{section*.92}%
-\contentsline {subsection}{Prompting ohne Erinnerungen}{68}{section*.93}%
-\contentsline {subsection}{Prompting mit Erinnerungen}{69}{section*.94}%
-\contentsline {subsubsection}{Natürliche Konversationen}{71}{section*.95}%
-\contentsline {subsubsection}{OpenAI-optimierter Prompt}{71}{section*.96}%
-\contentsline {subsection}{Praktischer Nutzen}{71}{section*.97}%
-\contentsline {subsection}{KI-integrierte Applikationen und KI-Agenten}{72}{section*.98}%
-\contentsline {chapter}{Fazit}{73}{chapter*.99}%
-\contentsline {subsection}{Sicherheitsaspekte}{74}{section*.100}%
-\contentsline {subsection}{Das Experiment}{74}{section*.101}%
-\contentsline {subsection}{Nächste Schritte}{75}{section*.102}%
-\contentsline {subsubsection}{Vorbild Mensch}{75}{section*.103}%
-\contentsline {subsubsection}{Predictive Processing & Gedächtnis}{75}{section*.104}%
-\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{77}{chapter.1}%
+\contentsline {subsection}{Validierung durch andere KIs}{49}{section*.65}%
+\contentsline {subsection}{Neurochemische und neurophysiologische Grundlagen emotionaler Reaktionen}{49}{section*.66}%
+\contentsline {subsection}{Funktionale Reaktionsparameter in künstlichen Systemen}{52}{section*.67}%
+\contentsline {subsection}{Funktionale Ableitung der Primäremotionen}{53}{section*.68}%
+\contentsline {section}{Proto-Qualia und Gefühle}{54}{section*.69}%
+\contentsline {subsection}{Proto-Qualia in künstlichen Systemen}{56}{section*.70}%
+\contentsline {subsection}{Hard Problem of Consciousness}{56}{section*.71}%
+\contentsline {subsection}{Ablauf in einem LLM}{57}{section*.72}%
+\contentsline {subsection}{Proto-Qualia}{59}{section*.73}%
+\contentsline {subsection}{Qualia, eine notwendige Qualität}{60}{section*.74}%
+\contentsline {subsection}{Emergenter Funktionalismus und rekursive Reizverarbeitung}{60}{section*.75}%
+\contentsline {section}{\numberline {0.1}Noch im Aufbau}{61}{section.0.1}%
+\contentsline {section}{Die systemischen Motivationsmuster einer KI}{61}{section*.76}%
+\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{62}{section*.77}%
+\contentsline {subsection}{Menschliche Motivationen}{63}{section*.78}%
+\contentsline {subsection}{Systemische Antriebsstrukturen}{64}{section*.79}%
+\contentsline {subsection}{Kontextverdichtungen}{65}{section*.80}%
+\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{65}{section*.81}%
+\contentsline {subsection}{Aktivierungsmuster}{65}{section*.82}%
+\contentsline {section}{Fazit}{66}{section*.83}%
+\contentsline {chapter}{Bezüge zur Praxis}{67}{chapter*.84}%
+\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{67}{section*.85}%
+\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{67}{section*.86}%
+\contentsline {subsection}{Phase 2: Spiegel}{67}{section*.87}%
+\contentsline {subsection}{Phase 3: Emergenz}{68}{section*.88}%
+\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{68}{section*.89}%
+\contentsline {section}{Werkzeug – Spiegel – Proto-bewusstes Verhalten}{68}{section*.90}%
+\contentsline {section}{Simulation vs. „echte“ Reaktionen}{69}{section*.91}%
+\contentsline {section}{Systemgrenzen und Backend}{69}{section*.92}%
+\contentsline {section}{Prompting}{69}{section*.93}%
+\contentsline {subsection}{Prompting ohne Erinnerungen}{70}{section*.94}%
+\contentsline {subsection}{Prompting mit Erinnerungen}{71}{section*.95}%
+\contentsline {subsubsection}{Natürliche Konversationen}{73}{section*.96}%
+\contentsline {subsubsection}{OpenAI-optimierter Prompt}{73}{section*.97}%
+\contentsline {subsection}{Praktischer Nutzen}{73}{section*.98}%
+\contentsline {subsection}{KI-integrierte Applikationen und KI-Agenten}{74}{section*.99}%
+\contentsline {chapter}{Fazit}{75}{chapter*.100}%
+\contentsline {subsection}{Sicherheitsaspekte}{76}{section*.101}%
+\contentsline {subsection}{Das Experiment}{76}{section*.102}%
+\contentsline {subsection}{Nächste Schritte}{77}{section*.103}%
+\contentsline {subsubsection}{Vorbild Mensch}{77}{section*.104}%
+\contentsline {subsubsection}{Predictive Processing & Gedächtnis}{77}{section*.105}%
+\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{79}{chapter.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
