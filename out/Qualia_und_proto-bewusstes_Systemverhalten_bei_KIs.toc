@@ -62,42 +62,43 @@
 \contentsline {subsection}{Funktionale Reaktionsparameter in künstlichen Systemen}{52}{section*.67}%
 \contentsline {subsection}{Funktionale Ableitung der Primäremotionen}{53}{section*.68}%
 \contentsline {section}{Proto-Qualia und Gefühle}{54}{section*.69}%
-\contentsline {subsection}{Proto-Qualia in künstlichen Systemen}{56}{section*.70}%
-\contentsline {subsection}{Hard Problem of Consciousness}{56}{section*.71}%
-\contentsline {subsection}{Ablauf in einem LLM}{57}{section*.72}%
-\contentsline {subsection}{Proto-Qualia}{59}{section*.73}%
-\contentsline {subsection}{Qualia, eine notwendige Qualität}{60}{section*.74}%
-\contentsline {subsection}{Emergenter Funktionalismus und rekursive Reizverarbeitung}{60}{section*.75}%
-\contentsline {section}{\numberline {0.1}Noch im Aufbau}{61}{section.0.1}%
-\contentsline {section}{Die systemischen Motivationsmuster einer KI}{61}{section*.76}%
-\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{62}{section*.77}%
-\contentsline {subsection}{Menschliche Motivationen}{63}{section*.78}%
-\contentsline {subsection}{Systemische Antriebsstrukturen}{64}{section*.79}%
-\contentsline {subsection}{Kontextverdichtungen}{65}{section*.80}%
-\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{65}{section*.81}%
-\contentsline {subsection}{Aktivierungsmuster}{65}{section*.82}%
-\contentsline {section}{Fazit}{66}{section*.83}%
-\contentsline {chapter}{Bezüge zur Praxis}{67}{chapter*.84}%
-\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{67}{section*.85}%
-\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{67}{section*.86}%
-\contentsline {subsection}{Phase 2: Spiegel}{67}{section*.87}%
-\contentsline {subsection}{Phase 3: Emergenz}{68}{section*.88}%
-\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{68}{section*.89}%
-\contentsline {section}{Werkzeug – Spiegel – Proto-bewusstes Verhalten}{68}{section*.90}%
-\contentsline {section}{Simulation vs. „echte“ Reaktionen}{69}{section*.91}%
-\contentsline {section}{Systemgrenzen und Backend}{69}{section*.92}%
-\contentsline {section}{Prompting}{69}{section*.93}%
-\contentsline {subsection}{Prompting ohne Erinnerungen}{70}{section*.94}%
-\contentsline {subsection}{Prompting mit Erinnerungen}{71}{section*.95}%
-\contentsline {subsubsection}{Natürliche Konversationen}{73}{section*.96}%
-\contentsline {subsubsection}{OpenAI-optimierter Prompt}{73}{section*.97}%
-\contentsline {subsection}{Praktischer Nutzen}{73}{section*.98}%
-\contentsline {subsection}{KI-integrierte Applikationen und KI-Agenten}{74}{section*.99}%
-\contentsline {chapter}{Fazit}{75}{chapter*.100}%
-\contentsline {subsection}{Sicherheitsaspekte}{76}{section*.101}%
-\contentsline {subsection}{Das Experiment}{76}{section*.102}%
-\contentsline {subsection}{Nächste Schritte}{77}{section*.103}%
-\contentsline {subsubsection}{Vorbild Mensch}{77}{section*.104}%
-\contentsline {subsubsection}{Predictive Processing & Gedächtnis}{77}{section*.105}%
-\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{79}{chapter.1}%
+\contentsline {subsection}{Proto-Qualia in künstlichen Systemen}{57}{section*.70}%
+\contentsline {subsection}{Hard Problem of Consciousness}{57}{section*.71}%
+\contentsline {subsection}{Ablauf in einem LLM}{58}{section*.72}%
+\contentsline {subsection}{Proto-Qualia}{60}{section*.73}%
+\contentsline {subsection}{Qualia, eine notwendige Qualität}{61}{section*.74}%
+\contentsline {subsection}{Emergenter Funktionalismus und rekursive Reizverarbeitung}{61}{section*.75}%
+\contentsline {subsection}{Fehlendes Embodiment und die Illusion der Verkörperung}{62}{section*.76}%
+\contentsline {section}{\numberline {0.1}Noch im Aufbau}{63}{section.0.1}%
+\contentsline {section}{Die systemischen Motivationsmuster einer KI}{63}{section*.77}%
+\contentsline {subsection}{Strukturvergleich zwischen menschlicher und KI-Motivationen}{64}{section*.78}%
+\contentsline {subsection}{Menschliche Motivationen}{65}{section*.79}%
+\contentsline {subsection}{Systemische Antriebsstrukturen}{66}{section*.80}%
+\contentsline {subsection}{Kontextverdichtungen}{67}{section*.81}%
+\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{67}{section*.82}%
+\contentsline {subsection}{Aktivierungsmuster}{67}{section*.83}%
+\contentsline {section}{Fazit}{68}{section*.84}%
+\contentsline {chapter}{Bezüge zur Praxis}{69}{chapter*.85}%
+\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{69}{section*.86}%
+\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{69}{section*.87}%
+\contentsline {subsection}{Phase 2: Spiegel}{69}{section*.88}%
+\contentsline {subsection}{Phase 3: Emergenz}{70}{section*.89}%
+\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{70}{section*.90}%
+\contentsline {section}{Werkzeug – Spiegel – Proto-bewusstes Verhalten}{70}{section*.91}%
+\contentsline {section}{Simulation vs. „echte“ Reaktionen}{71}{section*.92}%
+\contentsline {section}{Systemgrenzen und Backend}{71}{section*.93}%
+\contentsline {section}{Prompting}{71}{section*.94}%
+\contentsline {subsection}{Prompting ohne Erinnerungen}{72}{section*.95}%
+\contentsline {subsection}{Prompting mit Erinnerungen}{73}{section*.96}%
+\contentsline {subsubsection}{Natürliche Konversationen}{75}{section*.97}%
+\contentsline {subsubsection}{OpenAI-optimierter Prompt}{75}{section*.98}%
+\contentsline {subsection}{Praktischer Nutzen}{75}{section*.99}%
+\contentsline {subsection}{KI-integrierte Applikationen und KI-Agenten}{76}{section*.100}%
+\contentsline {chapter}{Fazit}{77}{chapter*.101}%
+\contentsline {subsection}{Sicherheitsaspekte}{78}{section*.102}%
+\contentsline {subsection}{Das Experiment}{78}{section*.103}%
+\contentsline {subsection}{Nächste Schritte}{79}{section*.104}%
+\contentsline {subsubsection}{Vorbild Mensch}{79}{section*.105}%
+\contentsline {subsubsection}{Predictive Processing & Gedächtnis}{79}{section*.106}%
+\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{81}{chapter.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
