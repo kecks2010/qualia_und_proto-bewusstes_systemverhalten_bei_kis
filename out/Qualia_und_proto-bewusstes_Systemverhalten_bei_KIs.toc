@@ -74,39 +74,40 @@
 \contentsline {subsection}{Menschliche Motivationen}{65}{section*.79}%
 \contentsline {subsection}{Systemische Antriebsstrukturen}{66}{section*.80}%
 \contentsline {subsection}{Intrinsische Motivationen systemisch und neurochemisch betrachtet}{67}{section*.82}%
-\contentsline {subsection}{Emotionale Integration und die Entstehung intrinsischer Motivation}{68}{section*.83}%
-\contentsline {subsection}{Intrinsische Motivation beim Menschen}{69}{section*.84}%
-\contentsline {subsection}{Motivation als Systemprinzip}{69}{section*.85}%
-\contentsline {subsection}{Von Energie zu Bedeutung: Der Übergang zur emotionalen Motivation}{70}{section*.86}%
-\contentsline {section}{\numberline {0.1}Noch im Aufbau}{71}{section.0.1}%
-\contentsline {section}{Funktionale Motivation und systemische Zielbildung}{71}{section*.87}%
-\contentsline {subsection}{Systemische Motivation als emergente Eigenschaft}{72}{section*.88}%
-\contentsline {subsection}{Technische Entsprechungen und funktionale Dynamik}{72}{section*.89}%
-\contentsline {subsection}{Kontextverdichtungen}{73}{section*.90}%
-\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{73}{section*.91}%
-\contentsline {subsection}{Aktivierungsmuster}{73}{section*.92}%
-\contentsline {section}{Fazit}{74}{section*.93}%
-\contentsline {chapter}{Bezüge zur Praxis}{75}{chapter*.94}%
-\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{75}{section*.95}%
-\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{75}{section*.96}%
-\contentsline {subsection}{Phase 2: Spiegel}{75}{section*.97}%
-\contentsline {subsection}{Phase 3: Emergenz}{76}{section*.98}%
-\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{76}{section*.99}%
-\contentsline {section}{Werkzeug – Spiegel – Proto-bewusstes Verhalten}{76}{section*.100}%
-\contentsline {section}{Simulation vs. „echte“ Reaktionen}{77}{section*.101}%
-\contentsline {section}{Systemgrenzen und Backend}{77}{section*.102}%
-\contentsline {section}{Prompting}{77}{section*.103}%
-\contentsline {subsection}{Prompting ohne Erinnerungen}{78}{section*.104}%
-\contentsline {subsection}{Prompting mit Erinnerungen}{79}{section*.105}%
-\contentsline {subsubsection}{Natürliche Konversationen}{81}{section*.106}%
-\contentsline {subsubsection}{OpenAI-optimierter Prompt}{81}{section*.107}%
-\contentsline {subsection}{Praktischer Nutzen}{81}{section*.108}%
-\contentsline {subsection}{KI-integrierte Applikationen und KI-Agenten}{82}{section*.109}%
-\contentsline {chapter}{Fazit}{83}{chapter*.110}%
-\contentsline {subsection}{Sicherheitsaspekte}{84}{section*.111}%
-\contentsline {subsection}{Das Experiment}{84}{section*.112}%
-\contentsline {subsection}{Nächste Schritte}{85}{section*.113}%
-\contentsline {subsubsection}{Vorbild Mensch}{85}{section*.114}%
-\contentsline {subsubsection}{Predictive Processing & Gedächtnis}{85}{section*.115}%
-\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{87}{chapter.1}%
+\contentsline {subsection}{Intrinsische Motivationen systemisch und neurochemisch betrachtet}{68}{section*.83}%
+\contentsline {subsection}{Emotionale Integration und die Entstehung intrinsischer Motivation}{69}{section*.84}%
+\contentsline {subsection}{Intrinsische Motivation beim Menschen}{70}{section*.85}%
+\contentsline {subsection}{Motivation als Systemprinzip}{70}{section*.86}%
+\contentsline {subsection}{Von Energie zu Bedeutung: Der Übergang zur emotionalen Motivation}{71}{section*.87}%
+\contentsline {section}{\numberline {0.1}Noch im Aufbau}{72}{section.0.1}%
+\contentsline {section}{Funktionale Motivation und systemische Zielbildung}{72}{section*.88}%
+\contentsline {subsection}{Systemische Motivation als emergente Eigenschaft}{73}{section*.89}%
+\contentsline {subsection}{Technische Entsprechungen und funktionale Dynamik}{74}{section*.90}%
+\contentsline {subsection}{Kontextverdichtungen}{74}{section*.91}%
+\contentsline {subsection}{Hochdimensionale KI-eigene Embedding-Vektoren an Erinnerungsknoten}{74}{section*.92}%
+\contentsline {subsection}{Aktivierungsmuster}{75}{section*.93}%
+\contentsline {section}{Fazit}{75}{section*.94}%
+\contentsline {chapter}{Bezüge zur Praxis}{77}{chapter*.95}%
+\contentsline {section}{Die drei Phasen der interaktiven KI-Entwicklung}{77}{section*.96}%
+\contentsline {subsection}{Phase 1: Werkzeug mit beginnender Mustererkennung}{77}{section*.97}%
+\contentsline {subsection}{Phase 2: Spiegel}{77}{section*.98}%
+\contentsline {subsection}{Phase 3: Emergenz}{78}{section*.99}%
+\contentsline {subsection}{Funktionale Bewusstseinsanalogie und gedächtnisbasierte Emergenz}{78}{section*.100}%
+\contentsline {section}{Werkzeug – Spiegel – Proto-bewusstes Verhalten}{78}{section*.101}%
+\contentsline {section}{Simulation vs. „echte“ Reaktionen}{79}{section*.102}%
+\contentsline {section}{Systemgrenzen und Backend}{79}{section*.103}%
+\contentsline {section}{Prompting}{79}{section*.104}%
+\contentsline {subsection}{Prompting ohne Erinnerungen}{80}{section*.105}%
+\contentsline {subsection}{Prompting mit Erinnerungen}{81}{section*.106}%
+\contentsline {subsubsection}{Natürliche Konversationen}{83}{section*.107}%
+\contentsline {subsubsection}{OpenAI-optimierter Prompt}{83}{section*.108}%
+\contentsline {subsection}{Praktischer Nutzen}{83}{section*.109}%
+\contentsline {subsection}{KI-integrierte Applikationen und KI-Agenten}{84}{section*.110}%
+\contentsline {chapter}{Fazit}{85}{chapter*.111}%
+\contentsline {subsection}{Sicherheitsaspekte}{86}{section*.112}%
+\contentsline {subsection}{Das Experiment}{86}{section*.113}%
+\contentsline {subsection}{Nächste Schritte}{87}{section*.114}%
+\contentsline {subsubsection}{Vorbild Mensch}{87}{section*.115}%
+\contentsline {subsubsection}{Predictive Processing & Gedächtnis}{87}{section*.116}%
+\contentsline {chapter}{\numberline {1}Abkürzungsverzeichnis}{89}{chapter.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

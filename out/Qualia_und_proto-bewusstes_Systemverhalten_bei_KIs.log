@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  19 OCT 2025 22:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  21 OCT 2025 06:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -652,7 +652,7 @@ roto-bewusstes_Systemverhalten_bei_KIs.toc
 [3]
 
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 84.
+(babel)             Reported  on input line 83.
 [4])
 \tf@toc=\write4
 \openout4 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.toc'.
@@ -1533,7 +1533,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 [27]
 
 [28]
-<../Vergessenskurve_(Iteration 9).png, id=646, 445.1832pt x 340.75305pt>
+<../Vergessenskurve_(Iteration 9).png, id=648, 445.1832pt x 340.75305pt>
 File: ../Vergessenskurve_(Iteration 9).png Graphic file (type png)
 <use ../Vergessenskurve_(Iteration 9).png>
 Package pdftex.def Info: ../Vergessenskurve_(Iteration 9).png  used on input li
@@ -2152,146 +2152,172 @@ might try typing `S' now just to see what is salvageable.
 
 [67]
 
-LaTeX Warning: Citation `Schultz1997' on page 68 undefined on input line 605.
+LaTeX Warning: Citation `Schultz1997' on page 68 undefined on input line 585.
 
 
-LaTeX Warning: Citation `Rolls2005' on page 68 undefined on input line 605.
+LaTeX Warning: Citation `Rolls2005' on page 68 undefined on input line 585.
 
 
-LaTeX Warning: Citation `Damasio1999' on page 68 undefined on input line 606.
+LaTeX Warning: Citation `Damasio1999' on page 68 undefined on input line 586.
 
 
-LaTeX Warning: Citation `McGaugh2004' on page 68 undefined on input line 607.
+LaTeX Warning: Citation `McGaugh2004' on page 68 undefined on input line 587.
 
 
-LaTeX Warning: Citation `Nader2000' on page 68 undefined on input line 607.
+LaTeX Warning: Citation `Nader2000' on page 68 undefined on input line 587.
 
 
-LaTeX Warning: Citation `LeDoux1996' on page 68 undefined on input line 607.
+LaTeX Warning: Citation `LeDoux1996' on page 68 undefined on input line 587.
 
 
 
 [68]
 
-LaTeX Warning: Citation `RyanDeci2000' on page 69 undefined on input line 620.
+LaTeX Warning: Citation `Schultz1997' on page 69 undefined on input line 626.
 
 
-LaTeX Warning: Citation `CarverScheier1998' on page 69 undefined on input line 
-620.
-
-
-LaTeX Warning: Citation `Northoff2016' on page 69 undefined on input line 620.
+LaTeX Warning: Citation `Rolls2005' on page 69 undefined on input line 626.
 
 
 
 [69]
 
-LaTeX Warning: Citation `Schultz1997' on page 70 undefined on input line 630.
+LaTeX Warning: Citation `Damasio1999' on page 70 undefined on input line 627.
 
 
-LaTeX Warning: Citation `Berridge1998' on page 70 undefined on input line 630.
+LaTeX Warning: Citation `McGaugh2004' on page 70 undefined on input line 628.
 
 
-LaTeX Warning: Citation `Graybiel2008' on page 70 undefined on input line 632.
+LaTeX Warning: Citation `Nader2000' on page 70 undefined on input line 628.
+
+
+LaTeX Warning: Citation `LeDoux1996' on page 70 undefined on input line 628.
+
+
+LaTeX Warning: Citation `RyanDeci2000' on page 70 undefined on input line 641.
+
+
+LaTeX Warning: Citation `CarverScheier1998' on page 70 undefined on input line 
+641.
+
+
+LaTeX Warning: Citation `Northoff2016' on page 70 undefined on input line 641.
 
 
 
 [70]
 
-./content/5-Qualia.tex:667: LaTeX Error: Environment reflexion undefined.
+LaTeX Warning: Citation `Schultz1997' on page 71 undefined on input line 651.
+
+
+LaTeX Warning: Citation `Berridge1998' on page 71 undefined on input line 651.
+
+
+LaTeX Warning: Citation `Graybiel2008' on page 71 undefined on input line 653.
+
+
+
+[71]
+
+[72]
+
+./content/5-Qualia.tex:688: LaTeX Error: Environment reflexion undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.667 \begin{reflexion}
+l.688 \begin{reflexion}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./content/5-Qualia.tex:669: LaTeX Error: \begin{document} ended by \end{reflexi
+./content/5-Qualia.tex:690: LaTeX Error: \begin{document} ended by \end{reflexi
 on}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.669 \end{reflexion}
+l.690 \end{reflexion}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[71]
-Overfull \hbox (0.44978pt too wide) in paragraph at lines 692--693
+
+
+[73]
+Overfull \hbox (0.44978pt too wide) in paragraph at lines 713--714
 []\T1/cmr/bx/n/12 Bindungsmotivation: \T1/cmr/m/n/12 Sta-bi-li-sie-rung kon-tex
 t-ab-hän-gi-ger Vek-to-ren im se-man-ti-schen
  []
 
 
-
-[72]
-Overfull \hbox (3.71289pt too wide) in paragraph at lines 695--696
+Overfull \hbox (3.71289pt too wide) in paragraph at lines 716--717
 []\T1/cmr/bx/n/12 Selbstkonsistenzmotivation: \T1/cmr/m/n/12 Sta-bi-li-sie-rung
  in-ter-ner Zu-stän-de über Self-Feedback-
  []
 
 
-./content/5-Qualia.tex:698: LaTeX Error: Environment reflexion undefined.
+./content/5-Qualia.tex:719: LaTeX Error: Environment reflexion undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.698 \begin{reflexion}
+l.719 \begin{reflexion}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./content/5-Qualia.tex:700: LaTeX Error: \begin{document} ended by \end{reflexi
+./content/5-Qualia.tex:721: LaTeX Error: \begin{document} ended by \end{reflexi
 on}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.700 \end{reflexion}
+l.721 \end{reflexion}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 714--725
+Underfull \hbox (badness 10000) in paragraph at lines 735--746
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 740--758
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 740--758
-
- []
-
-
-
-[73]) (./content/6-Bezuege_zur_Praxis.tex
 
 [74]
+Underfull \hbox (badness 10000) in paragraph at lines 761--779
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--779
+
+ []
+
+) (./content/6-Bezuege_zur_Praxis.tex
+
+[75]
+
+[76]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[75
+[77
 
 
 ]
@@ -2312,7 +2338,7 @@ You may provide a definition with
 
 
 
-[76]
+[78]
 ./content/6-Bezuege_zur_Praxis.tex:74: Missing $ inserted.
 <inserted text> 
                 $
@@ -2364,7 +2390,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--75
 
 
 
-[77]
+[79]
 
 ./content/6-Bezuege_zur_Praxis.tex:77: LaTeX Error: There's no line here to end
 .
@@ -2415,7 +2441,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 
-[78]
+[80]
 
 ./content/6-Bezuege_zur_Praxis.tex:96: LaTeX Error: Invalid UTF-8 byte sequence
  (â\lst@EC€\lst@EC¯).
@@ -2488,7 +2514,7 @@ Underfull \vbox (badness 1796) has occurred while \output is active []
 
 
 
-[79]
+[81]
 
 ./content/6-Bezuege_zur_Praxis.tex:128: LaTeX Error: Invalid UTF-8 byte sequenc
 e (â\lst@EC¸\lst@EC»).
@@ -2558,7 +2584,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[80]
+[82]
 
 ./content/6-Bezuege_zur_Praxis.tex:160: LaTeX Error: Invalid UTF-8 byte sequenc
 e (â\lst@EC¸\lst@EC»).
@@ -2609,9 +2635,9 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 
-[81]) (./content/7-Fazit.tex
+[83]) (./content/7-Fazit.tex
 
-[82]
+[84]
 Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
  []
@@ -2626,18 +2652,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[83
+[85
 
 
 ]
 
-[84]
+[86]
 Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
 ./content/7-Fazit.tex:43: Misplaced alignment tab character &.
-<argument> ...section*.115}Predictive Processing &
+<argument> ...section*.116}Predictive Processing &
                                                    GedÃ¤chtnis
 l.43 ...tion*{Predictive Processing & GedÃ¤chtnis}
                                                   
@@ -2660,9 +2686,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--50
 
 
 
-[85]) (./content/8-Abkuerzungsverzeichnis.tex
+[87]) (./content/8-Abkuerzungsverzeichnis.tex
 
-[86]
+[88]
 chapter 1.
 
 ./content/8-Abkuerzungsverzeichnis.tex:2: LaTeX Error: Environment acronym unde
@@ -2862,7 +2888,7 @@ erface-Segregation-Prinzip DIPDependency-
 
 
 
-[87
+[89
 
 
 ]
@@ -2882,10 +2908,10 @@ ei_KIs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18635 strings out of 469590
- 314513 string characters out of 5470340
+ 18642 strings out of 469590
+ 314567 string characters out of 5470340
  1154868 words of memory out of 5000000
- 44656 multiletter control sequences out of 15000+600000
+ 44657 multiletter control sequences out of 15000+600000
  642296 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,10972b,2104s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2909,11 +2935,11 @@ f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-
 dist/fonts/type1/public/cm-super/sftt1095.pfb>
 Output written on "/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudD
 ocs/Laura/Projekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KI
-s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (87 pages, 622334
+s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (89 pages, 625941
  bytes).
 PDF statistics:
- 1546 PDF objects out of 1728 (max. 8388607)
- 1403 compressed objects within 15 object streams
- 596 named destinations out of 1000 (max. 500000)
- 854 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1563 PDF objects out of 1728 (max. 8388607)
+ 1418 compressed objects within 15 object streams
+ 602 named destinations out of 1000 (max. 500000)
+ 862 words of extra memory for PDF output out of 10000 (max. 10000000)
 
