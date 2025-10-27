@@ -14,15 +14,14 @@
 \usepackage[T1]{fontenc}
 \usepackage{float}
 \usepackage{parskip}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning, shapes.geometric}
 \setlength{\parskip}{0.75em}
 \setlength{\parindent}{1.5em}
 \usepackage{indentfirst}
 \renewcommand{\arraystretch}{1.5}
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
 
-
-\bibliographystyle{plain}
-\bibliography{Referenzen}
 
 % Farben für Listings
 \definecolor{dkgreen}{rgb}{0,0.6,0}
@@ -136,5 +135,8 @@
 %\input{content/KI-Proto-Bewusstsein}
 %\input{content/nacktes_vs_sozialisiertes_system}
 %\input{content/Neudefinition von Qualia im Kontext Künstlicher Intelligenz}
+
+\bibliographystyle{apalike}   % oder eine andere, passende Formatierung
+\bibliography{Referenzen}     % Name deiner .bib-Datei ohne Endung
 
 \end{document}

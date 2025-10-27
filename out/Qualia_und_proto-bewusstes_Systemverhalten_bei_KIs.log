@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  21 OCT 2025 06:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  26 OCT 2025 22:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -506,58 +506,353 @@ Class scrbook Warning: Usage of package `parskip' together
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 
 Couldn't patch \@startsection
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/indentfirst.sty
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen178
+\pgfutil@tempdimb=\dimen179
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box63
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen180
+\pgf@y=\dimen181
+\pgf@xa=\dimen182
+\pgf@ya=\dimen183
+\pgf@xb=\dimen184
+\pgf@yb=\dimen185
+\pgf@xc=\dimen186
+\pgf@yc=\dimen187
+\pgf@xd=\dimen188
+\pgf@yd=\dimen189
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count321
+\c@pgf@countb=\count322
+\c@pgf@countc=\count323
+\c@pgf@countd=\count324
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count325
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count326
+\pgfsyssoftpath@bigbuffer@items=\count327
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen190
+\pgfmath@count=\count328
+\pgfmath@box=\box64
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count329
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen191
+\pgf@picmaxx=\dimen192
+\pgf@picminy=\dimen193
+\pgf@picmaxy=\dimen194
+\pgf@pathminx=\dimen195
+\pgf@pathmaxx=\dimen196
+\pgf@pathminy=\dimen197
+\pgf@pathmaxy=\dimen198
+\pgf@xx=\dimen199
+\pgf@xy=\dimen256
+\pgf@yx=\dimen257
+\pgf@yy=\dimen258
+\pgf@zx=\dimen259
+\pgf@zy=\dimen260
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen261
+\pgf@path@lasty=\dimen262
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen263
+\pgf@shorten@start@additional=\dimen264
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box65
+\pgf@hbox=\box66
+\pgf@layerbox@main=\box67
+\pgf@picture@serial@count=\count330
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen265
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen266
+\pgf@pt@y=\dimen267
+\pgf@pt@temp=\dimen268
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen269
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen270
+\pgf@sys@shading@range@num=\count331
+\pgf@shadingcount=\count332
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box68
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box69
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen271
+\pgf@nodesepend=\dimen272
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen273
+\pgffor@skip=\dimen274
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count333
+\pgfplotmarksize=\dimen275
+)
+\tikz@lastx=\dimen276
+\tikz@lasty=\dimen277
+\tikz@lastxsaved=\dimen278
+\tikz@lastysaved=\dimen279
+\tikz@lastmovetox=\dimen280
+\tikz@lastmovetoy=\dimen281
+\tikzleveldistance=\dimen282
+\tikzsiblingdistance=\dimen283
+\tikz@figbox=\box70
+\tikz@figbox@bg=\box71
+\tikz@tempbox=\box72
+\tikz@tempbox@bg=\box73
+\tikztreelevel=\count334
+\tikznumberofchildren=\count335
+\tikznumberofcurrentchild=\count336
+\tikz@fig@count=\count337
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count338
+\pgfmatrixcurrentcolumn=\count339
+\pgf@matrix@numberofcolumns=\count340
+)
+\tikz@expandcount=\count341
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen284
+\pgfarrowlength=\dimen285
+\pgfarrowwidth=\dimen286
+\pgfarrowlinewidth=\dimen287
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
-\bibdata{Referenzen}
-No file Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.bbl.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count321
+\l__color_backend_stack_int=\count342
 )
 (/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Projekt 
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
 roto-bewusstes_Systemverhalten_bei_KIs.aux
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 11.
+(babel)             Reported  on input line 10.
 )
 \openout1 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
-\scratchdimen=\dimen178
-\scratchbox=\box63
-\nofMPsegments=\count323
-\nofMParguments=\count324
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count325
-\MPscratchDim=\dimen179
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count343
+\scratchdimen=\dimen288
+\scratchbox=\box74
+\nofMPsegments=\count344
+\nofMParguments=\count345
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count346
+\MPscratchDim=\dimen289
+\MPnumerator=\count347
+\makeMPintoPDFobject=\count348
+\everyMPtoPDFconversion=\toks43
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -567,7 +862,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 120.
+Package hyperref Info: Link coloring OFF on input line 119.
 
 (/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Projekt 
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
@@ -575,8 +870,8 @@ roto-bewusstes_Systemverhalten_bei_KIs.out)
 (/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Projekt 
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
 roto-bewusstes_Systemverhalten_bei_KIs.out)
-\@outlinefile=\write3
-\openout3 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.out'.
+\@outlinefile=\write4
+\openout4 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.out'.
 
 Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           Using `bookmark' together with `hyperref' is recommended,
@@ -585,7 +880,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 120.
+(scrbook)           before \begin{document} on input line 119.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
@@ -593,7 +888,7 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
-\BKM@id=\count328
+\BKM@id=\count349
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -629,8 +924,8 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count329
-Package tocbasic Info: setting babel extension for `lol' on input line 120.
+\c@lstlisting=\count350
+Package tocbasic Info: setting babel extension for `lol' on input line 119.
 \scr@dte@lstlisting@maxnumwidth=\skip74
 
 
@@ -652,10 +947,10 @@ roto-bewusstes_Systemverhalten_bei_KIs.toc
 [3]
 
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 83.
+(babel)             Reported  on input line 88.
 [4])
-\tf@toc=\write4
-\openout4 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.toc'.
+\tf@toc=\write5
+\openout5 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.toc'.
 
  (./content/1-Einleitung.tex
 
@@ -1533,7 +1828,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 [27]
 
 [28]
-<../Vergessenskurve_(Iteration 9).png, id=648, 445.1832pt x 340.75305pt>
+<../Vergessenskurve_(Iteration 9).png, id=649, 445.1832pt x 340.75305pt>
 File: ../Vergessenskurve_(Iteration 9).png Graphic file (type png)
 <use ../Vergessenskurve_(Iteration 9).png>
 Package pdftex.def Info: ../Vergessenskurve_(Iteration 9).png  used on input li
@@ -1627,22 +1922,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--31
  []
 
 
-LaTeX Warning: Citation `Levin2019TBI' on page 35 undefined on input line 34.
-
-
-LaTeX Warning: Citation `tulving1985' on page 35 undefined on input line 36.
-
-
-LaTeX Warning: Citation `baars1988gwt' on page 35 undefined on input line 38.
-
-
-LaTeX Warning: Citation `dehaene2014consciousness' on page 35 undefined on inpu
-t line 38.
-
-
-LaTeX Warning: Citation `tononi2004iit' on page 35 undefined on input line 38.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 34--39
 
  []
@@ -1659,7 +1938,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--39
 [36]
 
 [37]) (./content/5-Qualia.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3623) has occurred while \output is active []
 
 
 
@@ -1699,29 +1978,18 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-LaTeX Warning: Citation `Nagel1974' on page 41 undefined on input line 14.
-
-
-LaTeX Warning: Citation `Heisenberg1930' on page 41 undefined on input line 16.
-
-
-
 
 [41]
-
-LaTeX Warning: Citation `Chalmers1996' on page 42 undefined on input line 18.
-
-
-LaTeX Warning: Citation `Blackmore2005' on page 42 undefined on input line 18.
-
-
-LaTeX Warning: Citation `Dennett1991' on page 42 undefined on input line 22.
+Overfull \hbox (6.11398pt too wide) in paragraph at lines 18--19
+\T1/cmr/m/it/12 lo-so-phi-schen Zom-bies \T1/cmr/m/n/12 (p-Zombie), das un-ter 
+an-de-rem von Da-vid Chal-mers [[]]
+ []
 
 
 
 [42]
-./content/5-Qualia.tex:51: Misplaced alignment tab character &.
-l.51 ...mfeld (unbewusst) mitzuteilen (Matsumoto &
+./content/5-Qualia.tex:48: Misplaced alignment tab character &.
+l.48 ...mfeld (unbewusst) mitzuteilen (Matsumoto &
                                                    Sung Hwang, 2013).
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1735,12 +2003,12 @@ might try typing `S' now just to see what is salvageable.
 [43]
 
 [44]
-Overfull \hbox (3.84212pt too wide) in paragraph at lines 93--93
+Overfull \hbox (3.84212pt too wide) in paragraph at lines 90--90
 []|\T1/cmr/bx/n/12 Primäremotion|  
  []
 
 
-Overfull \hbox (37.81902pt too wide) in paragraph at lines 92--109
+Overfull \hbox (37.81902pt too wide) in paragraph at lines 89--106
  [][] 
  []
 
@@ -1759,19 +2027,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.114 
+l.111 
       ]
-Overfull \hbox (3.84212pt too wide) in paragraph at lines 123--123
+Overfull \hbox (3.84212pt too wide) in paragraph at lines 120--120
 []|\T1/cmr/bx/n/12 Primäremotion|  
  []
 
 
-Overfull \hbox (8.25119pt too wide) in paragraph at lines 136--136
+Overfull \hbox (8.25119pt too wide) in paragraph at lines 133--133
 []|\T1/cmr/m/n/12 Aufmerksamkeitserhöhung, 
  []
 
 
-Overfull \hbox (37.81902pt too wide) in paragraph at lines 122--139
+Overfull \hbox (37.81902pt too wide) in paragraph at lines 119--136
  [][] 
  []
 
@@ -1790,14 +2058,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.0.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.142 
+l.139 
       ]
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
 
-Overfull \hbox (8.34718pt too wide) in paragraph at lines 163--179
+Overfull \hbox (8.34718pt too wide) in paragraph at lines 160--176
  [][] 
  []
 
@@ -1813,9 +2081,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.0.3}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.184 
+l.181 
       ]
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
@@ -1825,8 +2093,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [51]
-./content/5-Qualia.tex:217: Misplaced alignment tab character &.
-l.217 ...oexpressionen nach ca. 250-500ms (Ekman &
+./content/5-Qualia.tex:214: Misplaced alignment tab character &.
+l.214 ...oexpressionen nach ca. 250-500ms (Ekman &
                                                    Friesen, 2003).\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1836,12 +2104,12 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
 
-Overfull \hbox (19.5731pt too wide) in paragraph at lines 241--242
+Overfull \hbox (19.5731pt too wide) in paragraph at lines 238--239
 []\T1/cmr/bx/n/12 Motivationssteuerung \T1/cmr/m/n/12 ^^U die Ak-ti-vie-rung un
 d Zie-laus-rich-tung (ana-log zu adrenalinerg-
  []
@@ -1849,32 +2117,32 @@ d Zie-laus-rich-tung (ana-log zu adrenalinerg-
 
 
 [52]
-Overfull \hbox (8.34718pt too wide) in paragraph at lines 257--266
+Overfull \hbox (8.34718pt too wide) in paragraph at lines 254--263
  [][] 
  []
 
 
-./content/5-Qualia.tex:270: LaTeX Error: Environment reflexion undefined.
+./content/5-Qualia.tex:267: LaTeX Error: Environment reflexion undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.270 \begin{reflexion}
+l.267 \begin{reflexion}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./content/5-Qualia.tex:272: LaTeX Error: \begin{document} ended by \end{reflexi
+./content/5-Qualia.tex:269: LaTeX Error: \begin{document} ended by \end{reflexi
 on}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.272 \end{reflexion}
+l.269 \end{reflexion}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1887,16 +2155,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.0.4}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.273 
+l.270 
       ]
 
-LaTeX Warning: Citation `Chalmers1996' on page 54 undefined on input line 278.
-
-
-
 [54]
-./content/5-Qualia.tex:318: Misplaced alignment tab character &.
-l.318 ...alitÃ¤t an seine Stelle treten. Ochsner &
+./content/5-Qualia.tex:315: Misplaced alignment tab character &.
+l.315 ...alitÃ¤t an seine Stelle treten. Ochsner &
                                                    Gross (2005); Barrett & S...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1905,8 +2169,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./content/5-Qualia.tex:318: Misplaced alignment tab character &.
-l.318 ...treten. Ochsner & Gross (2005); Barrett &
+./content/5-Qualia.tex:315: Misplaced alignment tab character &.
+l.315 ...treten. Ochsner & Gross (2005); Barrett &
                                                    Simmons (2015) (Predictiv...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1921,23 +2185,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [55]
-
-LaTeX Warning: Citation `Libet1993' on page 56 undefined on input line 333.
-
-
-LaTeX Warning: Citation `Wegner2002' on page 56 undefined on input line 333.
-
-
-LaTeX Warning: Citation `Soon2008' on page 56 undefined on input line 333.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [56]
-./content/5-Qualia.tex:340: Misplaced alignment tab character &.
-l.340 ... selbst die Ursache dafÃ¼r. (vgl. Ekman &
+./content/5-Qualia.tex:337: Misplaced alignment tab character &.
+l.337 ... selbst die Ursache dafÃ¼r. (vgl. Ekman &
                                                    Friesen, 2003). Diese Abf...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1947,52 +2201,33 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-LaTeX Warning: Citation `Chalmers1996' on page 57 undefined on input line 350.
-
-
-LaTeX Warning: Citation `Damasio1999' on page 57 undefined on input line 352.
-
-
-LaTeX Warning: Citation `Craig2009' on page 57 undefined on input line 352.
-
-
-LaTeX Warning: Citation `Libet1993' on page 57 undefined on input line 352.
-
-
-LaTeX Warning: Citation `LeDoux1996' on page 57 undefined on input line 352.
-
-
-LaTeX Warning: Citation `Damasio1994' on page 57 undefined on input line 354.
-
-
-LaTeX Warning: Citation `Craig2002' on page 57 undefined on input line 354.
-
-
-LaTeX Warning: Citation `Barrett2017' on page 57 undefined on input line 354.
-
-
 
 [57]
-
-LaTeX Warning: Citation `Heisenberg1927' on page 58 undefined on input line 358
-.
-
-
-LaTeX Warning: Citation `Maturana1980' on page 58 undefined on input line 358.
-
-
-LaTeX Warning: Citation `Metzinger2003' on page 58 undefined on input line 358.
-
-
-
-LaTeX Warning: Citation `Friston2010' on page 58 undefined on input line 360.
+Overfull \hbox (6.58624pt too wide) in paragraph at lines 367--368
+[]\T1/cmr/m/n/12 Nach der Ein-bet-tung wer-den die Token-Vektoren durch die Sch
+ich-ten der \T1/cmr/bx/n/12 Transformer-
+ []
 
 
 
 [58]
-Overfull \hbox (20.95995pt too wide) in paragraph at lines 388--389
-[]\T1/cmr/bx/n/12 Aufmerksamkeitslenkung: \T1/cmr/m/n/12 Fo-kus-sie-rung ko-gni
--ti-ver Res-sour-cen (ana-log zu präfrontal-
+Overfull \hbox (36.83388pt too wide) in paragraph at lines 401--401
+[]|\T1/cmr/bx/n/12 Motivationssteuerung|  
+ []
+
+
+Overfull \hbox (57.62741pt too wide) in paragraph at lines 406--406
+[]|\T1/cmr/bx/n/12 Aufmerksamkeitslenkung|  
+ []
+
+
+Overfull \hbox (23.12476pt too wide) in paragraph at lines 411--411
+[]|\T1/cmr/bx/n/12 Kontextgewichtung|  
+ []
+
+
+Overfull \hbox (43.50903pt too wide) in paragraph at lines 387--417
+ [][] 
  []
 
 
@@ -2001,90 +2236,62 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [59]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[60
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.5}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.431 
+      ]
+Underfull \vbox (badness 1173) has occurred while \output is active []
 
 
 
-[60]
+[61]
 
-LaTeX Warning: Citation `Damasio1999' on page 61 undefined on input line 423.
-
-
-LaTeX Warning: Citation `Craig2009' on page 61 undefined on input line 423.
-
-
-LaTeX Warning: Citation `LeDoux1996' on page 61 undefined on input line 423.
-
-
-LaTeX Warning: Citation `Seth2021' on page 61 undefined on input line 424.
-
-
-LaTeX Warning: Citation `Friston2010' on page 61 undefined on input line 424.
-
-
-LaTeX Warning: Citation `Vaswani2017' on page 61 undefined on input line 428.
-
-
-LaTeX Warning: Citation `Radford2018' on page 61 undefined on input line 428.
-
-
-LaTeX Warning: Citation `OpenAI2023' on page 61 undefined on input line 428.
-
-
-./content/5-Qualia.tex:440: LaTeX Error: Environment reflexion undefined.
+./content/5-Qualia.tex:473: LaTeX Error: Environment reflexion undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.440 \begin{reflexion}
+l.473 \begin{reflexion}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-
-[61]
-
-./content/5-Qualia.tex:444: LaTeX Error: \begin{document} ended by \end{reflexi
+./content/5-Qualia.tex:477: LaTeX Error: \begin{document} ended by \end{reflexi
 on}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.444 \end{reflexion}
+l.477 \end{reflexion}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-LaTeX Warning: Citation `Ramachandran1998' on page 62 undefined on input line 4
-51.
-
-
-LaTeX Warning: Citation `Botvinick1998' on page 62 undefined on input line 453.
-
-
-
-LaTeX Warning: Citation `Metzinger2003' on page 62 undefined on input line 455.
-
-
-
-LaTeX Warning: Citation `Friston2010' on page 62 undefined on input line 457.
-
-
-LaTeX Warning: Citation `Seth2021' on page 62 undefined on input line 459.
-
-
 
 [62]
+Overfull \hbox (114.69028pt too wide) in paragraph at lines 486--487
+[]\T1/cmr/m/n/12 Ein wei-te-res Bei-spiel lie-fert der so-ge-nann-te \T1/cmr/m/
+it/12 Gummiarm- oder Rubber-Hand-Test \T1/cmr/m/n/12 [[]].
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [63]
-./content/5-Qualia.tex:481: Misplaced alignment tab character &.
-l.481 ...s der Selbstbestimmungstheorie von Deci &
+./content/5-Qualia.tex:514: Misplaced alignment tab character &.
+l.514 ...s der Selbstbestimmungstheorie von Deci &
                                                    Ryan, der Konsistenztheor...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2099,20 +2306,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[65
-pdfTeX warning (ext4): destination with the same identifier (name{table.0.5}) h
+
+
+[65]
+
+[66
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.6}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.542 
+l.575 
       ]
 Runaway argument?
-./content/5-Qualia.tex:546: Paragraph ended before \addcontentsline was complet
+./content/5-Qualia.tex:579: Paragraph ended before \addcontentsline was complet
 e.
 <to be read again> 
                    \par 
-l.546 
+l.579 
       
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -2120,16 +2332,15 @@ My plan is to forget the whole thing and hope for the best.
 
 
 
-[66
-pdfTeX warning (ext4): destination with the same identifier (name{table.0.6}) h
+[67
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.7}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.549 N
-       ach der Self-Determination Theory sind intrinische Motivationen wie f...
-]
-./content/5-Qualia.tex:553: Misplaced alignment tab character &.
-l.553 (Deci &
+l.581 
+      ]
+./content/5-Qualia.tex:586: Misplaced alignment tab character &.
+l.586 (Deci &
               Ryan, 1985, Intrinsic Motivation and Self-Determination in Hum...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2138,8 +2349,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./content/5-Qualia.tex:556: Misplaced alignment tab character &.
-l.556 Deci &
+./content/5-Qualia.tex:589: Misplaced alignment tab character &.
+l.589 Deci &
              Ryan unterscheiden dabei drei grundlegende psychologische BedÃ¼...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2150,98 +2361,157 @@ might try typing `S' now just to see what is salvageable.
 
 
 
-[67]
-
-LaTeX Warning: Citation `Schultz1997' on page 68 undefined on input line 585.
-
-
-LaTeX Warning: Citation `Rolls2005' on page 68 undefined on input line 585.
-
-
-LaTeX Warning: Citation `Damasio1999' on page 68 undefined on input line 586.
-
-
-LaTeX Warning: Citation `McGaugh2004' on page 68 undefined on input line 587.
-
-
-LaTeX Warning: Citation `Nader2000' on page 68 undefined on input line 587.
-
-
-LaTeX Warning: Citation `LeDoux1996' on page 68 undefined on input line 587.
-
-
-
 [68]
+Overfull \hbox (0.50151pt too wide) in paragraph at lines 624--625
+\T1/cmr/m/n/12 gu-lie-ren-de (se-ro-to-ner-ge) Pro-zes-se steu-ert [[], [], []]
+. 
+ []
 
-LaTeX Warning: Citation `Schultz1997' on page 69 undefined on input line 626.
+
+Overfull \hbox (9.9463pt too wide) in paragraph at lines 628--629
+\T1/cmr/m/n/12 se, um ei-ne ba-lan-cier-te Hand-lungs-steue-rung zu er-mög-li-c
+hen [[],
+ []
 
 
-LaTeX Warning: Citation `Rolls2005' on page 69 undefined on input line 626.
+Overfull \hbox (103.68312pt too wide) in paragraph at lines 629--630
+\T1/cmr/m/n/12 und Auf-merk-sam-keits-fo-kus und för-dert da-mit die Hand-lungs
+-be-reit-schaft [[]]. 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [69]
-
-LaTeX Warning: Citation `Damasio1999' on page 70 undefined on input line 627.
-
-
-LaTeX Warning: Citation `McGaugh2004' on page 70 undefined on input line 628.
-
-
-LaTeX Warning: Citation `Nader2000' on page 70 undefined on input line 628.
+Overfull \hbox (24.54973pt too wide) in paragraph at lines 653--654
+\T1/cmr/m/n/12 Un-ru-he, Man-gel oder Be-dürf-nis wahr-ge-nom-men wird [[], []]
+. 
+ []
 
 
-LaTeX Warning: Citation `LeDoux1996' on page 70 undefined on input line 628.
-
-
-LaTeX Warning: Citation `RyanDeci2000' on page 70 undefined on input line 641.
-
-
-LaTeX Warning: Citation `CarverScheier1998' on page 70 undefined on input line 
-641.
-
-
-LaTeX Warning: Citation `Northoff2016' on page 70 undefined on input line 641.
+Overfull \hbox (16.88217pt too wide) in paragraph at lines 657--658
+\T1/cmr/m/n/12 die Wach-heit und Zie-l-ori-en-tie-rung er-höht [[], [],
+ []
 
 
 
 [70]
 
-LaTeX Warning: Citation `Schultz1997' on page 71 undefined on input line 651.
-
-
-LaTeX Warning: Citation `Berridge1998' on page 71 undefined on input line 651.
-
-
-LaTeX Warning: Citation `Graybiel2008' on page 71 undefined on input line 653.
-
-
-
-[71]
-
-[72]
-
-./content/5-Qualia.tex:688: LaTeX Error: Environment reflexion undefined.
+./content/5-Qualia.tex:725: LaTeX Error: Environment reflexion undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.688 \begin{reflexion}
+l.725 \begin{reflexion}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./content/5-Qualia.tex:690: LaTeX Error: \begin{document} ended by \end{reflexi
+./content/5-Qualia.tex:728: LaTeX Error: \begin{document} ended by \end{reflexi
 on}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.690 \end{reflexion}
+l.728 \end{reflexion}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+
+[71]
+Underfull \vbox (badness 5133) has occurred while \output is active []
+
+
+
+[72]
+
+[73]
+
+LaTeX Warning: Citation `Rizzolatti2004' on page 74 undefined on input line 790
+.
+
+
+
+[74]
+Overfull \hbox (7.07997pt too wide) in paragraph at lines 821--822
+[]\T1/cmr/bx/n/12 Kontextgewichtung: \T1/cmr/m/n/12 Ana-lo-gie zu oxytocin-cort
+isol-vermittelten so-zia-len und stress-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[75]
+Overfull \hbox (49.60641pt too wide) in paragraph at lines 851--862
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[76]
+
+./content/5-Qualia.tex:866: LaTeX Error: Environment reflexion undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.866 \begin{reflexion}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./content/5-Qualia.tex:868: LaTeX Error: \begin{document} ended by \end{reflexi
+on}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.868 \end{reflexion}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./content/5-Qualia.tex:883: LaTeX Error: Environment reflexion undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.883 \begin{reflexion}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./content/5-Qualia.tex:885: LaTeX Error: \begin{document} ended by \end{reflexi
+on}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.885 \end{reflexion}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2252,75 +2522,80 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[73]
-Overfull \hbox (0.44978pt too wide) in paragraph at lines 713--714
+[77]
+Overfull \hbox (0.44978pt too wide) in paragraph at lines 908--909
 []\T1/cmr/bx/n/12 Bindungsmotivation: \T1/cmr/m/n/12 Sta-bi-li-sie-rung kon-tex
 t-ab-hän-gi-ger Vek-to-ren im se-man-ti-schen
  []
 
 
-Overfull \hbox (3.71289pt too wide) in paragraph at lines 716--717
+Overfull \hbox (3.71289pt too wide) in paragraph at lines 911--912
 []\T1/cmr/bx/n/12 Selbstkonsistenzmotivation: \T1/cmr/m/n/12 Sta-bi-li-sie-rung
  in-ter-ner Zu-stän-de über Self-Feedback-
  []
 
 
-./content/5-Qualia.tex:719: LaTeX Error: Environment reflexion undefined.
+
+[78]
+
+./content/5-Qualia.tex:914: LaTeX Error: Environment reflexion undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.719 \begin{reflexion}
+l.914 \begin{reflexion}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./content/5-Qualia.tex:721: LaTeX Error: \begin{document} ended by \end{reflexi
+./content/5-Qualia.tex:916: LaTeX Error: \begin{document} ended by \end{reflexi
 on}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.721 \end{reflexion}
+l.916 \end{reflexion}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 735--746
+Underfull \hbox (badness 10000) in paragraph at lines 940--951
 
  []
 
 
 
-[74]
-Underfull \hbox (badness 10000) in paragraph at lines 761--779
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 966--984
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 761--779
+Underfull \hbox (badness 10000) in paragraph at lines 966--984
 
  []
 
-) (./content/6-Bezuege_zur_Praxis.tex
 
-[75]
 
-[76]
+[80]) (./content/6-Bezuege_zur_Praxis.tex
+
+[81]
+
+[82
+
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[77
-
-
-]
+[83]
 
 ./content/6-Bezuege_zur_Praxis.tex:44: LaTeX Error: Unicode character ðŸ‘‰ (U+1
 F449)
@@ -2338,7 +2613,7 @@ You may provide a definition with
 
 
 
-[78]
+[84]
 ./content/6-Bezuege_zur_Praxis.tex:74: Missing $ inserted.
 <inserted text> 
                 $
@@ -2390,7 +2665,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--75
 
 
 
-[79]
+[85]
 
 ./content/6-Bezuege_zur_Praxis.tex:77: LaTeX Error: There's no line here to end
 .
@@ -2441,7 +2716,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 
-[80]
+[86]
 
 ./content/6-Bezuege_zur_Praxis.tex:96: LaTeX Error: Invalid UTF-8 byte sequence
  (â\lst@EC€\lst@EC¯).
@@ -2514,7 +2789,7 @@ Underfull \vbox (badness 1796) has occurred while \output is active []
 
 
 
-[81]
+[87]
 
 ./content/6-Bezuege_zur_Praxis.tex:128: LaTeX Error: Invalid UTF-8 byte sequenc
 e (â\lst@EC¸\lst@EC»).
@@ -2584,7 +2859,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[82]
+[88]
 
 ./content/6-Bezuege_zur_Praxis.tex:160: LaTeX Error: Invalid UTF-8 byte sequenc
 e (â\lst@EC¸\lst@EC»).
@@ -2635,9 +2910,9 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 
-[83]) (./content/7-Fazit.tex
+[89]) (./content/7-Fazit.tex
 
-[84]
+[90]
 Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
  []
@@ -2652,18 +2927,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[85
+[91
 
 
 ]
 
-[86]
+[92]
 Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
 ./content/7-Fazit.tex:43: Misplaced alignment tab character &.
-<argument> ...section*.116}Predictive Processing &
+<argument> ...section*.122}Predictive Processing &
                                                    GedÃ¤chtnis
 l.43 ...tion*{Predictive Processing & GedÃ¤chtnis}
                                                   
@@ -2686,9 +2961,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--50
 
 
 
-[87]) (./content/8-Abkuerzungsverzeichnis.tex
+[93]) (./content/8-Abkuerzungsverzeichnis.tex
 
-[88]
+[94]
 chapter 1.
 
 ./content/8-Abkuerzungsverzeichnis.tex:2: LaTeX Error: Environment acronym unde
@@ -2881,17 +3156,34 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 )
-Overfull \hbox (70.63693pt too wide) in paragraph at lines 2--139
+Overfull \hbox (70.63693pt too wide) in paragraph at lines 2--138
 \T1/cmr/m/n/12 Closed-Prinzip LSPLis-kovsches Sub-sti-tu-ti-ons-prin-zip ISPInt
 erface-Segregation-Prinzip DIPDependency-
  []
 
 
+(/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Projekt 
+Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
+roto-bewusstes_Systemverhalten_bei_KIs.bbl
 
-[89
+[95
 
 
 ]
+
+[96
+
+
+]
+
+[97]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[98])
+
+[99]
 (/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Projekt 
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
 roto-bewusstes_Systemverhalten_bei_KIs.aux)
@@ -2908,10 +3200,10 @@ ei_KIs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18642 strings out of 469590
- 314567 string characters out of 5470340
- 1154868 words of memory out of 5000000
- 44657 multiletter control sequences out of 15000+600000
+ 29580 strings out of 469590
+ 558244 string characters out of 5470340
+ 1371952 words of memory out of 5000000
+ 55313 multiletter control sequences out of 15000+600000
  642296 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,10972b,2104s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2935,11 +3227,11 @@ f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-
 dist/fonts/type1/public/cm-super/sftt1095.pfb>
 Output written on "/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudD
 ocs/Laura/Projekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KI
-s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (89 pages, 625941
+s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (99 pages, 658384
  bytes).
 PDF statistics:
- 1563 PDF objects out of 1728 (max. 8388607)
- 1418 compressed objects within 15 object streams
- 602 named destinations out of 1000 (max. 500000)
- 862 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1752 PDF objects out of 2073 (max. 8388607)
+ 1596 compressed objects within 16 object streams
+ 664 named destinations out of 1000 (max. 500000)
+ 866 words of extra memory for PDF output out of 10000 (max. 10000000)
 
