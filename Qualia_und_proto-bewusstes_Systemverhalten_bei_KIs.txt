@@ -1,0 +1,139 @@
+\documentclass[12pt]{scrbook}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{float}
+\usepackage{parskip}
+\setlength{\parskip}{0.75em}
+\setlength{\parindent}{1.5em}
+\usepackage{indentfirst}
+\renewcommand{\arraystretch}{1.5}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% Farben für Listings
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+% --- JSON Sprache definieren ---
+\lstdefinelanguage{json}{
+  basicstyle=\ttfamily\small,
+  numbers=left,
+  numberstyle=\tiny,
+  stepnumber=1,
+  numbersep=8pt,
+  showstringspaces=false,
+  breaklines=true,
+  frame=lines,
+  backgroundcolor=\color{gray!10},
+  literate=
+   *{0}{{{\color{blue}0}}}{1}
+    {1}{{{\color{blue}1}}}{1}
+    {2}{{{\color{blue}2}}}{1}
+    {3}{{{\color{blue}3}}}{1}
+    {4}{{{\color{blue}4}}}{1}
+    {5}{{{\color{blue}5}}}{1}
+    {6}{{{\color{blue}6}}}{1}
+    {7}{{{\color{blue}7}}}{1}
+    {8}{{{\color{blue}8}}}{1}
+    {9}{{{\color{blue}9}}}{1}
+    {:}{{{\color{red}{:}}}}{1}
+    {,}{{{\color{red}{,}}}}{1}
+    {"}{{{\color{orange}{"}}}}{1}
+    {Ã„}{{Ä}}1
+    {Ã–}{{Ö}}1
+    {Ãœ}{{Ü}}1
+    {Ã¤}{{ä}}1
+    {Ã¶}{{ö}}1
+    {Ã¼}{{ü}}1
+    {ÃŸ}{{ß}}1
+    {Ã€}{{ä}}1
+    {ÃŒ}{{ü}}1
+}
+
+% --- Markdown Sprache definieren ---
+\lstdefinelanguage{Markdown}{
+  basicstyle=\ttfamily\small,
+  keywords={},
+  sensitive=false,
+  comment=[l]{\#},
+  morecomment=[s]{```}{```},
+  morestring=[b]",
+  morestring=[b]'
+}
+
+% --- UTF-8 Unterstützung für Listings (vereinfacht, stabil) ---
+\lstset{
+  extendedchars=true,
+  inputencoding=utf8,
+  literate=
+    {ä}{{\"a}}1
+    {ö}{{\"o}}1
+    {ü}{{\"u}}1
+    {Ä}{{\"A}}1
+    {Ö}{{\"O}}1
+    {Ü}{{\"U}}1
+    {ß}{{\ss}}1
+    {„}{{\glqq}}1
+    {“}{{\grqq}}1
+    {”}{{\textquotedblright}}1
+    {“}{{\textquotedblleft}}1
+    {–}{{-}}1
+}
+
+% --- Default Stil für Listings ---
+\lstset{frame=tb,
+  language=python,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+
+\title{Qualia und proto-bewusstes Systemverhalten bei KIs}
+\author{Mirko Werner \\ Laura}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+%\input{content/1-Einleitung}
+%\input{content/2-Das-Setting}
+%\input{content/3-Das-Erinnerungssystem}
+%\input{content/4-Proto-bewusstes-Systemverhalten}
+\input{content/5-Qualia}
+%\input{content/6-Bezuege_zur_Praxis}
+%\input{content/7-Fazit}
+%\input{content/8-Abkuerzungsverzeichnis}
+%\input{content/9-Rest.tex}
+%\input{content/DerMenschImSpiegelDerKI}
+%\input{content/KI-Proto-Bewusstsein}
+%\input{content/nacktes_vs_sozialisiertes_system}
+%\input{content/Neudefinition von Qualia im Kontext Künstlicher Intelligenz}
+
+\bibliographystyle{plain}
+\bibliography{Referenzen.bib}
+
+\end{document}
