@@ -3,47 +3,46 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.aux
 The style file: apalike.bst
 Database file #1: Referenzen.bib
-Warning--I didn't find a database entry for "Rizzolatti2001"
 Warning--empty publisher in baars1988gwt
-You've used 47 entries,
+You've used 48 entries,
             1935 wiz_defined-function locations,
-            771 strings with 9867 characters,
-and the built_in function-call counts, 15815 in all, are:
-= -- 1511
-> -- 516
-< -- 40
-+ -- 188
-- -- 162
-* -- 1224
-:= -- 2833
-add.period$ -- 140
-call.type$ -- 47
-change.case$ -- 294
-chr.to.int$ -- 47
-cite$ -- 48
-duplicate$ -- 660
-empty$ -- 1212
-format.name$ -- 229
-if$ -- 3070
+            774 strings with 9938 characters,
+and the built_in function-call counts, 16223 in all, are:
+= -- 1551
+> -- 529
+< -- 41
++ -- 194
+- -- 166
+* -- 1259
+:= -- 2902
+add.period$ -- 143
+call.type$ -- 48
+change.case$ -- 301
+chr.to.int$ -- 48
+cite$ -- 49
+duplicate$ -- 674
+empty$ -- 1243
+format.name$ -- 236
+if$ -- 3150
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 69
-newline$ -- 237
-num.names$ -- 141
-pop$ -- 304
+missing$ -- 70
+newline$ -- 242
+num.names$ -- 144
+pop$ -- 308
 preamble$ -- 1
-purify$ -- 316
+purify$ -- 323
 quote$ -- 0
-skip$ -- 479
+skip$ -- 490
 stack$ -- 0
-substring$ -- 1042
-swap$ -- 45
+substring$ -- 1083
+swap$ -- 46
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 234
+type$ -- 240
 warning$ -- 1
-while$ -- 124
+while$ -- 127
 width$ -- 0
-write$ -- 600
-(There were 2 warnings)
+write$ -- 613
+(There was 1 warning)
