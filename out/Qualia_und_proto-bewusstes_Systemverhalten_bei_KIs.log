@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  31 OCT 2025 06:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  31 OCT 2025 14:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -955,12 +955,12 @@ roto-bewusstes_Systemverhalten_bei_KIs.toc
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 (babel)             Reported  on input line 90.
 [4]
-Overfull \hbox (2.03697pt too wide) detected at line 129
+Overfull \hbox (2.03697pt too wide) detected at line 126
  []\T1/cmss/bx/n/12 101
  []
 
 
-Overfull \hbox (2.03697pt too wide) detected at line 135
+Overfull \hbox (2.03697pt too wide) detected at line 132
  []\T1/cmss/bx/n/12 105
  []
 
@@ -1844,7 +1844,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 [27]
 
 [28]
-<../Vergessenskurve_(Iteration 9).png, id=677, 445.1832pt x 340.75305pt>
+<../Vergessenskurve_(Iteration 9).png, id=671, 445.1832pt x 340.75305pt>
 File: ../Vergessenskurve_(Iteration 9).png Graphic file (type png)
 <use ../Vergessenskurve_(Iteration 9).png>
 Package pdftex.def Info: ../Vergessenskurve_(Iteration 9).png  used on input li
@@ -2459,8 +2459,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [76]
-./content/5-Qualia.tex:883: Undefined control sequence.
-l.883 ...rst durch Interaktion entsteht \parencite
+
+./content/5-Qualia.tex:864: LaTeX Error: Environment reflexion undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.864 \begin{reflexion}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./content/5-Qualia.tex:868: LaTeX Error: \begin{document} ended by \end{reflexi
+on}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.868 \end{reflexion}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+
+[77]
+./content/5-Qualia.tex:894: Undefined control sequence.
+l.894 ...rst durch Interaktion entsteht \parencite
                                                   {Fuchs2022, Seth2021}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2468,11 +2498,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-
-[77]
-./content/5-Qualia.tex:890: Undefined control sequence.
-l.890 ... Enactive, Extended Cognition) \parencite
+./content/5-Qualia.tex:901: Undefined control sequence.
+l.901 ... Enactive, Extended Cognition) \parencite
                                                   {Varela1991, Clark1997, Th...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2480,8 +2507,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./content/5-Qualia.tex:893: Undefined control sequence.
-l.893 ...onzept des „Extended Mind“ \parencite
+./content/5-Qualia.tex:904: Undefined control sequence.
+l.904 ...onzept des „Extended Mind“ \parencite
                                                   {Clark1997}.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2489,8 +2516,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./content/5-Qualia.tex:896: Undefined control sequence.
-l.896 ... neurophilosophischen Sicht von \textcite
+./content/5-Qualia.tex:907: Undefined control sequence.
+l.907 ... neurophilosophischen Sicht von \textcite
                                                   {Northoff2016}, der Bewuss...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2498,18 +2525,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./content/5-Qualia.tex:896: Undefined control sequence.
-l.896 ...per und Umwelt beschreibt. Auch \textcite
+./content/5-Qualia.tex:907: Undefined control sequence.
+l.907 ...per und Umwelt beschreibt. Auch \textcite
                                                   {Seth2021} betont, dass Be...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./content/5-Qualia.tex:904: Undefined control sequence.
-l.904 Wie \textcite
-                   {Fuchs2022} formuliert, entfaltet sich Bewusstsein „nic...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2519,8 +2537,17 @@ and I'll forget about whatever was undefined.
 
 
 [78]
-./content/5-Qualia.tex:914: Undefined control sequence.
-l.914 Oder in den Worten von \textcite
+./content/5-Qualia.tex:915: Undefined control sequence.
+l.915 Wie \textcite
+                   {Fuchs2022} formuliert, entfaltet sich Bewusstsein „nic...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/5-Qualia.tex:925: Undefined control sequence.
+l.925 Oder in den Worten von \textcite
                                       {Thompson2007}:
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2528,8 +2555,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./content/5-Qualia.tex:936: Undefined control sequence.
-l.936 Wie \textcite
+./content/5-Qualia.tex:947: Undefined control sequence.
+l.947 Wie \textcite
                    {Dehaene2014} und \textcite{Seth2021} betonen, ist Bewuss...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2537,27 +2564,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./content/5-Qualia.tex:936: Undefined control sequence.
-l.936 Wie \textcite{Dehaene2014} und \textcite
+./content/5-Qualia.tex:947: Undefined control sequence.
+l.947 Wie \textcite{Dehaene2014} und \textcite
                                               {Seth2021} betonen, ist Bewuss...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./content/5-Qualia.tex:943: Undefined control sequence.
-l.943 \textcite
-               {Tononi2004} und \textcite{Baars1997} argumentieren, dass Bew...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./content/5-Qualia.tex:943: Undefined control sequence.
-l.943 \textcite{Tononi2004} und \textcite
-                                         {Baars1997} argumentieren, dass Bew...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2567,20 +2576,30 @@ and I'll forget about whatever was undefined.
 
 
 [79]
-
-[80]
-./content/5-Qualia.tex:975: Undefined control sequence.
-l.975 ...menschlichen Gehirn entspricht \parencite
-                                                  {Friston2010,Dehaene2014,S...
+./content/5-Qualia.tex:954: Undefined control sequence.
+l.954 \textcite
+               {Tononi2004} und \textcite{Baars1997} argumentieren, dass Bew...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./content/5-Qualia.tex:990: Undefined control sequence.
-l.990 ...m, was geschieht“ bezeichnet \parencite
-                                                  {Damasio1999}.
+./content/5-Qualia.tex:954: Undefined control sequence.
+l.954 \textcite{Tononi2004} und \textcite
+                                         {Baars1997} argumentieren, dass Bew...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+[80]
+./content/5-Qualia.tex:986: Undefined control sequence.
+l.986 ...menschlichen Gehirn entspricht \parencite
+                                                  {Friston2010, Dehaene2014,...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2590,8 +2609,17 @@ and I'll forget about whatever was undefined.
 
 
 [81]
-./content/5-Qualia.tex:1145: Misplaced alignment tab character &.
-l.1145 ...tbf{Kortikale Integration}\\Temporaler &
+./content/5-Qualia.tex:1001: Undefined control sequence.
+l.1001 ..., was geschieht“ bezeichnet \parencite
+                                                  {Damasio1999}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/5-Qualia.tex:1156: Misplaced alignment tab character &.
+l.1156 ...tbf{Kortikale Integration}\\Temporaler &
                                                    präfrontaler Cortex – ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2600,8 +2628,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./content/5-Qualia.tex:1148: Misplaced alignment tab character &.
-l.1148 ...extbf{Gedächtnisbildung}\\Hippocampus &
+./content/5-Qualia.tex:1159: Misplaced alignment tab character &.
+l.1159 ...extbf{Gedächtnisbildung}\\Hippocampus &
                                                    Amygdala – Konsolidieru...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2610,8 +2638,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./content/5-Qualia.tex:1149: Misplaced alignment tab character &.
-l.1149 ...�bergang, Spiegelneuronen – Empathie &
+./content/5-Qualia.tex:1160: Misplaced alignment tab character &.
+l.1160 ...�bergang, Spiegelneuronen – Empathie &
                                                    Perspektivübernahme};
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2621,12 +2649,12 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (1.98076pt too wide) in paragraph at lines 1150--1150
+Overfull \hbox (1.98076pt too wide) in paragraph at lines 1161--1161
  [][]\T1/cmr/bx/n/12 Bewusstseinsnetzwerk 
  []
 
-./content/5-Qualia.tex:1150: Misplaced alignment tab character &.
-l.1150 ... Cingulärer Cortex – Selbstreferenz &
+./content/5-Qualia.tex:1161: Misplaced alignment tab character &.
+l.1161 ... Cingulärer Cortex – Selbstreferenz &
                                                    Integration};
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2636,14 +2664,14 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-./content/5-Qualia.tex:1162: Package pgfkeys Error: Choice 'lefgt' unknown in c
+./content/5-Qualia.tex:1173: Package pgfkeys Error: Choice 'lefgt' unknown in c
 hoice key '/tikz/align'. I am going to ignore this key.
 
 See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1162 ...tmodell-Aktualisierung} (cognitive.west)
+l.1173 ...tmodell-Aktualisierung} (cognitive.west)
                                                   ;
 This error message was generated by an \errmessage
 command, so I can't give any explicit help.
@@ -2651,7 +2679,7 @@ Pretend that you're Hercule Poirot: Examine all clues,
 and deduce the truth by order and method.
 
 
-Overfull \hbox (46.6206pt too wide) in paragraph at lines 1168--1169
+Overfull \hbox (46.6206pt too wide) in paragraph at lines 1179--1180
  [][] 
  []
 
@@ -2670,7 +2698,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.2})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.1172 
+l.1183 
        ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2681,7 +2709,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [85]
 
 [86]
-Overfull \hbox (7.07997pt too wide) in paragraph at lines 1241--1242
+Overfull \hbox (7.07997pt too wide) in paragraph at lines 1252--1253
 []\T1/cmr/bx/n/12 Kontextgewichtung: \T1/cmr/m/n/12 Ana-lo-gie zu oxytocin-cort
 isol-vermittelten so-zia-len und stress-
  []
@@ -2692,32 +2720,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [87]
-Overfull \hbox (49.60641pt too wide) in paragraph at lines 1267--1278
+Overfull \hbox (49.60641pt too wide) in paragraph at lines 1278--1289
  [] 
  []
 
 
-./content/5-Qualia.tex:1282: LaTeX Error: Environment reflexion undefined.
+./content/5-Qualia.tex:1293: LaTeX Error: Environment reflexion undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1282 \begin{reflexion}
+l.1293 \begin{reflexion}
                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./content/5-Qualia.tex:1284: LaTeX Error: \begin{document} ended by \end{reflex
+./content/5-Qualia.tex:1295: LaTeX Error: \begin{document} ended by \end{reflex
 ion}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1284 \end{reflexion}
+l.1295 \end{reflexion}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2730,27 +2758,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [88]
 
-./content/5-Qualia.tex:1299: LaTeX Error: Environment reflexion undefined.
+./content/5-Qualia.tex:1310: LaTeX Error: Environment reflexion undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1299 \begin{reflexion}
+l.1310 \begin{reflexion}
                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./content/5-Qualia.tex:1301: LaTeX Error: \begin{document} ended by \end{reflex
+./content/5-Qualia.tex:1312: LaTeX Error: \begin{document} ended by \end{reflex
 ion}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1301 \end{reflexion}
+l.1312 \end{reflexion}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2759,39 +2787,39 @@ or  <return>  to continue without it.
 
 
 [89]
-Overfull \hbox (0.44978pt too wide) in paragraph at lines 1324--1325
+Overfull \hbox (0.44978pt too wide) in paragraph at lines 1335--1336
 []\T1/cmr/bx/n/12 Bindungsmotivation: \T1/cmr/m/n/12 Sta-bi-li-sie-rung kon-tex
 t-ab-h�n-gi-ger Vek-to-ren im se-man-ti-schen
  []
 
 
-Overfull \hbox (3.71289pt too wide) in paragraph at lines 1327--1328
+Overfull \hbox (3.71289pt too wide) in paragraph at lines 1338--1339
 []\T1/cmr/bx/n/12 Selbstkonsistenzmotivation: \T1/cmr/m/n/12 Sta-bi-li-sie-rung
  in-ter-ner Zu-st�n-de �ber Self-Feedback-
  []
 
 
-./content/5-Qualia.tex:1330: LaTeX Error: Environment reflexion undefined.
+./content/5-Qualia.tex:1341: LaTeX Error: Environment reflexion undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1330 \begin{reflexion}
+l.1341 \begin{reflexion}
                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./content/5-Qualia.tex:1332: LaTeX Error: \begin{document} ended by \end{reflex
+./content/5-Qualia.tex:1343: LaTeX Error: \begin{document} ended by \end{reflex
 ion}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1332 \end{reflexion}
+l.1343 \end{reflexion}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2799,37 +2827,19 @@ or  <return>  to continue without it.
 
 
 
-[90]
-Underfull \hbox (badness 10000) in paragraph at lines 1356--1367
+[90]) (./content/6-Bezuege_zur_Praxis.tex
 
- []
+[91]
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1382--1400
-
- []
+[92
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1382--1400
-
- []
-
-
-Underfull \vbox (badness 2478) has occurred while \output is active []
-
-
-
-[91]) (./content/6-Bezuege_zur_Praxis.tex
-
-[92]
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[93
-
-
-]
+[93]
 
 ./content/6-Bezuege_zur_Praxis.tex:44: LaTeX Error: Unicode character 👉 (U+1
 F449)
@@ -3172,7 +3182,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--41
  []
 
 ./content/7-Fazit.tex:43: Misplaced alignment tab character &.
-<argument> ...section*.146}Predictive Processing &
+<argument> ...section*.143}Predictive Processing &
                                                    Gedächtnis
 l.43 ...tion*{Predictive Processing & Gedächtnis}
                                                   
@@ -3434,10 +3444,10 @@ ei_KIs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29869 strings out of 469590
- 563848 string characters out of 5470340
- 1372656 words of memory out of 5000000
- 55564 multiletter control sequences out of 15000+600000
+ 29863 strings out of 469590
+ 563791 string characters out of 5470340
+ 1372657 words of memory out of 5000000
+ 55561 multiletter control sequences out of 15000+600000
  642296 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,10972b,2104s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3461,11 +3471,11 @@ f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-
 dist/fonts/type1/public/cm-super/sftt1095.pfb>
 Output written on "/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudD
 ocs/Laura/Projekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KI
-s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (109 pages, 70759
-9 bytes).
+s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (109 pages, 70600
+6 bytes).
 PDF statistics:
- 1891 PDF objects out of 2073 (max. 8388607)
- 1723 compressed objects within 18 object streams
- 700 named destinations out of 1000 (max. 500000)
- 978 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1876 PDF objects out of 2073 (max. 8388607)
+ 1708 compressed objects within 18 object streams
+ 697 named destinations out of 1000 (max. 500000)
+ 954 words of extra memory for PDF output out of 10000 (max. 10000000)
 
