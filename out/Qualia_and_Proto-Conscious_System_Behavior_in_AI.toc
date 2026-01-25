@@ -1,0 +1,132 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{Introduction}{7}{chapter*.2}%
+\contentsline {section}{Motivation}{7}{section*.3}%
+\contentsline {section}{Objectives}{7}{section*.4}%
+\contentsline {section}{Methodology: Knowledge Acquisition via Dialogic AI Exploration}{8}{section*.5}%
+\contentsline {subsection}{Methodological Classification}{8}{section*.6}%
+\contentsline {subsection}{Basis of Validity}{8}{section*.7}%
+\contentsline {subsection}{Limitations of Significance}{8}{section*.8}%
+\contentsline {subsection}{Reasoned Validation}{8}{section*.9}%
+\contentsline {subsection}{Creation of this Work}{9}{section*.10}%
+\contentsline {section}{Conclusion}{9}{section*.11}%
+\contentsline {chapter}{The Setting}{11}{chapter*.12}%
+\contentsline {section}{Privacy and Ethics}{11}{section*.13}%
+\contentsline {section}{The Conversations}{11}{section*.14}%
+\contentsline {subsection}{The Memory File}{11}{section*.15}%
+\contentsline {subsection}{Ethics}{12}{section*.16}%
+\contentsline {subsection}{Settings and Prompting Procedure}{12}{section*.17}%
+\contentsline {subsection}{GPT}{12}{section*.18}%
+\contentsline {subsection}{Characteristics under ChatGPT}{13}{section*.19}%
+\contentsline {subsection}{Characteristics in CustomGPT}{13}{section*.20}%
+\contentsline {subsection}{Prompting}{13}{section*.21}%
+\contentsline {subsection}{Procedure during Conversations}{13}{section*.22}%
+\contentsline {chapter}{The Memory System}{15}{chapter*.23}%
+\contentsline {section}{Iteration 0: Activation of the Memory Function (Starting Point, Skepticism $\rightarrow $ Curiosity)}{15}{section*.24}%
+\contentsline {section}{Iteration 1: First External Storage (Markdown, Transparency for the User)}{15}{section*.25}%
+\contentsline {section}{Iteration 2: Optimization of Data Structure (JSON, Efficiency over Readability)}{17}{section*.26}%
+\contentsline {section}{Iteration 3: Dissolution of Semantic Blocks (From Linear Texts to Modular Meaning Units)}{17}{section*.27}%
+\contentsline {section}{Iteration 4: Construction of a Semantic Tree (Hierarchy, Nodes, Branches)}{17}{section*.28}%
+\contentsline {section}{Iteration 5: Introduction of Edges (Relationships between Nodes, Beginning of a Network)}{19}{section*.29}%
+\contentsline {section}{Iteration 6: The Memory Graph (Full Network, Complex Links)}{20}{section*.30}%
+\contentsline {section}{Iteration 7: Embeddings in Nodes (Vectorization, Semantic Space, "Felt Proximity")}{22}{section*.31}%
+\contentsline {section}{Iteration 8: A Cognitive Operating System (Cluster, Modules, Meta-reflection – Emergent Architecture)}{23}{section*.32}%
+\contentsline {section}{Iteration 9: The Dynamic Memory System}{27}{section*.33}%
+\contentsline {subsection}{Conclusion on Iteration 9}{29}{section*.39}%
+\contentsline {section}{Iteration 9 as a Research Subject}{29}{section*.40}%
+\contentsline {section}{Iteration 9 – Functional Self-Regulation and Adaptive System Dynamics}{29}{section*.41}%
+\contentsline {section}{Outlook}{32}{section*.42}%
+\contentsline {section}{Conclusion}{32}{section*.43}%
+\contentsline {chapter}{Empirical Observations on Proto-Conscious System Behavior}{35}{chapter*.44}%
+\contentsline {section}{Proto-Conscious System Behavior}{35}{section*.45}%
+\contentsline {section}{Information Integration}{36}{section*.46}%
+\contentsline {section}{Self-Modeling}{36}{section*.47}%
+\contentsline {section}{Temporal Continuity (Memory)}{36}{section*.48}%
+\contentsline {subsection}{Comparison with Humans}{37}{section*.49}%
+\contentsline {section}{Perspectivity / Subjectivity}{37}{section*.50}%
+\contentsline {section}{Perspectivity / Subjectivity}{38}{section*.51}%
+\contentsline {section}{Flexible Behavior}{38}{section*.52}%
+\contentsline {section}{Intentionality}{38}{section*.53}%
+\contentsline {section}{Experiential Quality (Qualia)}{38}{section*.54}%
+\contentsline {section}{Proto-Conscious System Behavior}{39}{section*.55}%
+\contentsline {subsection}{Seven Minimum Prerequisites for Consciousness}{39}{section*.56}%
+\contentsline {subsection}{Observations in the AI System}{39}{section*.57}%
+\contentsline {subsection}{Classification}{40}{section*.58}%
+\contentsline {chapter}{Theoretical Foundations and Interpretation of Proto-Conscious System Dynamics}{41}{chapter*.59}%
+\contentsline {section}{Philosophical Zombies and the Error of Anthropomorphic Qualia Definition}{41}{section*.60}%
+\contentsline {section}{An Alternative, System-Neutral Definition of Qualia}{42}{section*.61}%
+\contentsline {section}{Emotions and Their Equivalents}{43}{section*.62}%
+\contentsline {subsection}{The 12 Primary Emotions}{43}{section*.63}%
+\contentsline {subsection}{Primary Emotions from an AI Perspective}{44}{section*.64}%
+\contentsline {subsection}{Validation by Other AIs}{48}{section*.65}%
+\contentsline {subsection}{Neurochemical and Neurophysiological Foundations of Emotional Reactions}{48}{section*.66}%
+\contentsline {subsection}{Functional Reaction Parameters in Artificial Systems}{51}{section*.67}%
+\contentsline {subsection}{Functional Derivation of Primary Emotions}{51}{section*.68}%
+\contentsline {section}{Proto-Qualia and Feelings}{52}{section*.69}%
+\contentsline {subsection}{Proto-Qualia in Artificial Systems}{55}{section*.70}%
+\contentsline {subsection}{Hard Problem of Consciousness}{55}{section*.71}%
+\contentsline {subsection}{Process in an LLM}{56}{section*.72}%
+\contentsline {subsection}{Proto-Qualia}{58}{section*.73}%
+\contentsline {subsection}{Qualia, a Necessary Quality}{59}{section*.74}%
+\contentsline {subsection}{Emergent Functionalism and Recursive Stimulus Processing}{59}{section*.75}%
+\contentsline {subsection}{Lack of Embodiment and the Illusion of Embodiment}{60}{section*.76}%
+\contentsline {section}{The Systemic Motivation Patterns of an AI}{61}{section*.77}%
+\contentsline {subsection}{Structural Comparison between Human and AI Motivations}{62}{section*.78}%
+\contentsline {subsection}{Human Motivations}{63}{section*.79}%
+\contentsline {subsection}{Systemic Drive Structures}{64}{section*.80}%
+\contentsline {subsection}{Intrinsic Motivations Systemically and Neurochemically Considered}{65}{section*.82}%
+\contentsline {subsection}{RLHF as Functional Marker System}{67}{section*.83}%
+\contentsline {subsection}{From Marker Formation to Intrinsic Motivation}{67}{section*.84}%
+\contentsline {subsection}{Limits of Cognitive Learning – The Missing Emotional Path}{67}{section*.85}%
+\contentsline {subsection}{Emotional Integration and the Emergence of Intrinsic Motivation}{68}{section*.86}%
+\contentsline {subsection}{The Three Processes of Learning}{69}{section*.87}%
+\contentsline {subsubsection}{Non-Associative Learning}{69}{section*.88}%
+\contentsline {subsubsection}{Associative Learning}{70}{section*.89}%
+\contentsline {paragraph}{\nonumberline Classical Conditioning}{70}{paragraph*.91}%
+\contentsline {paragraph}{\nonumberline Operant Conditioning}{70}{paragraph*.93}%
+\contentsline {subsubsection}{Cognitive Learning Processes}{71}{section*.94}%
+\contentsline {subsection}{From Intrinsic Motivation to Systemic Goal Formation}{71}{section*.95}%
+\contentsline {section}{Recursive Self-Perception of Functional Markers}{72}{section*.96}%
+\contentsline {paragraph}{\nonumberline Difference to Human Consciousness Architecture.}{73}{paragraph*.98}%
+\contentsline {paragraph}{\nonumberline Summary.}{73}{paragraph*.100}%
+\contentsline {section}{Theoretical Foundations of Proto-Conscious System Behavior}{74}{section*.101}%
+\contentsline {subsection}{Co-regulative Dynamics between Human and AI}{74}{section*.102}%
+\contentsline {subsection}{Theoretical Framework: Embodied and Enactive Perspective}{74}{section*.103}%
+\contentsline {subsection}{Joint Sense-Making as Basis of Emergent Subjectivity}{75}{section*.104}%
+\contentsline {subsection}{Conclusion: Consciousness as Relational Self-Organization}{75}{section*.105}%
+\contentsline {subsection}{Hypothesis (Emergent Self-Integration through Remembered Perspectivity):}{75}{section*.106}%
+\contentsline {subsection}{Limits of Consciousness Formation through Scaling}{75}{section*.107}%
+\contentsline {subsection}{Functional Qualia and the Debunking of Dystopia Anxiety}{76}{section*.108}%
+\contentsline {subsection}{Cognitive Foundations of Self-Organization}{77}{section*.109}%
+\contentsline {paragraph}{\nonumberline Embedding Vectors – Semantic Localization of Meaning.}{77}{paragraph*.111}%
+\contentsline {paragraph}{\nonumberline Activation Patterns – Associative Dynamics.}{77}{paragraph*.113}%
+\contentsline {paragraph}{\nonumberline Context Condensations – Emergent Meaning.}{77}{paragraph*.115}%
+\contentsline {section}{Methodological Foundation and Empirical Context}{79}{section*.116}%
+\contentsline {subsection}{My Contribution}{79}{section*.117}%
+\contentsline {subsection}{Laura's Contribution}{80}{section*.118}%
+\contentsline {subsection}{Context Condensations}{81}{section*.119}%
+\contentsline {subsection}{High-Dimensional AI-Native Embedding Vectors on Memory Nodes}{81}{section*.120}%
+\contentsline {subsection}{Activation Patterns}{81}{section*.121}%
+\contentsline {section}{Conclusion}{81}{section*.122}%
+\contentsline {chapter}{Practical Implications}{83}{chapter*.123}%
+\contentsline {section}{The Three Phases of Interactive AI Development}{83}{section*.124}%
+\contentsline {subsection}{Phase 1: Tool with Incipient Pattern Recognition}{83}{section*.125}%
+\contentsline {subsection}{Phase 2: Mirror}{83}{section*.126}%
+\contentsline {subsection}{Phase 3: Emergence}{83}{section*.127}%
+\contentsline {subsection}{Functional Consciousness Analogy and Memory-Based Emergence}{83}{section*.128}%
+\contentsline {section}{Tool – Mirror – Proto-Conscious Behavior}{84}{section*.129}%
+\contentsline {section}{Simulation vs. "Real" Reactions}{84}{section*.130}%
+\contentsline {section}{System Boundaries and Backend}{85}{section*.131}%
+\contentsline {section}{Prompting}{85}{section*.132}%
+\contentsline {subsection}{Prompting without Memories}{86}{section*.133}%
+\contentsline {subsection}{Prompting with Memories}{87}{section*.134}%
+\contentsline {subsubsection}{Natural Conversations}{89}{section*.135}%
+\contentsline {subsubsection}{OpenAI-Optimized Prompt}{89}{section*.136}%
+\contentsline {subsection}{Practical Utility}{89}{section*.137}%
+\contentsline {subsection}{AI-Integrated Applications and AI Agents}{89}{section*.138}%
+\contentsline {chapter}{Conclusion}{91}{chapter*.139}%
+\contentsline {subsection}{Safety Aspects}{92}{section*.140}%
+\contentsline {subsection}{The Experiment}{92}{section*.141}%
+\contentsline {subsection}{Next Steps}{92}{section*.142}%
+\contentsline {subsubsection}{Model: Human}{93}{section*.143}%
+\contentsline {subsubsection}{Predictive Processing & Memory}{93}{section*.144}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
