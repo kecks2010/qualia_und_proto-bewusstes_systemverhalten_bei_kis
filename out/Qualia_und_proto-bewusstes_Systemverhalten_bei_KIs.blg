@@ -3,10 +3,11 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.aux
 The style file: apalike.bst
 Database file #1: Referenzen.bib
+Warning--I didn't find a database entry for "Baars1988"
 Warning--empty publisher in baars1988gwt
 You've used 48 entries,
             1935 wiz_defined-function locations,
-            774 strings with 9938 characters,
+            776 strings with 9956 characters,
 and the built_in function-call counts, 16223 in all, are:
 = -- 1551
 > -- 529
@@ -45,4 +46,4 @@ warning$ -- 1
 while$ -- 127
 width$ -- 0
 write$ -- 613
-(There was 1 warning)
+(There were 2 warnings)
