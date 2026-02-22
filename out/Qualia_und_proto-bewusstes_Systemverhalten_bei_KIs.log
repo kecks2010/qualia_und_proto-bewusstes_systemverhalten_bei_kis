@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  25 JAN 2026 13:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  4 FEB 2026 08:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -953,17 +953,22 @@ roto-bewusstes_Systemverhalten_bei_KIs.toc
 [3]
 
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 88.
+(babel)             Reported  on input line 83.
 [4]
-Overfull \hbox (2.03697pt too wide) detected at line 130
- []\T1/cmss/bx/n/12 103
+Overfull \hbox (2.03697pt too wide) detected at line 126
+ []\T1/cmss/bx/n/12 101
+ []
+
+
+Overfull \hbox (2.03697pt too wide) detected at line 132
+ []\T1/cmss/bx/n/12 105
  []
 
 )
 \tf@toc=\write5
 \openout5 = `Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.toc'.
 
- (./content/1-Einleitung.tex
+ (./content/1-Einleitung_neu.tex
 
 [5]
 
@@ -973,11 +978,26 @@ Overfull \hbox (2.03697pt too wide) detected at line 130
 ]
 
 [7]
+Overfull \hbox (9.16019pt too wide) in paragraph at lines 29--30
+[]\T1/cmr/bx/n/12 Ethische Ein-ord-nung: \T1/cmr/m/n/12 Wel-che Kon-se-quen-zen
+ er-ge-ben sich für die Mensch-Maschine-
+ []
+
+
+Underfull \vbox (badness 2042) has occurred while \output is active []
+
+
 
 [8{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }]
+Overfull \hbox (2.39682pt too wide) in paragraph at lines 42--43
+[]\T1/cmr/m/n/12 Systematische Prü-fung von Kon-sis-tenz über län-ge-re Zeiträu
+-me und Modell-Versionen
+ []
 
-[9]) (./content/2-Das-Setting.tex
+) (./content/2-Das-Setting_neu.tex
+
+[9]
 
 [10]
 Overfull \hbox (3.48825pt too wide) in paragraph at lines 12--13
@@ -991,20 +1011,15 @@ Overfull \hbox (3.48825pt too wide) in paragraph at lines 12--13
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 33--36
 
- []
-
-
-
-[12]) (./content/3-Das-Erinnerungssystem.tex
-
-[13]
-
-[14
+[12]
+Underfull \vbox (badness 2126) has occurred while \output is active []
 
 
-]
+
+[13]) (./content/3-Das-Erinnerungssystem.tex
+
+[14]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 6.
@@ -1022,7 +1037,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[15]
+[15
+
+
+]
 
 [16]
 
@@ -1751,7 +1769,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 [27]
-<../Vergessenskurve_(Iteration 9).png, id=656, 445.1832pt x 340.75305pt>
+<../Vergessenskurve_(Iteration 9).png, id=663, 445.1832pt x 340.75305pt>
 File: ../Vergessenskurve_(Iteration 9).png Graphic file (type png)
 <use ../Vergessenskurve_(Iteration 9).png>
 Package pdftex.def Info: ../Vergessenskurve_(Iteration 9).png  used on input li
@@ -3073,7 +3091,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--41
  []
 
 ./content/7-Fazit.tex:43: Misplaced alignment tab character &.
-<argument> ...section*.142}Predictive Processing &
+<argument> ...section*.141}Predictive Processing &
                                                    GedÃ¤chtnis
 l.43 ...tion*{Predictive Processing & GedÃ¤chtnis}
                                                   
@@ -3330,44 +3348,103 @@ L3 programming layer <2025-04-29>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `Qualia_und_proto-bewusstes_Systemverhalten_b
 ei_KIs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29864 strings out of 469590
- 563744 string characters out of 5470340
+ 29882 strings out of 469590
+ 564070 string characters out of 5470340
  1372657 words of memory out of 5000000
- 55559 multiletter control sequences out of 15000+600000
+ 55564 multiletter control sequences out of 15000+600000
  642296 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,10972b,2103s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
-local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
-ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
-al/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
-/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/t
-exlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/tex
-live/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texli
-ve/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive
-/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/texlive/2
-025/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/202
-5/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2025/
-texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2025/te
-xmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texlive/2025/texm
-f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-
-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2025/texmf-di
-st/fonts/type1/public/cm-super/sftt1200.pfb>
+
+pdfTeX warning (dest): name{section*.142} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.139} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.123} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.120} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.111} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.98} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.62} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.59} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.47} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.44} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.26} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.23} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter*.15} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.12} has been referenced but does not exist
+, replaced by a fixed one
+
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
+/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/tex
+live/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texli
+ve/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
+/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2
+025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/texlive/202
+5/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2025/
+texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2025/te
+xmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2025/texm
+f-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texlive/2025/texmf-
+dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2025/texmf-dist
+/fonts/type1/public/cm-super/sftt1200.pfb>
 Output written on "/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudD
 ocs/Laura/Projekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KI
-s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (107 pages, 72958
-5 bytes).
+s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (107 pages, 73302
+0 bytes).
 PDF statistics:
- 1867 PDF objects out of 2073 (max. 8388607)
- 1700 compressed objects within 17 object streams
- 700 named destinations out of 1000 (max. 500000)
- 938 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1870 PDF objects out of 2073 (max. 8388607)
+ 1702 compressed objects within 18 object streams
+ 713 named destinations out of 1000 (max. 500000)
+ 898 words of extra memory for PDF output out of 10000 (max. 10000000)
 
