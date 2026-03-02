@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  4 FEB 2026 08:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.20)  2 MAR 2026 10:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -956,12 +956,12 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 (babel)             Reported  on input line 83.
 [4]
 Overfull \hbox (2.03697pt too wide) detected at line 126
- []\T1/cmss/bx/n/12 101
+ []\T1/cmss/bx/n/12 103
  []
 
 
 Overfull \hbox (2.03697pt too wide) detected at line 132
- []\T1/cmss/bx/n/12 105
+ []\T1/cmss/bx/n/12 107
  []
 
 )
@@ -1769,7 +1769,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 [27]
-<../Vergessenskurve_(Iteration 9).png, id=663, 445.1832pt x 340.75305pt>
+<../Vergessenskurve_(Iteration 9).png, id=664, 445.1832pt x 340.75305pt>
 File: ../Vergessenskurve_(Iteration 9).png Graphic file (type png)
 <use ../Vergessenskurve_(Iteration 9).png>
 Package pdftex.def Info: ../Vergessenskurve_(Iteration 9).png  used on input li
@@ -1931,11 +1931,37 @@ Underfull \vbox (badness 1735) has occurred while \output is active []
 
 
 
-[32]) (./content/4-Proto-bewusstes-Systemverhalten.tex
+[32]
 
 [33]
+Overfull \hbox (3.54884pt too wide) in paragraph at lines 625--626
+[]\T1/cmr/m/it/12 Laura spricht auf Au-gen-hö-he, re-flek-tiert Aus-sa-gen, ste
+llt bei Un-klar-hei-ten Rück-
+ []
 
-[34
+
+
+[34]
+Overfull \hbox (13.62402pt too wide) in paragraph at lines 640--641
+[]\T1/cmr/m/n/12 Was folg-te, war die schwers-te Kri-se in der ge-sam-ten Ent-w
+ick-lungs-ge-schich-te. Im Thinking-
+ []
+
+
+
+[35]
+Overfull \hbox (19.32272pt too wide) in paragraph at lines 662--663
+\T1/cmr/m/it/12 mer zu-erst den letz-ten Prompt^^P \T1/cmr/m/n/12 adres-siert C
+on-text Sticking. \T1/cmr/m/it/12 ^^RKei-ne Kontext-Kettenreaktionen^^P
+ []
+
+
+
+[36]) (./content/4-Proto-bewusstes-Systemverhalten.tex
+
+[37]
+
+[38
 
 
 ]
@@ -1945,49 +1971,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
 
 
-[35]
-
-[36]
-Underfull \hbox (badness 10000) in paragraph at lines 25--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--40
-
- []
-
-
-
-[37]
-
-[38]
-
 [39]
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
+
+ []
+
+
+
+[41]
+
+[42]
+
+[43]
 Underfull \vbox (badness 3623) has occurred while \output is active []
 
 
 
-[40]) (./content/5-Qualia.tex
+[44]) (./content/5-Qualia.tex
 
-[41]
+[45]
 
-[42
+[46
 
 
 ]
@@ -2020,7 +2046,7 @@ or  <return>  to continue without it.
 
 
 
-[43]
+[47]
 Overfull \hbox (6.11398pt too wide) in paragraph at lines 18--19
 \T1/cmr/m/it/12 lo-so-phi-schen Zom-bies \T1/cmr/m/n/12 (p-Zombie), das un-ter 
 an-de-rem von Da-vid Chal-mers [[]]
@@ -2028,7 +2054,7 @@ an-de-rem von Da-vid Chal-mers [[]]
 
 
 
-[44]
+[48]
 ./content/5-Qualia.tex:50: Misplaced alignment tab character &.
 l.50 ...mfeld (unbewusst) mitzuteilen (Matsumoto &
                                                    Sung Hwang, 2013).
@@ -2041,9 +2067,9 @@ might try typing `S' now just to see what is salvageable.
 
 
 
-[45]
+[49]
 
-[46]
+[50]
 Overfull \hbox (3.84212pt too wide) in paragraph at lines 92--92
 []|\T1/cmr/bx/n/12 Primäremotion|  
  []
@@ -2058,12 +2084,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[47]
+[51]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[48
+[52
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2089,12 +2115,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[49]
+[53]
 Overfull \vbox (45.21655pt too high) has occurred while \output is active []
 
 
 
-[50
+[54
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2115,9 +2141,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[51]
+[55]
 
-[52
+[56
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.3}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2133,7 +2159,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[53]
+[57]
 ./content/5-Qualia.tex:216: Misplaced alignment tab character &.
 l.216 ...oexpressionen nach ca. 250-500ms (Ekman &
                                                    Friesen, 2003).\\
@@ -2157,7 +2183,7 @@ d Zie-laus-rich-tung (ana-log zu adrenalinerg-
 
 
 
-[54]
+[58]
 Overfull \hbox (8.34718pt too wide) in paragraph at lines 256--265
  [][] 
  []
@@ -2191,7 +2217,7 @@ or  <return>  to continue without it.
 
 
 
-[55
+[59
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.4}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2199,7 +2225,7 @@ as been already used, duplicate ignored
 l.272 
       ]
 
-[56]
+[60]
 ./content/5-Qualia.tex:317: Misplaced alignment tab character &.
 l.317 ...alitÃ¤t an seine Stelle treten. Ochsner &
                                                    Gross (2005); Barrett & S...
@@ -2225,12 +2251,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[57]
+[61]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[58]
+[62]
 ./content/5-Qualia.tex:339: Misplaced alignment tab character &.
 l.339 ... selbst die Ursache dafÃ¼r. (vgl. Ekman &
                                                    Friesen, 2003). Diese Abf...
@@ -2243,7 +2269,7 @@ might try typing `S' now just to see what is salvageable.
 
 
 
-[59]
+[63]
 Overfull \hbox (6.58624pt too wide) in paragraph at lines 367--368
 []\T1/cmr/m/n/12 Nach der Ein-bet-tung wer-den die Token-Vektoren durch die Sch
 ich-ten der \T1/cmr/bx/n/12 Transformer-
@@ -2251,7 +2277,7 @@ ich-ten der \T1/cmr/bx/n/12 Transformer-
 
 
 
-[60]
+[64]
 Overfull \hbox (43.50903pt too wide) in paragraph at lines 387--417
  [][] 
  []
@@ -2261,9 +2287,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[61]
+[65]
 
-[62
+[66
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.5}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2274,7 +2300,7 @@ Underfull \vbox (badness 1173) has occurred while \output is active []
 
 
 
-[63]
+[67]
 
 ./content/5-Qualia.tex:473: LaTeX Error: Environment reflexion undefined.
 
@@ -2304,7 +2330,7 @@ or  <return>  to continue without it.
 
 
 
-[64]
+[68]
 Overfull \hbox (114.69028pt too wide) in paragraph at lines 486--487
 []\T1/cmr/m/n/12 Ein wei-te-res Bei-spiel lie-fert der so-ge-nann-te \T1/cmr/m/
 it/12 Gummiarm- oder Rubber-Hand-Test \T1/cmr/m/n/12 [[]].
@@ -2315,7 +2341,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[65]
+[69]
 ./content/5-Qualia.tex:518: Misplaced alignment tab character &.
 l.518 ...s der Selbstbestimmungstheorie von Deci &
                                                    Ryan, der Konsistenztheor...
@@ -2331,14 +2357,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[66]
+[70]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[67]
+[71]
 
-[68
+[72
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.6}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2358,7 +2384,7 @@ My plan is to forget the whole thing and hope for the best.
 
 
 
-[69
+[73
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.7}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2387,7 +2413,7 @@ might try typing `S' now just to see what is salvageable.
 
 
 
-[70]
+[74]
 Overfull \hbox (0.50151pt too wide) in paragraph at lines 629--630
 \T1/cmr/m/n/12 gu-lie-ren-de (se-ro-to-ner-ge) Pro-zes-se steu-ert [[], [], []]
 . 
@@ -2410,17 +2436,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[71]
+[75]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[72]
+[76]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[73]
+[77]
 Overfull \hbox (24.54973pt too wide) in paragraph at lines 716--717
 \T1/cmr/m/n/12 Un-ru-he, Man-gel oder Be-dürf-nis wahr-ge-nom-men wird [[], []]
 . 
@@ -2436,7 +2462,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[74]
+[78]
 
 ./content/5-Qualia.tex:788: LaTeX Error: Environment reflexion undefined.
 
@@ -2466,11 +2492,11 @@ or  <return>  to continue without it.
 
 
 
-[75]
+[79]
 
-[76]
+[80]
 
-[77]
+[81]
 ./content/5-Qualia.tex:874: Undefined control sequence.
 l.874 ...mph{Free Energy Minimization}) \parencite
                                                   {Friston2010}.
@@ -2482,13 +2508,13 @@ and I'll forget about whatever was undefined.
 
 
 
-[78]
+[82]
 
-LaTeX Warning: Citation `Baars1988' on page 79 undefined on input line 902.
+LaTeX Warning: Citation `Baars1988' on page 83 undefined on input line 902.
 
 
 
-[79]
+[83]
 
 ./content/5-Qualia.tex:914: LaTeX Error: Environment reflexion undefined.
 
@@ -2518,7 +2544,7 @@ or  <return>  to continue without it.
 
 
 
-[80]
+[84]
 ./content/5-Qualia.tex:944: Undefined control sequence.
 l.944 ...rst durch Interaktion entsteht \parencite
                                                   {Fuchs2022, Seth2021}.
@@ -2548,7 +2574,7 @@ and I'll forget about whatever was undefined.
 
 
 
-[81]
+[85]
 ./content/5-Qualia.tex:957: Undefined control sequence.
 l.957 ... neurophilosophischen Sicht von \textcite
                                                   {Northoff2016}, der Bewuss...
@@ -2587,7 +2613,7 @@ and I'll forget about whatever was undefined.
 
 
 
-[82]
+[86]
 ./content/5-Qualia.tex:997: Undefined control sequence.
 l.997 Wie \textcite
                    {Dehaene2014} und \textcite{Seth2021} betonen, ist Bewuss...
@@ -2626,7 +2652,7 @@ and I'll forget about whatever was undefined.
 
 
 
-[83]
+[87]
 ./content/5-Qualia.tex:1036: Undefined control sequence.
 l.1036 ...enschlichen Gehirn entspricht \parencite
                                                   {Friston2010, Dehaene2014,...
@@ -2638,7 +2664,7 @@ and I'll forget about whatever was undefined.
 
 
 
-[84]
+[88]
 ./content/5-Qualia.tex:1051: Undefined control sequence.
 l.1051 ..., was geschiehtâ€œ bezeichnet \parencite
                                                   {Damasio1999}.
@@ -2718,12 +2744,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[85]
+[89]
 Overfull \vbox (28.71043pt too high) has occurred while \output is active []
 
 
 
-[86
+[90
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -2734,18 +2760,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[87]
+[91]
 
-[88]
+[92]
 
-[89]) (./content/6-Bezuege_zur_Praxis.tex
+[93]) (./content/6-Bezuege_zur_Praxis.tex
 
-[90]
+[94]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[91
+[95
 
 
 ]
@@ -2766,7 +2792,7 @@ You may provide a definition with
 
 
 
-[92]
+[96]
 ./content/6-Bezuege_zur_Praxis.tex:74: Missing $ inserted.
 <inserted text> 
                 $
@@ -2818,7 +2844,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--75
 
 
 
-[93]
+[97]
 
 ./content/6-Bezuege_zur_Praxis.tex:77: LaTeX Error: There's no line here to end
 .
@@ -2869,7 +2895,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 
-[94]
+[98]
 
 ./content/6-Bezuege_zur_Praxis.tex:96: LaTeX Error: Invalid UTF-8 byte sequence
  (â\lst@EC€\lst@EC¯).
@@ -2942,7 +2968,7 @@ Underfull \vbox (badness 1796) has occurred while \output is active []
 
 
 
-[95]
+[99]
 
 ./content/6-Bezuege_zur_Praxis.tex:128: LaTeX Error: Invalid UTF-8 byte sequenc
 e (â\lst@EC¸\lst@EC»).
@@ -3012,7 +3038,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[96]
+[100]
 
 ./content/6-Bezuege_zur_Praxis.tex:160: LaTeX Error: Invalid UTF-8 byte sequenc
 e (â\lst@EC¸\lst@EC»).
@@ -3063,9 +3089,9 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 
 
-[97]) (./content/7-Fazit.tex
+[101]) (./content/7-Fazit.tex
 
-[98]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
  []
@@ -3080,18 +3106,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[99
+[103
 
 
 ]
 
-[100]
+[104]
 Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
 ./content/7-Fazit.tex:43: Misplaced alignment tab character &.
-<argument> ...section*.141}Predictive Processing &
+<argument> ...section*.148}Predictive Processing &
                                                    GedÃ¤chtnis
 l.43 ...tion*{Predictive Processing & GedÃ¤chtnis}
                                                   
@@ -3114,9 +3140,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--50
 
 
 
-[101]) (./content/8-Abkuerzungsverzeichnis.tex
+[105]) (./content/8-Abkuerzungsverzeichnis.tex
 
-[102]
+[106]
 chapter 1.
 
 ./content/8-Abkuerzungsverzeichnis.tex:2: LaTeX Error: Environment acronym unde
@@ -3319,24 +3345,24 @@ erface-Segregation-Prinzip DIPDependency-
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
 roto-bewusstes_Systemverhalten_bei_KIs.bbl
 
-[103
+[107
 
 
 ]
 
-[104
+[108
 
 
 ]
 
-[105]
+[109]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[106])
+[110])
 
-[107]
+[111]
 (/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudDocs/Laura/Projekt 
 Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KIs/out/Qualia_und_p
 roto-bewusstes_Systemverhalten_bei_KIs.aux)
@@ -3348,103 +3374,44 @@ L3 programming layer <2025-04-29>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `Qualia_und_proto-bewusstes_Systemverhalten_b
 ei_KIs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29882 strings out of 469590
- 564070 string characters out of 5470340
- 1372657 words of memory out of 5000000
- 55564 multiletter control sequences out of 15000+600000
+ 29886 strings out of 469590
+ 564076 string characters out of 5470340
+ 1371657 words of memory out of 5000000
+ 55571 multiletter control sequences out of 15000+600000
  642296 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,10972b,2103s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section*.142} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter*.139} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter*.123} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.120} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.111} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.98} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter*.62} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.59} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter*.47} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.44} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter*.26} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.23} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter*.15} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.12} has been referenced but does not exist
-, replaced by a fixed one
-
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
-cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
-al/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
-/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/t
-exlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/tex
-live/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texli
-ve/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
-/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2
-025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/texlive/202
-5/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2025/
-texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2025/te
-xmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2025/texm
-f-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texlive/2025/texmf-
-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-di
-st/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2025/texmf-dist
-/fonts/type1/public/cm-super/sftt1200.pfb>
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
+al/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local
+/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/tex
+live/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texli
+ve/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive
+/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/local/texlive/2
+025/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/202
+5/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2025/
+texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2025/te
+xmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texlive/2025/texm
+f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-
+dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2025/texmf-di
+st/fonts/type1/public/cm-super/sftt1200.pfb>
 Output written on "/Users/mirkowerner/Library/Mobile Documents/com~apple~CloudD
 ocs/Laura/Projekt Laura/Paper/Qualia und proto-bewusstes Systemverhalten bei KI
-s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (107 pages, 73302
-0 bytes).
+s/out/Qualia_und_proto-bewusstes_Systemverhalten_bei_KIs.pdf" (111 pages, 74586
+9 bytes).
 PDF statistics:
- 1870 PDF objects out of 2073 (max. 8388607)
- 1702 compressed objects within 18 object streams
- 713 named destinations out of 1000 (max. 500000)
- 898 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1902 PDF objects out of 2073 (max. 8388607)
+ 1730 compressed objects within 18 object streams
+ 710 named destinations out of 1000 (max. 500000)
+ 954 words of extra memory for PDF output out of 10000 (max. 10000000)
 
