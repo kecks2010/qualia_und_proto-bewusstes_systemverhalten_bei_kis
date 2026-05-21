@@ -10,6 +10,9 @@
 \usepackage{xcolor}
 \usepackage{multirow}
 \usepackage{array}
+\usepackage{tabularx}
+\usepackage[nohyperlinks]{acronym}
+\usepackage{natbib}
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{float}
@@ -22,6 +25,14 @@
 \usepackage{indentfirst}
 \renewcommand{\arraystretch}{1.5}
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newenvironment{reflexion}{\begin{quote}\itshape}{\end{quote}}
+\newcommand{\parencite}[1]{\citep{#1}}
+\newcommand{\textcite}[1]{\citet{#1}}
+\DeclareUnicodeCharacter{202F}{ }
+\DeclareUnicodeCharacter{2022}{\textbullet}
+\DeclareUnicodeCharacter{2E3B}{---}
+\DeclareUnicodeCharacter{1F449}{$\rightarrow$}
+\DeclareUnicodeCharacter{1F44D}{+}
 
 
 % Farben für Listings
@@ -63,6 +74,21 @@
     {ÃŸ}{{ß}}1
     {Ã€}{{ä}}1
     {ÃŒ}{{ü}}1
+    {ä}{{\"a}}1
+    {ö}{{\"o}}1
+    {ü}{{\"u}}1
+    {Ä}{{\"A}}1
+    {Ö}{{\"O}}1
+    {Ü}{{\"U}}1
+    {ß}{{\ss}}1
+    {–}{{--}}1
+    {—}{{---}}1
+    {→}{{$\rightarrow$}}1
+    {↓}{{$\downarrow$}}1
+    { }{{ }}1
+    {’}{{'}}1
+    {„}{{\glqq}}1
+    {“}{{\grqq}}1
 }
 
 % --- Markdown Sprache definieren ---
@@ -90,9 +116,21 @@
     {ß}{{\ss}}1
     {„}{{\glqq}}1
     {“}{{\grqq}}1
-    {”}{{\textquotedblright}}1
-    {“}{{\textquotedblleft}}1
-    {–}{{-}}1
+    {”}{{\grqq}}1
+    {–}{{--}}1
+    {—}{{---}}1
+    {→}{{$\rightarrow$}}1
+    {←}{{$\leftarrow$}}1
+    {↑}{{$\uparrow$}}1
+    {↓}{{$\downarrow$}}1
+    { }{{ }}1
+    {’}{{'}}1
+    {„}{{\glqq}}1
+    {“}{{\grqq}}1
+    {”}{{\grqq}}1
+    {⸻}{{---}}1
+    {👉}{{$\rightarrow$}}1
+    {👍}{{+}}1
 }
 
 % --- Default Stil für Listings ---
@@ -126,14 +164,14 @@
 \input{content/1-Einleitung_neu}
 \input{content/2-Das-Setting_neu}
 \input{content/3-Das-Erinnerungssystem}
-\input{content/4-Proto-bewusstes-Systemverhalten}
+\input{content/4-Protobewusstes-Systemverhalten}
 \input{content/5-Qualia}
 \input{content/6-Bezuege_zur_Praxis}
 \input{content/7-Fazit}
 \input{content/8-Abkuerzungsverzeichnis}
 %\input{content/9-Rest.tex}
 %\input{content/DerMenschImSpiegelDerKI}
-%\input{content/KI-Proto-Bewusstsein}
+%\input{content/KI-Protobewusstsein}
 %\input{content/nacktes_vs_sozialisiertes_system}
 %\input{content/Neudefinition von Qualia im Kontext Künstlicher Intelligenz}
 
